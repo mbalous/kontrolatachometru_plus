@@ -11,24 +11,35 @@ Browser extension that enhances [kontrolatachometru.cz](https://www.kontrolatach
 
 ## Installation
 
-### Chrome / Edge / Brave
+### Method 1: Pre-built standard releases (Easiest)
+
+You can download the latest automatically built versions directly:
+
+- [⬇️ Download for Chrome / Edge / Brave](https://nightly.link/mbalous/kontrolatachometru_plus/workflows/build.yml/main/kontrolatachometru-plus-chromium.zip)
+- [⬇️ Download for Firefox](https://nightly.link/mbalous/kontrolatachometru_plus/workflows/build.yml/main/kontrolatachometru-plus-firefox.zip)
+
+**Chrome / Edge / Brave:**
+1. Extract the downloaded `kontrolatachometru-plus-chromium.zip` file
+2. Open `chrome://extensions` (or `edge://extensions`)
+3. Enable **Developer mode** (toggle in top-right)
+4. Click **Load unpacked** and select the extracted folder
+
+**Firefox:**
+1. Extract the downloaded `kontrolatachometru-plus-firefox.zip` file
+2. Open `about:debugging#/runtime/this-firefox`
+3. Click **Load Temporary Add-on**
+4. Select `manifest.json` from the extracted folder
+
+Alternatively, you can always find the latest artifacts under the [GitHub Actions](https://github.com/mbalous/kontrolatachometru_plus/actions/workflows/build.yml) tab.
+
+### Method 2: Build from source
+
+**Chrome / Edge / Brave / Firefox**
 
 1. Download or clone this repository
 2. Install dependencies: `npm install`
 3. Build the extension: `npm run build`
-4. Open `chrome://extensions` (or `edge://extensions`)
-5. Enable **Developer mode** (toggle in top-right)
-6. Click **Load unpacked**
-7. Select the `dist` folder
-
-### Firefox
-
-1. Download or clone this repository
-2. Install dependencies: `npm install`
-3. Build the extension: `npm run build`
-4. Open `about:debugging#/runtime/this-firefox`
-5. Click **Load Temporary Add-on**
-6. Select `dist/manifest.json`
+4. Load the `dist` folder into your browser using the steps mentioned above (for Firefox, select `dist/manifest.json`).
 
 ## Usage
 
