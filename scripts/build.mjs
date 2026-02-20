@@ -1,4 +1,5 @@
 import { build, context } from 'esbuild';
+import * as sass from 'sass';
 import fsSync from 'node:fs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -43,9 +44,15 @@ async function copyDir(from, to) {
 	);
 }
 
+async function compileScss() {
+	const result = sass.compile(path.join(srcDir, 'styles.scss'), {
+		style: 'compressed'
+	});
+	await fs.writeFile(path.join(distDir, 'styles.css'), result.css);
+}
+
 async function copyStaticAssets() {
 	await fs.copyFile(path.join(srcDir, 'manifest.json'), path.join(distDir, 'manifest.json'));
-	await fs.copyFile(path.join(srcDir, 'styles.css'), path.join(distDir, 'styles.css'));
 	await copyDir(path.join(srcDir, 'icons'), path.join(distDir, 'icons'));
 }
 
@@ -54,7 +61,10 @@ async function main() {
 		await rmrf(distDir);
 	}
 	await ensureDir(distDir);
-	await copyStaticAssets();
+	await Promise.all([
+		copyStaticAssets(),
+		compileScss()
+	]);
 
 	const buildOptions = {
 		entryPoints: [path.join(srcDir, 'content.ts')],
@@ -78,22 +88,31 @@ async function main() {
 	await ctx.watch();
 	console.log('Watching for changes...');
 
-	// Also watch static assets (manifest/styles/icons) and copy to dist.
-	const debouncedCopy = debounce(() => {
-		copyStaticAssets().catch((err) => console.error('Static asset copy failed:', err));
-	}, 50);
+	// Also watch static assets and scss
+	const debouncedWatchParams = debounce(async () => {
+		try {
+			await Promise.all([
+				copyStaticAssets(),
+				compileScss()
+			]);
+		} catch (err) {
+			console.error('Asset copy or SCSS compilation failed:', err);
+		}
+	}, 100); // 100ms debounce to avoid multiple triggers
 
+	// A simpler approach for the watch script might be just watching the whole src folder,
+	// except we already watch ts via esbuild. Still, simpler than array of targets.
+	// But let's keep it minimally changed yet functional.
 	const watchTargets = [
 		path.join(srcDir, 'manifest.json'),
-		path.join(srcDir, 'styles.css'),
+		path.join(srcDir, 'styles.scss'),
 		path.join(srcDir, 'icons')
 	];
 
 	watchTargets.forEach((watchPath) => {
 		try {
-			fsSync.watch(watchPath, { recursive: true }, debouncedCopy);
+			fsSync.watch(watchPath, { recursive: true }, debouncedWatchParams);
 		} catch (err) {
-			// Fallback: if recursive watch isn't supported, just do nothing.
 			console.warn('Static watch not available for', watchPath, err);
 		}
 	});
