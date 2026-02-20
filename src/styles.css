@@ -3,7 +3,7 @@
   padding: 20px;
   background: #fff;
   border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   max-width: 900px;
 }
 
@@ -66,4 +66,8 @@
 
 .anomaly-warning strong {
   color: #d63384;
+}
+
+#inspectionTable td {
+  font-family: monospace;
 }
