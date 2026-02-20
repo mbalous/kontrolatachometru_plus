@@ -6,14 +6,24 @@
   "permissions": [],
   "browser_specific_settings": {
     "gecko": {
-      "id": "kontrolatachometru-plus@local"
+      "id": "kontrolatachometru-plus@local",
+      "data_collection_permissions": [
+        "none required"
+      ]
     }
   },
   "content_scripts": [
     {
-      "matches": ["*://www.kontrolatachometru.cz/*", "*://kontrolatachometru.cz/*"],
-      "js": ["content.js"],
-      "css": ["styles.css"],
+      "matches": [
+        "*://www.kontrolatachometru.cz/*",
+        "*://kontrolatachometru.cz/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "styles.css"
+      ],
       "run_at": "document_idle"
     }
   ],
