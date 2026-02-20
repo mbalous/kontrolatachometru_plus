@@ -1,0 +1,7289 @@
+[
+  {
+    "id": "110301",
+    "provozovatel": "Emitech s.r.o.",
+    "street": "Koněvova 411/143",
+    "town": "Praha",
+    "zip": "13000"
+  },
+  {
+    "id": "110302",
+    "provozovatel": "E2F2 s.r.o.",
+    "street": "Osiková 2688/2",
+    "town": "Praha",
+    "zip": "13000"
+  },
+  {
+    "id": "110401",
+    "provozovatel": "Tomáš Krejčí",
+    "street": "Lipenská 616",
+    "town": "Praha",
+    "zip": "14900"
+  },
+  {
+    "id": "110501",
+    "provozovatel": "Daimler Truck Česká republika s.r.o.",
+    "street": "Bavorská 2666/16",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "110502",
+    "provozovatel": "Autosprint Stodůlky s.r.o.",
+    "street": "Jeremiášova 947/16",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "110503",
+    "provozovatel": "AUTOTEST-EMISE MOTOL s.r.o.",
+    "street": "Plzeňská 305/215e",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "110601",
+    "provozovatel": "AUTO PAPOUŠEK s.r.o.",
+    "street": "Reinerova 811/5",
+    "town": "Praha",
+    "zip": "16300"
+  },
+  {
+    "id": "110801",
+    "provozovatel": "CZ MARTIN Oil s.r.o.",
+    "street": "Bešťákova 567/3",
+    "town": "Praha",
+    "zip": "18200"
+  },
+  {
+    "id": "110802",
+    "provozovatel": "Jan Holub",
+    "street": "K Ládví 925",
+    "town": "Praha",
+    "zip": "18000"
+  },
+  {
+    "id": "110901",
+    "provozovatel": "E2F2 s.r.o.",
+    "street": "Kostelecká ul., parc.č.756/48,756/49,756/50,15788",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "110902",
+    "provozovatel": "Kademis s.r.o.",
+    "street": "Stupská 9",
+    "town": "Praha 9- Kyje",
+    "zip": "19000"
+  },
+  {
+    "id": "110903",
+    "provozovatel": "Petr Bačák",
+    "street": "Nad rybníkem 4",
+    "town": "Praha",
+    "zip": "19012"
+  },
+  {
+    "id": "110904",
+    "provozovatel": "Antonín Indra STK,spol. s r.o.",
+    "street": "Chlumecká 765/6",
+    "town": "Praha",
+    "zip": "19819"
+  },
+  {
+    "id": "111001",
+    "provozovatel": "Jan Melmer",
+    "street": "Kutnohorská 312",
+    "town": "Praha",
+    "zip": "10900"
+  },
+  {
+    "id": "111002",
+    "provozovatel": "AUTORECAR s.r.o.",
+    "street": "Brigádníků 3067/6",
+    "town": "Praha",
+    "zip": "10000"
+  },
+  {
+    "id": "111003",
+    "provozovatel": "AUTO BASE s.r.o.",
+    "street": "K Hrušovu 292/4",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "120101",
+    "provozovatel": "DAVO CAR, s.r.o.",
+    "street": "Olbramovice",
+    "town": "Olbramovice 203",
+    "zip": "25901"
+  },
+  {
+    "id": "120301",
+    "provozovatel": "Měření 3D spol. s r.o.",
+    "street": "28. října 1503",
+    "town": "Kladno",
+    "zip": "27309"
+  },
+  {
+    "id": "120401",
+    "provozovatel": "Clever Cars s.r.o..",
+    "street": "Nebovidy 157",
+    "town": "Nebovidy",
+    "zip": "28002"
+  },
+  {
+    "id": "120402",
+    "provozovatel": "STK Zásmuky s.r.o.",
+    "street": "Na Pile 611",
+    "town": "Zásmuky",
+    "zip": "28144"
+  },
+  {
+    "id": "120403",
+    "provozovatel": "AUTO HÁJEK s.r.o.",
+    "street": "Hlavní 250",
+    "town": "Tuklaty",
+    "zip": "25082"
+  },
+  {
+    "id": "120404",
+    "provozovatel": "Vladimír Coubal",
+    "street": "Zengrova 131",
+    "town": "Kolín",
+    "zip": "28002"
+  },
+  {
+    "id": "120501",
+    "provozovatel": "Jaroslav Mašín",
+    "street": "Dobřeň 26",
+    "town": "Suchdol",
+    "zip": "28401"
+  },
+  {
+    "id": "120502",
+    "provozovatel": "U N I K O M, a.s.",
+    "street": "Hrnčířská 214",
+    "town": "Kutná Hora",
+    "zip": "28401"
+  },
+  {
+    "id": "120901",
+    "provozovatel": "Petr Kajuk",
+    "street": "V Zahradách 181",
+    "town": "Struhařov",
+    "zip": "25164"
+  },
+  {
+    "id": "120902",
+    "provozovatel": "1H Holding s.r.o.",
+    "street": "Široká 241/25",
+    "town": "Říčany",
+    "zip": "25101"
+  },
+  {
+    "id": "120903",
+    "provozovatel": "E3F3 s.r.o.",
+    "street": "Karla Lípy 1678",
+    "town": "Brandýs nad Labem-Stará Bolesl",
+    "zip": "25001"
+  },
+  {
+    "id": "130101",
+    "provozovatel": "VAZI s.r.o.",
+    "street": "Vrbenská 1070/10",
+    "town": "České Budějovice",
+    "zip": "37006"
+  },
+  {
+    "id": "130102",
+    "provozovatel": "PASS CB s.r.o.",
+    "street": "Okružní 665",
+    "town": "České Budějovice",
+    "zip": "37001"
+  },
+  {
+    "id": "130601",
+    "provozovatel": "Martin Čtvrtník",
+    "street": "Vlkonice 147",
+    "town": "Vacov",
+    "zip": "38486"
+  },
+  {
+    "id": "130701",
+    "provozovatel": "STK VODŇANY s.r.o.",
+    "street": "Stožická 840",
+    "town": "Vodňany",
+    "zip": "389 01"
+  },
+  {
+    "id": "130801",
+    "provozovatel": "Ing. Jindřich Kovač",
+    "street": "Bežerovice 52",
+    "town": "Bechyně",
+    "zip": "39165"
+  },
+  {
+    "id": "130802",
+    "provozovatel": "KAFKA TRANSPORT a.s.",
+    "street": "Opařany 312",
+    "town": "Opařany",
+    "zip": "39161"
+  },
+  {
+    "id": "140701",
+    "provozovatel": "CAR KUNC s.r.o.",
+    "street": "Tyršova 1062",
+    "town": "Nýřany",
+    "zip": "33027"
+  },
+  {
+    "id": "140702",
+    "provozovatel": "AUTO HELUS s.r.o.",
+    "street": "Ke Staré mašině 557",
+    "town": "Kaznějov",
+    "zip": "33151"
+  },
+  {
+    "id": "150701",
+    "provozovatel": "TYREL SERVICES s.r.o.",
+    "street": "5. května 352",
+    "town": "Dobroměřice",
+    "zip": "44001"
+  },
+  {
+    "id": "150801",
+    "provozovatel": "AUTOSTENLLY s.r.o.",
+    "street": "Tiskářská 7",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "150901",
+    "provozovatel": "TOP CZECH PARTNERS TECHNOLOGY s.r.o.",
+    "street": "Fišerova 76",
+    "town": "Bílina",
+    "zip": "41801"
+  },
+  {
+    "id": "160101",
+    "provozovatel": "Jan Valecký",
+    "street": "Mikuláše Střely 459",
+    "town": "Krucemburk",
+    "zip": "58266"
+  },
+  {
+    "id": "160301",
+    "provozovatel": "STK EURO s.r.o.",
+    "street": "Kunčí 55",
+    "town": "Slatiňany",
+    "zip": "53821"
+  },
+  {
+    "id": "160501",
+    "provozovatel": "AUTOOPRAVNA PEZA s.r.o.",
+    "street": "Bílkova 271",
+    "town": "Náchod-Staré Město nad Metují",
+    "zip": "54701"
+  },
+  {
+    "id": "160601",
+    "provozovatel": "RD MONTAGE s.r.o.",
+    "street": "Dašická 1930",
+    "town": "Pardubice",
+    "zip": "53003"
+  },
+  {
+    "id": "160701",
+    "provozovatel": "\"\"\" PANAM \"\" , spol. s r.o.\"",
+    "street": "Zdeňka Nejedlého 293",
+    "town": "Dobruška",
+    "zip": "51801"
+  },
+  {
+    "id": "160901",
+    "provozovatel": "Suitta STK spol. s r.o.",
+    "street": "Dimitrovova 1110/2",
+    "town": "Svitavy",
+    "zip": "56802"
+  },
+  {
+    "id": "160902",
+    "provozovatel": "Michal Brenner",
+    "street": "139",
+    "town": "Moravská Třebová",
+    "zip": "57101"
+  },
+  {
+    "id": "161101",
+    "provozovatel": "Michal Marek",
+    "street": "Jamenská 782",
+    "town": "Jablonné nad Orlicí",
+    "zip": "56164"
+  },
+  {
+    "id": "170501",
+    "provozovatel": "BC LOGISTICS s.r.o.",
+    "street": "Moravní 1636",
+    "town": "Otrokovice",
+    "zip": "76502"
+  },
+  {
+    "id": "170502",
+    "provozovatel": "ZLINER s.r.o.",
+    "street": "třída Tomáše Bati",
+    "town": "Zlín",
+    "zip": "76112"
+  },
+  {
+    "id": "170503",
+    "provozovatel": "Martin Polách",
+    "street": "Študlov 172",
+    "town": "Študlov",
+    "zip": "75612"
+  },
+  {
+    "id": "170504",
+    "provozovatel": "TRUCK TRADE spol. s r. o.",
+    "street": "Kvítkovická 1386",
+    "town": "Napajedla",
+    "zip": "76361"
+  },
+  {
+    "id": "170901",
+    "provozovatel": "Pavel Franc",
+    "street": "Hrubčice 284",
+    "town": "Bedihošť",
+    "zip": "79821"
+  },
+  {
+    "id": "170902",
+    "provozovatel": "complex services, s.r.o.",
+    "street": "Dolní ev. č. 244",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "171001",
+    "provozovatel": "TRADO-STK, s.r.o.",
+    "street": "Průmyslová 154",
+    "town": "Třebíč",
+    "zip": "67401"
+  },
+  {
+    "id": "171101",
+    "provozovatel": "Vít Bačák",
+    "street": "Luční čtvrť 1867",
+    "town": "Uherské Hradiště",
+    "zip": "68603"
+  },
+  {
+    "id": "171102",
+    "provozovatel": "Agrotest Morava s.r.o.",
+    "street": "52",
+    "town": "Babice",
+    "zip": "68703"
+  },
+  {
+    "id": "171201",
+    "provozovatel": "AUTO SLAVKOV s.r.o.",
+    "street": "Československé armády 2969",
+    "town": "Slavkov u Brna",
+    "zip": "68401"
+  },
+  {
+    "id": "171401",
+    "provozovatel": "Mobilní emise s.r.o.",
+    "street": "Jestřábec 2044",
+    "town": "Velké Meziříčí",
+    "zip": "59401"
+  },
+  {
+    "id": "180201",
+    "provozovatel": "EMISE F-M s.r.o.",
+    "street": "Podpuklí 2550",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "180202",
+    "provozovatel": "SERVIS ZÁVODNÝ s.r.o.",
+    "street": "Hodoňovice 252",
+    "town": "Baška",
+    "zip": "73901"
+  },
+  {
+    "id": "180203",
+    "provozovatel": "TRUCK TRADE spol. s r. o.",
+    "street": "Místecká 920",
+    "town": "Paskov",
+    "zip": "73921"
+  },
+  {
+    "id": "180401",
+    "provozovatel": "BITTI GAS, s.r.o.",
+    "street": "Hodslavice 34",
+    "town": "Hodslavice",
+    "zip": "74271"
+  },
+  {
+    "id": "180402",
+    "provozovatel": "STK RITZ s.r.o.",
+    "street": "Palackého 2301/31",
+    "town": "Nový Jičín",
+    "zip": "74101"
+  },
+  {
+    "id": "180403",
+    "provozovatel": "Martin Kania",
+    "street": "Radotínská 1197/96",
+    "town": "Bílovec",
+    "zip": "74301"
+  },
+  {
+    "id": "180404",
+    "provozovatel": "AUTOKLEVER spol. s r.o.",
+    "street": "Hřbitovní 996/5",
+    "town": "Nový Jičín",
+    "zip": "74101"
+  },
+  {
+    "id": "180501",
+    "provozovatel": "Tachotek s.r.o.",
+    "street": "Sobáčov 112",
+    "town": "Mladeč",
+    "zip": "78321"
+  },
+  {
+    "id": "180601",
+    "provozovatel": "René Jackovič",
+    "street": "Vrablovec 406/115",
+    "town": "Ludgeřovice",
+    "zip": "74714"
+  },
+  {
+    "id": "180701",
+    "provozovatel": "STK JERZAN, s.r.o.",
+    "street": "Linkova 1407/12",
+    "town": "Ostrava",
+    "zip": "71600"
+  },
+  {
+    "id": "180702",
+    "provozovatel": "Petr Fojtík",
+    "street": "Areál BIG CARS, Opavská 845",
+    "town": "Ostrava",
+    "zip": "72100"
+  },
+  {
+    "id": "180801",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "9. května 2452/90B",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "180802",
+    "provozovatel": "JANOŠEK servis s.r.o.",
+    "street": "Staré Rybníky 3399",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "180803",
+    "provozovatel": "Zbyněk Fišer",
+    "street": "Polní 2818/7",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "180804",
+    "provozovatel": "ZedCarServis s.r.o.",
+    "street": "Na Odpoledni 1042/19",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "180805",
+    "provozovatel": "TESTCAR s.r.o.",
+    "street": "9. května 258",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "180806",
+    "provozovatel": "Autocentrum Přerov CZ  s.r.o.",
+    "street": "Olomoucká 440/44",
+    "town": "Přerov II-Předmostí",
+    "zip": "75124"
+  },
+  {
+    "id": "180901",
+    "provozovatel": "FAST Integration, s.r.o.",
+    "street": "Vikýřovická 1806",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "260301",
+    "provozovatel": "FM CARS LHOTA s.r.o.",
+    "street": "Medunova 646",
+    "town": "Slatiňany",
+    "zip": "53821"
+  },
+  {
+    "id": "260601",
+    "provozovatel": "Roman Tuček",
+    "street": "Dražkovice 164",
+    "town": "Pardubice",
+    "zip": "53333"
+  },
+  {
+    "id": "261101",
+    "provozovatel": "Jindřich Dvořák",
+    "street": "U Podhorky 2203",
+    "town": "Česká Třebová",
+    "zip": "56002"
+  },
+  {
+    "id": "271401",
+    "provozovatel": "Martin Petr",
+    "street": "Petrovická 1337",
+    "town": "Nové Město na Moravě",
+    "zip": "59231"
+  },
+  {
+    "id": "410108",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Türkova 1001",
+    "town": "Praha",
+    "zip": "14900"
+  },
+  {
+    "id": "410205",
+    "provozovatel": "SERVIS Rejmon s.r.o.",
+    "street": "Fričova 13",
+    "town": "Praha",
+    "zip": "12000"
+  },
+  {
+    "id": "410303",
+    "provozovatel": "AUTO JAROV, s.r.o.",
+    "street": "Osiková 2",
+    "town": "Praha",
+    "zip": "13000"
+  },
+  {
+    "id": "410402",
+    "provozovatel": "TUkas a.s.",
+    "street": "K Vltavě 1911/33",
+    "town": "Praha 4",
+    "zip": "14300"
+  },
+  {
+    "id": "410405",
+    "provozovatel": "BEN-CAR spol.s r.o.",
+    "street": "Hornokrčská 2/1947",
+    "town": "Praha",
+    "zip": "14000"
+  },
+  {
+    "id": "410408",
+    "provozovatel": "Auto Palace Spořilov s.r.o.",
+    "street": "Na Chodovci 2457/1",
+    "town": "Praha",
+    "zip": "14100"
+  },
+  {
+    "id": "410409",
+    "provozovatel": "VALOUŠEK a. s.",
+    "street": "Ke Stáčírně 2292/19",
+    "town": "Praha",
+    "zip": "14900"
+  },
+  {
+    "id": "410413",
+    "provozovatel": "Společnost 3H s.r.o.",
+    "street": "Na Křivině 1/371",
+    "town": "Praha",
+    "zip": "14000"
+  },
+  {
+    "id": "410424",
+    "provozovatel": "Jaroslav Halota",
+    "street": "Za rybníčky 702",
+    "town": "Praha",
+    "zip": "14900"
+  },
+  {
+    "id": "410429",
+    "provozovatel": "FEDERAL CARS s.r.o.",
+    "street": "Kloknerova 9",
+    "town": "Praha",
+    "zip": "14800"
+  },
+  {
+    "id": "410432",
+    "provozovatel": "Ing. Rudolf KROUTIL",
+    "street": "Dobronická 635",
+    "town": "Praha",
+    "zip": "14800"
+  },
+  {
+    "id": "410433",
+    "provozovatel": "PROFI AUTO SERVIS s.r.o.",
+    "street": "Holušická 2253/1",
+    "town": "Praha",
+    "zip": "14800"
+  },
+  {
+    "id": "410434",
+    "provozovatel": "Jakub Šafář",
+    "street": "Na Lysině 772/12",
+    "town": "Praha",
+    "zip": "14700"
+  },
+  {
+    "id": "410441",
+    "provozovatel": "Střední škola automobilní a informatiky",
+    "street": "Dobronická 1216/7",
+    "town": "Praha 4",
+    "zip": "14800"
+  },
+  {
+    "id": "410445",
+    "provozovatel": "PRONTO STK s.r.o.",
+    "street": "Ohradní 1575/56",
+    "town": "Praha 4",
+    "zip": "14000"
+  },
+  {
+    "id": "410446",
+    "provozovatel": "ESPM s.r.o.",
+    "street": "Mezi vodami 1097/25",
+    "town": "Praha",
+    "zip": "14300"
+  },
+  {
+    "id": "410447",
+    "provozovatel": "KTS servis s.r.o.",
+    "street": "Pramenná ev. č. 3",
+    "town": "Praha",
+    "zip": "14800"
+  },
+  {
+    "id": "410514",
+    "provozovatel": "Autosalon Klokočka Centrum a.s.",
+    "street": "Borského 876",
+    "town": "Praha",
+    "zip": "15200"
+  },
+  {
+    "id": "410521",
+    "provozovatel": "Střední průmyslová škola dopravní, a.s.",
+    "street": "Plzeňská 1315/137",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "410529",
+    "provozovatel": "auto emise s.r.o.",
+    "street": "Ke Kotlářce 275/2",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "410533",
+    "provozovatel": "DĚDEK s.r.o.",
+    "street": "K Třebonicům 100/34",
+    "town": "Praha 5 - Řeporyje",
+    "zip": "15500"
+  },
+  {
+    "id": "410534",
+    "provozovatel": "Pavel MAIER",
+    "street": "Podbělohorská 31a/190",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "410542",
+    "provozovatel": "Emil Frey ČR, s.r.o.",
+    "street": "Pekařská 638",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "410543",
+    "provozovatel": "Střední odborné učiliště, Praha - Radotín",
+    "street": "Pod Klapicí 11/15",
+    "town": "Praha",
+    "zip": "15380"
+  },
+  {
+    "id": "410545",
+    "provozovatel": "Auto Palace Butovice s.r.o.",
+    "street": "Bucharova 1186/16",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "410546",
+    "provozovatel": "Auto Fousek s.r.o.",
+    "street": "K Havlínu 1209",
+    "town": "Praha",
+    "zip": "15600"
+  },
+  {
+    "id": "410549",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Helsinská 166/2",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "410550",
+    "provozovatel": "AUTO FEMAT, s.r.o.",
+    "street": "Výpadová 1559",
+    "town": "Praha",
+    "zip": "15900"
+  },
+  {
+    "id": "410551",
+    "provozovatel": "FEMAT Radotín s.r.o.",
+    "street": "Vrážská 1562/24a",
+    "town": "Praha",
+    "zip": "15300"
+  },
+  {
+    "id": "410553",
+    "provozovatel": "Emise Ruzyně s.r.o.",
+    "street": "Unhošťská 1102/30",
+    "town": "Praha",
+    "zip": "16100"
+  },
+  {
+    "id": "410602",
+    "provozovatel": "Václav CAITHAML",
+    "street": "Vokovická 7/81",
+    "town": "Praha",
+    "zip": "16000"
+  },
+  {
+    "id": "410603",
+    "provozovatel": "AUTODRUŽSTVO PODBABSKÁ",
+    "street": "Pod Paťankou 217/1",
+    "town": "Praha",
+    "zip": "16041"
+  },
+  {
+    "id": "410610",
+    "provozovatel": "Přerost a Švorc - auto, s.r.o.",
+    "street": "Veleslavínská 39",
+    "town": "Praha",
+    "zip": "16200"
+  },
+  {
+    "id": "410617",
+    "provozovatel": "AutoFREIBERG spol. s r.o.",
+    "street": "Radimova 39",
+    "town": "Praha",
+    "zip": "16900"
+  },
+  {
+    "id": "410628",
+    "provozovatel": "Letiště Praha, a. s.",
+    "street": "Letiště Praha Jih, vjezd.brána č.1",
+    "town": "Praha",
+    "zip": "16100"
+  },
+  {
+    "id": "410629",
+    "provozovatel": "NH  group  s.r.o.",
+    "street": "Karlovarská 814",
+    "town": "Praha",
+    "zip": "16100"
+  },
+  {
+    "id": "410701",
+    "provozovatel": "HAVEX-auto s.r.o.",
+    "street": "Jateční 41",
+    "town": "Praha",
+    "zip": "17000"
+  },
+  {
+    "id": "410703",
+    "provozovatel": "AUTOSERVIS Veletržní, družstvo",
+    "street": "Veletržní 39",
+    "town": "Praha",
+    "zip": "17000"
+  },
+  {
+    "id": "410706",
+    "provozovatel": "Koloseum River, a.s.",
+    "street": "Jankovcova 1535/2a",
+    "town": "Praha",
+    "zip": "17000"
+  },
+  {
+    "id": "410801",
+    "provozovatel": "CZ MARTIN Oil s.r.o.",
+    "street": "Bešťákova 568/3a",
+    "town": "Praha",
+    "zip": "18200"
+  },
+  {
+    "id": "410806",
+    "provozovatel": "Daniel Svoboda-Auto Svoboda s.r.o.",
+    "street": "Sokolovská 162",
+    "town": "Praha",
+    "zip": "18000"
+  },
+  {
+    "id": "410813",
+    "provozovatel": "Jiří Málek",
+    "street": "Kubišova 1243/57",
+    "town": "Praha",
+    "zip": "18200"
+  },
+  {
+    "id": "410816",
+    "provozovatel": "Autokomplex Menčík a.s.",
+    "street": "Korybutova 441/2",
+    "town": "Praha",
+    "zip": "18600"
+  },
+  {
+    "id": "410817",
+    "provozovatel": "HAVEX-auto s.r.o.",
+    "street": "Lodžská 24a/814",
+    "town": "Praha",
+    "zip": "18100"
+  },
+  {
+    "id": "410902",
+    "provozovatel": "Karel Kroček KK SERVIS, s.r.o.",
+    "street": "Poděbradská 106",
+    "town": "Praha",
+    "zip": "19800"
+  },
+  {
+    "id": "410906",
+    "provozovatel": "JÍŠA s.r.o.",
+    "street": "Kolčavka 1/68",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410907",
+    "provozovatel": "Autoservis Mika s.r.o.",
+    "street": "U mateřské školy 436/8",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410908",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Spojovací 41/783",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410910",
+    "provozovatel": "Správa autoparků s.r.o.",
+    "street": "Českobrodská 7/34",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410911",
+    "provozovatel": "Jan Holub",
+    "street": "Lovosická 442",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410914",
+    "provozovatel": "AUTO ELSO s.r.o.",
+    "street": "Cukrovarská 900/10",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410925",
+    "provozovatel": "Malešická automobilová s.r.o.",
+    "street": "Poděbradská 29",
+    "town": "Praha 9",
+    "zip": "19000"
+  },
+  {
+    "id": "410932",
+    "provozovatel": "STROJSERVIS Praha, s.r.o.",
+    "street": "Náchodská 30",
+    "town": "Praha",
+    "zip": "19300"
+  },
+  {
+    "id": "410933",
+    "provozovatel": "AUTO-BRANKA,spol. s r.o.",
+    "street": "Prosecká 817/82",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410936",
+    "provozovatel": "NEPTUN HARFA, s.r.o.",
+    "street": "Na Harfě 929/14",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "410943",
+    "provozovatel": "Jiří Pelc",
+    "street": "Náchodská 2465/83",
+    "town": "Praha",
+    "zip": "19300"
+  },
+  {
+    "id": "410945",
+    "provozovatel": "TÜV NORD Czech, s.r.o.",
+    "street": "Skorkovská 1537",
+    "town": "Praha",
+    "zip": "19800"
+  },
+  {
+    "id": "410946",
+    "provozovatel": "Jarmil Tesárek",
+    "street": "Hloubětínská 28/5",
+    "town": "Praha",
+    "zip": "19800"
+  },
+  {
+    "id": "410947",
+    "provozovatel": "Libor Špaček",
+    "street": "Jiřího ze Vtelna 1731/11",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "411001",
+    "provozovatel": "Střední škola automobilní a informatiky",
+    "street": "U Plynárny 99",
+    "town": "Praha 10",
+    "zip": "10100"
+  },
+  {
+    "id": "411002",
+    "provozovatel": "Malešická automobilová s.r.o.",
+    "street": "Černokostelecká 116",
+    "town": "Praha",
+    "zip": "10800"
+  },
+  {
+    "id": "411003",
+    "provozovatel": "AUTOCENTRUM Dojáček, spol. s r.o.",
+    "street": "U Seřadiště 65/7",
+    "town": "Praha",
+    "zip": "10100"
+  },
+  {
+    "id": "411004",
+    "provozovatel": "TUkas a.s.",
+    "street": "K Hrušovu 344/6",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "411005",
+    "provozovatel": "STK PRAHA, společnost s ručením omezeným",
+    "street": "Průběžná 2397/76",
+    "town": "Praha",
+    "zip": "10031"
+  },
+  {
+    "id": "411007",
+    "provozovatel": "Zařízení služeb pro Ministerstvo vnitra",
+    "street": "Přípotoční 300",
+    "town": "Praha",
+    "zip": "10101"
+  },
+  {
+    "id": "411008",
+    "provozovatel": "TUkas ČSAO a.s.",
+    "street": "Černokostelecká 565/114",
+    "town": "Praha",
+    "zip": "10800"
+  },
+  {
+    "id": "411018",
+    "provozovatel": "Jan Hazuka",
+    "street": "Před Skalkami I 142/1",
+    "town": "Praha",
+    "zip": "10600"
+  },
+  {
+    "id": "411025",
+    "provozovatel": "Dopravní podnik hl. m. Prahy, akciová společnost",
+    "street": "U Vozovny 6",
+    "town": "Praha",
+    "zip": "10856"
+  },
+  {
+    "id": "411031",
+    "provozovatel": "AUTOSERVIS Frolík-Rataj, s.r.o.",
+    "street": "Kutnohorská 204/8",
+    "town": "Praha",
+    "zip": "10900"
+  },
+  {
+    "id": "411033",
+    "provozovatel": "DĚDEK s.r.o.",
+    "street": "Nad Vršovskou horou 88/4",
+    "town": "Praha",
+    "zip": "10100"
+  },
+  {
+    "id": "411035",
+    "provozovatel": "TUkas a.s.",
+    "street": "Štěrboholská 391",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "411037",
+    "provozovatel": "TUkas AUTO-STAIGER CZ a.s.",
+    "street": "Černokostelecká 621/122",
+    "town": "Praha",
+    "zip": "10800"
+  },
+  {
+    "id": "411039",
+    "provozovatel": "Jaroslav VESELÝ",
+    "street": "K Měcholupům 3",
+    "town": "Praha 15",
+    "zip": "10900"
+  },
+  {
+    "id": "411040",
+    "provozovatel": "Petr Marek",
+    "street": "Průběžná 90",
+    "town": "Praha 10",
+    "zip": "10000"
+  },
+  {
+    "id": "411041",
+    "provozovatel": "CarTec Praha s.r.o.",
+    "street": "Průběžná 80",
+    "town": "Praha",
+    "zip": "10000"
+  },
+  {
+    "id": "411044",
+    "provozovatel": "A1U1 s.r.o.",
+    "street": "Podleská 1545",
+    "town": "Praha",
+    "zip": "10400"
+  },
+  {
+    "id": "411045",
+    "provozovatel": "KODYTEAM s.r.o.",
+    "street": "Edisonova 15",
+    "town": "Praha",
+    "zip": "10900"
+  },
+  {
+    "id": "411046",
+    "provozovatel": "AUTO-VESELÝ, s.r.o.",
+    "street": "K Měcholupům 3",
+    "town": "Praha",
+    "zip": "10900"
+  },
+  {
+    "id": "411047",
+    "provozovatel": "Lucia Steinhauserová",
+    "street": "Štěrboholská 1476/85",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "420103",
+    "provozovatel": "Verold Benešov, spol. s r.o.",
+    "street": "Červené Vršky 1490",
+    "town": "Benešov",
+    "zip": "25601"
+  },
+  {
+    "id": "420107",
+    "provozovatel": "AUTORECAR s.r.o.",
+    "street": "Benešovská 300",
+    "town": "Divišov",
+    "zip": "25726"
+  },
+  {
+    "id": "420117",
+    "provozovatel": "EFID, spol. s r.o.",
+    "street": "Dlouhé Pole 37",
+    "town": "Benešov",
+    "zip": "25601"
+  },
+  {
+    "id": "420119",
+    "provozovatel": "AUTORECAR s.r.o.",
+    "street": "Průmyslová 1851",
+    "town": "Vlašim",
+    "zip": "25801"
+  },
+  {
+    "id": "420120",
+    "provozovatel": "Jiří Pařízek",
+    "street": "Vlašimská 2206",
+    "town": "Benešov",
+    "zip": "25601"
+  },
+  {
+    "id": "420201",
+    "provozovatel": "DRUPOL autodružstvo",
+    "street": "Komenského",
+    "town": "Zdice",
+    "zip": "26751"
+  },
+  {
+    "id": "420213",
+    "provozovatel": "DRUPOL autodružstvo",
+    "street": "Na Parkáně 367",
+    "town": "Beroun",
+    "zip": "26601"
+  },
+  {
+    "id": "420217",
+    "provozovatel": "JIKE s.r.o.",
+    "street": "Masarykova 392",
+    "town": "Hořovice",
+    "zip": "26801"
+  },
+  {
+    "id": "420219",
+    "provozovatel": "A-Z Beroun, s.r.o.",
+    "street": "Pod Hájem 372",
+    "town": "Králův Dvůr",
+    "zip": "26701"
+  },
+  {
+    "id": "420221",
+    "provozovatel": "Petr Sudík",
+    "street": "Bavoryně 6",
+    "town": "Bavoryně",
+    "zip": "26751"
+  },
+  {
+    "id": "420310",
+    "provozovatel": "Pavel Filip",
+    "street": "Smečenská 837",
+    "town": "Kladno",
+    "zip": "27204"
+  },
+  {
+    "id": "420314",
+    "provozovatel": "AUTODRÁB, spol. s r.o.",
+    "street": "V Jezerech 302",
+    "town": "Kladno",
+    "zip": "27351"
+  },
+  {
+    "id": "420324",
+    "provozovatel": "AUTOCENTRUM NEVECOM spol. s r.o.",
+    "street": "Americká 2736",
+    "town": "Kladno",
+    "zip": "27201"
+  },
+  {
+    "id": "420328",
+    "provozovatel": "AUTODRÁB, spol. s r.o.",
+    "street": "Milady Horákové 2764",
+    "town": "Kladno",
+    "zip": "27201"
+  },
+  {
+    "id": "420329",
+    "provozovatel": "Ing. Radek Štol",
+    "street": "Vašíčkova 71",
+    "town": "Kladno",
+    "zip": "27204"
+  },
+  {
+    "id": "420331",
+    "provozovatel": "Petr Suchopárek",
+    "street": "Pražská 244",
+    "town": "Slaný",
+    "zip": "27401"
+  },
+  {
+    "id": "420337",
+    "provozovatel": "Terri, s.r.o.",
+    "street": "Netovická 350",
+    "town": "Slaný",
+    "zip": "27401"
+  },
+  {
+    "id": "420338",
+    "provozovatel": "A1C1 s.r.o.",
+    "street": "Kročehlavská 1025",
+    "town": "Kladno",
+    "zip": "27201"
+  },
+  {
+    "id": "420401",
+    "provozovatel": "Radek Čepelák",
+    "street": "Václavská 369",
+    "town": "Velim",
+    "zip": "28101"
+  },
+  {
+    "id": "420409",
+    "provozovatel": "Stanice technické kontroly Kolín spol. s r.o.",
+    "street": "Ovčárecká 509",
+    "town": "Kolín",
+    "zip": "28002"
+  },
+  {
+    "id": "420410",
+    "provozovatel": "Vladimír Novák",
+    "street": "Konojedy 80",
+    "town": "Konojedy",
+    "zip": "28163"
+  },
+  {
+    "id": "420415",
+    "provozovatel": "Aleš Koláčný",
+    "street": "Polepská",
+    "town": "Kolín",
+    "zip": "28002"
+  },
+  {
+    "id": "420418",
+    "provozovatel": "TRILOBIT REAL s.r.o.",
+    "street": "Hlavní 182",
+    "town": "Tuklaty",
+    "zip": "25082"
+  },
+  {
+    "id": "420422",
+    "provozovatel": "STK Velim, a.s.",
+    "street": "Palackého 94",
+    "town": "Velim",
+    "zip": "28101"
+  },
+  {
+    "id": "420507",
+    "provozovatel": "UNIKOM - STK, s.r.o.",
+    "street": "Hrnčířská 207",
+    "town": "Kutná Hora",
+    "zip": "28445"
+  },
+  {
+    "id": "420511",
+    "provozovatel": "Luboš Vladyka",
+    "street": "Lorecká 465",
+    "town": "Kutná Hora",
+    "zip": "28401"
+  },
+  {
+    "id": "420514",
+    "provozovatel": "AUTOSERVIS JANOVICE s.r.o.",
+    "street": "Kolínská 670",
+    "town": "Uhlířské Janovice",
+    "zip": "28504"
+  },
+  {
+    "id": "420515",
+    "provozovatel": "ABERA spol. s r.o.",
+    "street": "Vrchovská 1760",
+    "town": "Čáslav",
+    "zip": "28601"
+  },
+  {
+    "id": "420516",
+    "provozovatel": "INPRO Čáslav s.r.o.",
+    "street": "Jeníkovská 1815",
+    "town": "Čáslav",
+    "zip": "28601"
+  },
+  {
+    "id": "420602",
+    "provozovatel": "Čestmír Lev",
+    "street": "Černuc 74",
+    "town": "Černuc",
+    "zip": "27323"
+  },
+  {
+    "id": "420608",
+    "provozovatel": "Karel Měkota",
+    "street": "v Zahrádkách 558",
+    "town": "Kralupy nad Vltavou",
+    "zip": "27801"
+  },
+  {
+    "id": "420616",
+    "provozovatel": "METALTECH s.r.o.",
+    "street": "Na Průhoně",
+    "town": "Mělník",
+    "zip": "27601"
+  },
+  {
+    "id": "420619",
+    "provozovatel": "AUTOR Roubíček s.r.o.",
+    "street": "Mladoboleslavská",
+    "town": "Mělník",
+    "zip": "27601"
+  },
+  {
+    "id": "420620",
+    "provozovatel": "AUTOR Roubíček s.r.o.",
+    "street": "Mladoboleslavská",
+    "town": "Mělník",
+    "zip": "27601"
+  },
+  {
+    "id": "420622",
+    "provozovatel": "STK Kralupy s.r.o.",
+    "street": "Přemyslova 431",
+    "town": "Kralupy nad Vltavou",
+    "zip": "27801"
+  },
+  {
+    "id": "420624",
+    "provozovatel": "C1D1 s.r.o.",
+    "street": "Na Malém Spořilově",
+    "town": "Mělník",
+    "zip": "27601"
+  },
+  {
+    "id": "420706",
+    "provozovatel": "LAURETA AUTO a.s.",
+    "street": "Nádražní 307",
+    "town": "Mladá Boleslav",
+    "zip": "29301"
+  },
+  {
+    "id": "420716",
+    "provozovatel": "STK - PECHA v.o.s.",
+    "street": "Kosořická 580",
+    "town": "Dobrovice",
+    "zip": "29448"
+  },
+  {
+    "id": "420719",
+    "provozovatel": "STK - PECHA v.o.s.",
+    "street": "Havlíčkova 1432/II",
+    "town": "Mladá Boleslav",
+    "zip": "29301"
+  },
+  {
+    "id": "420724",
+    "provozovatel": "JOKAR company s.r.o.",
+    "street": "Tylova 1540",
+    "town": "Mnichovo Hradiště",
+    "zip": "29501"
+  },
+  {
+    "id": "420725",
+    "provozovatel": "SME Mladá Boleslav s.r.o.",
+    "street": "Jičínská 414",
+    "town": "Mladá Boleslav",
+    "zip": "29301"
+  },
+  {
+    "id": "420726",
+    "provozovatel": "STK - PECHA v.o.s.",
+    "street": "Havlíčkova 1432",
+    "town": "Mladá Boleslav",
+    "zip": "29301"
+  },
+  {
+    "id": "420808",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Choťánky 164",
+    "town": "Choťánky",
+    "zip": "29001"
+  },
+  {
+    "id": "420814",
+    "provozovatel": "Jaroslav Tichý",
+    "street": "Ke Vrutici 1730",
+    "town": "Lysá nad Labem",
+    "zip": "28922"
+  },
+  {
+    "id": "420817",
+    "provozovatel": "BUILDING S s.r.o.",
+    "street": "Dopravní 2624",
+    "town": "Nymburk",
+    "zip": "28802"
+  },
+  {
+    "id": "420820",
+    "provozovatel": "Karel Theer",
+    "street": "Nouzov 82",
+    "town": "Dymokury",
+    "zip": "28901"
+  },
+  {
+    "id": "420821",
+    "provozovatel": "STK RAPTOR s.r.o.",
+    "street": "K Milovicím",
+    "town": "Lysá nad Labem",
+    "zip": "28922"
+  },
+  {
+    "id": "420901",
+    "provozovatel": "AUTO Brandýs n/L. s.r.o.",
+    "street": "Rolnická 1619",
+    "town": "Brandýs nad Labem-Stará Bolesl",
+    "zip": "25001"
+  },
+  {
+    "id": "420904",
+    "provozovatel": "Milan Vodička",
+    "street": "Na Polníku 300",
+    "town": "Jirny",
+    "zip": "25090"
+  },
+  {
+    "id": "420913",
+    "provozovatel": "Auto Babiš s.r.o.",
+    "street": "Ondřejovská 700",
+    "town": "Mnichovice",
+    "zip": "25164"
+  },
+  {
+    "id": "420925",
+    "provozovatel": "Auto Tesárek s.r.o.",
+    "street": "Palackého 344",
+    "town": "Šestajovice",
+    "zip": "25092"
+  },
+  {
+    "id": "420930",
+    "provozovatel": "POLA s.r.o.",
+    "street": "17.listopadu 2387/36a",
+    "town": "Říčany",
+    "zip": "25101"
+  },
+  {
+    "id": "420932",
+    "provozovatel": "S T K Centrum spol. s r.o.",
+    "street": "Zápská 2257",
+    "town": "Brandýs nad Labem-Stará Bolesl",
+    "zip": "25001"
+  },
+  {
+    "id": "420934",
+    "provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+    "street": "Kolovratská 2020",
+    "town": "Říčany",
+    "zip": "25101"
+  },
+  {
+    "id": "420935",
+    "provozovatel": "MAN Truck & Bus Czech Republic s.r.o.",
+    "street": "Obchodní 120",
+    "town": "Čestlice",
+    "zip": "25101"
+  },
+  {
+    "id": "420940",
+    "provozovatel": "E1F1 s.r.o.",
+    "street": "Mělnická 1060",
+    "town": "Líbeznice",
+    "zip": "25065"
+  },
+  {
+    "id": "421007",
+    "provozovatel": "Auto Radlík, s.r.o.",
+    "street": "Pražská 160",
+    "town": "Jílové u Prahy",
+    "zip": "25401"
+  },
+  {
+    "id": "421011",
+    "provozovatel": "INTERAUTO spol. s ručením omezeným",
+    "street": "NÁDRAŽNÍ 439",
+    "town": "Mníšek pod Brdy",
+    "zip": "25210"
+  },
+  {
+    "id": "421016",
+    "provozovatel": "MELEK auto s.r.o.",
+    "street": "PRAŽSKÁ 620",
+    "town": "ŘEVNICE",
+    "zip": "25230"
+  },
+  {
+    "id": "421018",
+    "provozovatel": "AUTOSERVIS-DIESEL SERVIS LIBOVICKÝ JIŘÍ",
+    "street": "RYMÁNĚ 908",
+    "town": "Mníšek pod Brdy",
+    "zip": "25210"
+  },
+  {
+    "id": "421024",
+    "provozovatel": "ABH CAR Praha s.r.o.",
+    "street": "Suchdolská 682",
+    "town": "Horoměřice",
+    "zip": "25262"
+  },
+  {
+    "id": "421027",
+    "provozovatel": "Petr Houser",
+    "street": "PŘÍLEPSKÁ 1233",
+    "town": "Roztoky",
+    "zip": "25263"
+  },
+  {
+    "id": "421031",
+    "provozovatel": "Gabriela Pařízková",
+    "street": "Hlavní 9",
+    "town": "Březová-Oleško",
+    "zip": "25245"
+  },
+  {
+    "id": "421034",
+    "provozovatel": "Scania Czech Republic s.r.o.",
+    "street": "Sobínská 186",
+    "town": "Chrášťany",
+    "zip": "25219"
+  },
+  {
+    "id": "421036",
+    "provozovatel": "VPM group s.r.o.",
+    "street": "Přílepská 1707",
+    "town": "Roztoky",
+    "zip": "25263"
+  },
+  {
+    "id": "421038",
+    "provozovatel": "auto MOTOL BENI",
+    "street": "SEVERNÍ 321",
+    "town": "Ořech",
+    "zip": "25225"
+  },
+  {
+    "id": "421039",
+    "provozovatel": "Automobile Centre SME s.r.o.",
+    "street": "PRAŽSKÁ 830",
+    "town": "Dolní Břežany",
+    "zip": "25243"
+  },
+  {
+    "id": "421040",
+    "provozovatel": "AUTO IN s.r.o.",
+    "street": "V Oblouku 731",
+    "town": "Průhonice",
+    "zip": "25243"
+  },
+  {
+    "id": "421101",
+    "provozovatel": "DRUPOL autodružstvo",
+    "street": "Milínská 30",
+    "town": "Příbram VIII",
+    "zip": "26101"
+  },
+  {
+    "id": "421110",
+    "provozovatel": "AUTO BERGER - plus, s.r.o.",
+    "street": "Obecnická 323",
+    "town": "Příbram",
+    "zip": "26101"
+  },
+  {
+    "id": "421111",
+    "provozovatel": "BOVAS, s.r.o.",
+    "street": "K Podlesí č. p. 539",
+    "town": "Příbram",
+    "zip": "26101"
+  },
+  {
+    "id": "421133",
+    "provozovatel": "KASOKO s.r.o.",
+    "street": "Strojírenská 741",
+    "town": "Sedlčany",
+    "zip": "26401"
+  },
+  {
+    "id": "421134",
+    "provozovatel": "Autoslužby Kout s.r.o.",
+    "street": "Drásov 5",
+    "town": "Drásov",
+    "zip": "26101"
+  },
+  {
+    "id": "421135",
+    "provozovatel": "SeTeKoCAR s.r.o.",
+    "street": "Brodská 633",
+    "town": "Příbram",
+    "zip": "26101"
+  },
+  {
+    "id": "421202",
+    "provozovatel": "Autostop, spol. s r. o.",
+    "street": "Luženská 1992",
+    "town": "Rakovník",
+    "zip": "26901"
+  },
+  {
+    "id": "421204",
+    "provozovatel": "Pavel Smejkal",
+    "street": "60",
+    "town": "Pavlíkov",
+    "zip": "27221"
+  },
+  {
+    "id": "421206",
+    "provozovatel": "CROY s.r.o.",
+    "street": "Plzeňská 2599",
+    "town": "Rakovník",
+    "zip": "26901"
+  },
+  {
+    "id": "430103",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Homole 245",
+    "town": "Homole",
+    "zip": "37001"
+  },
+  {
+    "id": "430109",
+    "provozovatel": "AUTOSERVIS NOVOTNÝ spol. s r.o.",
+    "street": "Táborská 568",
+    "town": "Týn nad Vltavou",
+    "zip": "37501"
+  },
+  {
+    "id": "430111",
+    "provozovatel": "Vyšší odborná škola, Střední průmyslová škola auto",
+    "street": "Rudolfovská 17",
+    "town": "České Budějovice",
+    "zip": "37004"
+  },
+  {
+    "id": "430116",
+    "provozovatel": "AUTA BOREK a.s.",
+    "street": "Pražská 285",
+    "town": "Borek",
+    "zip": "37367"
+  },
+  {
+    "id": "430126",
+    "provozovatel": "Porsche Inter Auto CZ spol. s r.o.",
+    "street": "Okružní 2557",
+    "town": "České Budějovice",
+    "zip": "37004"
+  },
+  {
+    "id": "430127",
+    "provozovatel": "STK - SME traktory s.r.o.",
+    "street": "Homole 198",
+    "town": "Homole",
+    "zip": "37001"
+  },
+  {
+    "id": "430141",
+    "provozovatel": "JH Autodíly s.r.o.",
+    "street": "Planá 82",
+    "town": "Planá",
+    "zip": "37001"
+  },
+  {
+    "id": "430215",
+    "provozovatel": "KOMAT - STK s.r.o.",
+    "street": "195",
+    "town": "Dolní Třebonín",
+    "zip": "38201"
+  },
+  {
+    "id": "430216",
+    "provozovatel": "KOMAT - STK s.r.o.",
+    "street": "195",
+    "town": "Dolní Třebonín",
+    "zip": "38201"
+  },
+  {
+    "id": "430304",
+    "provozovatel": "AR PARTNER s.r.o.",
+    "street": "Jarošovská 869/II",
+    "town": "Jindřichův Hradec",
+    "zip": "37701"
+  },
+  {
+    "id": "430307",
+    "provozovatel": "AUTOMEŠKAN SH s.r.o.",
+    "street": "Boženy Němcové 817",
+    "town": "Třeboň",
+    "zip": "37901"
+  },
+  {
+    "id": "430309",
+    "provozovatel": "AR TRUCK s.r.o.",
+    "street": "Jitka-Otín 3",
+    "town": "Jindřichův Hradec",
+    "zip": "37701"
+  },
+  {
+    "id": "430310",
+    "provozovatel": "Jan Nezbeda",
+    "street": "Na Kopečku 1182",
+    "town": "Třeboň",
+    "zip": "37901"
+  },
+  {
+    "id": "430311",
+    "provozovatel": "Jiří Souček s.r.o.",
+    "street": "Jiráskovo předměstí 899/II",
+    "town": "Jindřichův Hradec",
+    "zip": "37701"
+  },
+  {
+    "id": "430312",
+    "provozovatel": "REDD s.r.o.",
+    "street": "Břilice, Přesecká 164",
+    "town": "Třeboň",
+    "zip": "37901"
+  },
+  {
+    "id": "430315",
+    "provozovatel": "Benetech s.r.o.",
+    "street": "Dělnická 203/V",
+    "town": "Dačice",
+    "zip": "38001"
+  },
+  {
+    "id": "430318",
+    "provozovatel": "STK Kalivoda s.r.o.",
+    "street": "Jiráskova 1202",
+    "town": "Třeboň",
+    "zip": "37901"
+  },
+  {
+    "id": "430402",
+    "provozovatel": "AUTO RACEK a.s.",
+    "street": "Masarykova 757",
+    "town": "Humpolec",
+    "zip": "39601"
+  },
+  {
+    "id": "430418",
+    "provozovatel": "Střední průmyslová škola a Střední odborné učilišt",
+    "street": "Masarykova 410",
+    "town": "Kamenice nad Lipou",
+    "zip": "39470"
+  },
+  {
+    "id": "430422",
+    "provozovatel": "Milan Domin",
+    "street": "Pelhřimovská 738",
+    "town": "Humpolec",
+    "zip": "39601"
+  },
+  {
+    "id": "430424",
+    "provozovatel": "EXCAR PLUS s.r.o.",
+    "street": "U Prostředního mlýna 2016",
+    "town": "Pelhřimov",
+    "zip": "39301"
+  },
+  {
+    "id": "430427",
+    "provozovatel": "\"\"\"Stanice technické kontroly Pelhřimov spol. s r.o.\"",
+    "street": "Skrýšovská 1968",
+    "town": "Pelhřimov",
+    "zip": "39301"
+  },
+  {
+    "id": "430504",
+    "provozovatel": "Karel Frolík - AUTOSERVIS",
+    "street": "Táborská 2400",
+    "town": "Písek",
+    "zip": "39701"
+  },
+  {
+    "id": "430508",
+    "provozovatel": "Jiří Kovárna",
+    "street": "Hradišťská 2439",
+    "town": "Písek",
+    "zip": "39701"
+  },
+  {
+    "id": "430519",
+    "provozovatel": "Josef Vitoušek",
+    "street": "U Hřebčince 2534",
+    "town": "Písek",
+    "zip": "39701"
+  },
+  {
+    "id": "430520",
+    "provozovatel": "Jiří Kovárna",
+    "street": "Sažinova 1438",
+    "town": "Milevsko",
+    "zip": "39901"
+  },
+  {
+    "id": "430705",
+    "provozovatel": "Autoservis Šrachta s.r.o.",
+    "street": "Písecká 513",
+    "town": "Strakonice",
+    "zip": "38601"
+  },
+  {
+    "id": "430709",
+    "provozovatel": "Střední odborné učiliště, Blatná, U Sladovny 671",
+    "street": "U Sladovny 671",
+    "town": "Blatná",
+    "zip": "38801"
+  },
+  {
+    "id": "430718",
+    "provozovatel": "Václav Cimburek CIVA trans",
+    "street": "Rovná 110",
+    "town": "Strakonice",
+    "zip": "38601"
+  },
+  {
+    "id": "430719",
+    "provozovatel": "STK Blatná, spol. s r.o.",
+    "street": "Vrbenská 1526",
+    "town": "Blatná",
+    "zip": "38801"
+  },
+  {
+    "id": "430808",
+    "provozovatel": "AUTOSERVIS JINDRA s.r.o.",
+    "street": "Mrázkova 801/III",
+    "town": "Soběslav",
+    "zip": "39201"
+  },
+  {
+    "id": "430815",
+    "provozovatel": "BRISK Tábor a.s.",
+    "street": "Soběslavská 1114",
+    "town": "Tábor",
+    "zip": "39002"
+  },
+  {
+    "id": "430824",
+    "provozovatel": "AUTOSERVIS KOLÍČEK s.r.o.",
+    "street": "Pelhřimovská 2965",
+    "town": "Tábor",
+    "zip": "39002"
+  },
+  {
+    "id": "430826",
+    "provozovatel": "Stanice měření emisí spol. s r.o.",
+    "street": "Pod Kovosvitem 1135",
+    "town": "Sezimovo Ústí",
+    "zip": "39102"
+  },
+  {
+    "id": "430831",
+    "provozovatel": "PETA servis, spol. s r.o.",
+    "street": "Nová 514/II",
+    "town": "Soběslav",
+    "zip": "39201"
+  },
+  {
+    "id": "430832",
+    "provozovatel": "AUTOSERVIS NOVOTNÝ spol. s r.o.",
+    "street": "Nová 515",
+    "town": "Soběslav",
+    "zip": "39200"
+  },
+  {
+    "id": "430833",
+    "provozovatel": "STN-ESOX, spol. s r.o.",
+    "street": "Červené Záhoří 204",
+    "town": "Chotoviny",
+    "zip": "39137"
+  },
+  {
+    "id": "430834",
+    "provozovatel": "PETA servis, spol. s r.o.",
+    "street": "Měšická 1993",
+    "town": "Tábor",
+    "zip": "39002"
+  },
+  {
+    "id": "440114",
+    "provozovatel": "Pavel Krčma",
+    "street": "Chrastavice 112",
+    "town": "Chrastavice",
+    "zip": "34401"
+  },
+  {
+    "id": "440116",
+    "provozovatel": "AUTO V - S, spol. s r.o.",
+    "street": "Nádražní 70",
+    "town": "Horšovský Týn",
+    "zip": "34601"
+  },
+  {
+    "id": "440121",
+    "provozovatel": "AUTOSERVIS BSC s.r.o.",
+    "street": "Husovo náměstí 90",
+    "town": "Horšovský Týn",
+    "zip": "34601"
+  },
+  {
+    "id": "440204",
+    "provozovatel": "Jan Marek",
+    "street": "Tršnická 1759/5",
+    "town": "Cheb",
+    "zip": "35002"
+  },
+  {
+    "id": "440206",
+    "provozovatel": "AUTOspektrum 2000 s.r.o.",
+    "street": "Plzeňská 608/17",
+    "town": "Mariánské Lázně",
+    "zip": "35301"
+  },
+  {
+    "id": "440211",
+    "provozovatel": "ALGON PLUS - AUTO, a.s.",
+    "street": "Joštova 1",
+    "town": "Cheb",
+    "zip": "35002"
+  },
+  {
+    "id": "440212",
+    "provozovatel": "Karel Kolman",
+    "street": "Amundsenova 4",
+    "town": "Aš",
+    "zip": "35201"
+  },
+  {
+    "id": "440213",
+    "provozovatel": "Pavel Podhrázský",
+    "street": "Vrázová 2632/14",
+    "town": "Cheb",
+    "zip": "35002"
+  },
+  {
+    "id": "440216",
+    "provozovatel": "Miroslav Musil",
+    "street": "Stará Voda 209",
+    "town": "Stará Voda",
+    "zip": "35301"
+  },
+  {
+    "id": "440217",
+    "provozovatel": "Jindřich Gabriel",
+    "street": "Tepelská 606",
+    "town": "Mariánské Lázně",
+    "zip": "35301"
+  },
+  {
+    "id": "440301",
+    "provozovatel": "Tomáš Jenšík",
+    "street": "Kostelní 782/1a",
+    "town": "Karlovy Vary",
+    "zip": "36017"
+  },
+  {
+    "id": "440320",
+    "provozovatel": "Autosprint Max s.r.o.",
+    "street": "Plzeňská 576",
+    "town": "Toužim",
+    "zip": "36401"
+  },
+  {
+    "id": "440323",
+    "provozovatel": "Antonín Tyml",
+    "street": "Mírova 47",
+    "town": "Mírová",
+    "zip": "35735"
+  },
+  {
+    "id": "440324",
+    "provozovatel": "Jaroslav Roubíček",
+    "street": "Železná 12",
+    "town": "Karlovy Vary",
+    "zip": "36004"
+  },
+  {
+    "id": "440326",
+    "provozovatel": "STK Karlovarsko s.r.o.",
+    "street": "Daimlerova 271",
+    "town": "Jenišov",
+    "zip": "36211"
+  },
+  {
+    "id": "440328",
+    "provozovatel": "autoservis Švéd s.r.o.",
+    "street": "Kraslická 250",
+    "town": "Nejdek",
+    "zip": "36221"
+  },
+  {
+    "id": "440401",
+    "provozovatel": "AUTOSPOL PLUS spol. s r.o.",
+    "street": "Strakonická  366",
+    "town": "Horažďovice",
+    "zip": "34101"
+  },
+  {
+    "id": "440402",
+    "provozovatel": "AUTOCENTRUM JAN ŠMUCLER s.r.o.",
+    "street": "Domažlické předměstí 610/III",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "440404",
+    "provozovatel": "Josef Haidinger",
+    "street": "Rok 14",
+    "town": "Sušice",
+    "zip": "34201"
+  },
+  {
+    "id": "440406",
+    "provozovatel": "Jana Vránová",
+    "street": "Tyršova 356",
+    "town": "Horažďovice",
+    "zip": "34101"
+  },
+  {
+    "id": "440409",
+    "provozovatel": "BLOHMANN spol.s r.o.",
+    "street": "5. května 687/IV",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "440411",
+    "provozovatel": "František Beránek",
+    "street": "Nádražní 647",
+    "town": "Sušice",
+    "zip": "34201"
+  },
+  {
+    "id": "440412",
+    "provozovatel": "Střední průmyslová škola, Klatovy, nábřeží Kpt. Ná",
+    "street": "Nábř. Kpt. Nálepky 362",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "440414",
+    "provozovatel": "Libuše Zelená",
+    "street": "Hrádek 75",
+    "town": "Hrádek",
+    "zip": "34201"
+  },
+  {
+    "id": "440415",
+    "provozovatel": "Klatovská STK, s.r.o.",
+    "street": "Dr.Sedláka 778/III",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "440416",
+    "provozovatel": "Lorenc Logistic, s.r.o.",
+    "street": "Za Tratí 752/IV",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "440502",
+    "provozovatel": "Richard Topinka",
+    "street": "Nade Mží",
+    "town": "Plzeň",
+    "zip": "31800"
+  },
+  {
+    "id": "440506",
+    "provozovatel": "Krajské ředitelství policie Plzeňského kraje",
+    "street": "Dobřanská 25",
+    "town": "Plzeň",
+    "zip": "30628"
+  },
+  {
+    "id": "440529",
+    "provozovatel": "AUTOCENTRUM TA a.s.",
+    "street": "Tylova",
+    "town": "Plzeň",
+    "zip": "30100"
+  },
+  {
+    "id": "440533",
+    "provozovatel": "AUTO CB, spol. s r. o.",
+    "street": "Nepomucká",
+    "town": "Plzeň",
+    "zip": "32600"
+  },
+  {
+    "id": "440539",
+    "provozovatel": "AUTOKOMPLET 91 s.r.o.",
+    "street": "Domažlická",
+    "town": "Plzeň",
+    "zip": "31803"
+  },
+  {
+    "id": "440543",
+    "provozovatel": "AUTOSERVIS NEDVĚD s.r.o.",
+    "street": "Do kopce",
+    "town": "Plzeň",
+    "zip": "32600"
+  },
+  {
+    "id": "440548",
+    "provozovatel": "AUTOCENTRUM JAN ŠMUCLER s.r.o.",
+    "street": "Borská 59",
+    "town": "Plzeň",
+    "zip": "30100"
+  },
+  {
+    "id": "440612",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Fügnerova 404",
+    "town": "Blovice",
+    "zip": "33601"
+  },
+  {
+    "id": "440703",
+    "provozovatel": "Tomáš Weisskopf",
+    "street": "Školní náměstí 188",
+    "town": "Město Touškov",
+    "zip": "33033"
+  },
+  {
+    "id": "440709",
+    "provozovatel": "STK Rybnice s.r.o.",
+    "street": "Rybnice 155",
+    "town": "Rybnice",
+    "zip": "33151"
+  },
+  {
+    "id": "440716",
+    "provozovatel": "Lepič Zdeněk",
+    "street": "Sokolská 705",
+    "town": "Vejprnice",
+    "zip": "33027"
+  },
+  {
+    "id": "440722",
+    "provozovatel": "M - MEK, s.r.o.",
+    "street": "Na Mazancích 349",
+    "town": "Kožlany",
+    "zip": "33144"
+  },
+  {
+    "id": "440801",
+    "provozovatel": "Jan Svejkovský",
+    "street": "Klostermannova 311",
+    "town": "Rokycany",
+    "zip": "33701"
+  },
+  {
+    "id": "440806",
+    "provozovatel": "STK Mýto s.r.o.",
+    "street": "Plzeňská 569",
+    "town": "Mýto",
+    "zip": "33805"
+  },
+  {
+    "id": "440810",
+    "provozovatel": "MS STK Rokycany s.r.o.",
+    "street": "Pivovarská 146",
+    "town": "Rokycany",
+    "zip": "33701"
+  },
+  {
+    "id": "440901",
+    "provozovatel": "Jana Langová",
+    "street": "Dr. Kocourka 2010",
+    "town": "Sokolov",
+    "zip": "35601"
+  },
+  {
+    "id": "440913",
+    "provozovatel": "L&B AUTO universal s.r.o.",
+    "street": "Dr. Kocourka 2100",
+    "town": "Sokolov",
+    "zip": "35601"
+  },
+  {
+    "id": "440915",
+    "provozovatel": "Jan Šíma",
+    "street": "ČSA",
+    "town": "Svatava",
+    "zip": "35703"
+  },
+  {
+    "id": "440916",
+    "provozovatel": "STK Karlovarsko s.r.o.",
+    "street": "Citická 2069",
+    "town": "Sokolov",
+    "zip": "35601"
+  },
+  {
+    "id": "440918",
+    "provozovatel": "Martin Rybár",
+    "street": "Chebská 2247",
+    "town": "Dolní Rychnov",
+    "zip": "35601"
+  },
+  {
+    "id": "441004",
+    "provozovatel": "Robert Kovář",
+    "street": "Oldřichovská 2143",
+    "town": "Tachov",
+    "zip": "34701"
+  },
+  {
+    "id": "441005",
+    "provozovatel": "Lesní společnost Přimda, s.r.o.",
+    "street": "Nádražní 545",
+    "town": "Planá",
+    "zip": "34815"
+  },
+  {
+    "id": "441006",
+    "provozovatel": "Jaroslav Šroub",
+    "street": "28.října 1476",
+    "town": "Stříbro",
+    "zip": "34901"
+  },
+  {
+    "id": "441007",
+    "provozovatel": "Poliklinika Tachov, příspěvková organizace",
+    "street": "Václavská 1560",
+    "town": "Tachov",
+    "zip": "34701"
+  },
+  {
+    "id": "441011",
+    "provozovatel": "Lepič Zdeněk",
+    "street": "Tř.5.května  1579",
+    "town": "Stříbro",
+    "zip": "34901"
+  },
+  {
+    "id": "450103",
+    "provozovatel": "EMISE LI s.r.o.",
+    "street": "Liberecká 558",
+    "town": "Nový Bor",
+    "zip": "47301"
+  },
+  {
+    "id": "450105",
+    "provozovatel": "Jiří Wasylyszyn",
+    "street": "Mimoňská 63",
+    "town": "Stráž pod Ralskem",
+    "zip": "47127"
+  },
+  {
+    "id": "450109",
+    "provozovatel": "LIPEX PLUS spol. s.r.o.",
+    "street": "Mánesova 1477",
+    "town": "Česká Lípa",
+    "zip": "47001"
+  },
+  {
+    "id": "450110",
+    "provozovatel": "SME Česká Lípa s.r.o.",
+    "street": "Kovářova 3189",
+    "town": "Česká Lípa",
+    "zip": "47001"
+  },
+  {
+    "id": "450111",
+    "provozovatel": "Milan Bajer",
+    "street": "Pihel 95",
+    "town": "Pihel",
+    "zip": "47115"
+  },
+  {
+    "id": "450207",
+    "provozovatel": "AUTO IN s.r.o.",
+    "street": "Předmostí 1839/2",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "450212",
+    "provozovatel": "Autoservis Menšík s.r.o.",
+    "street": "Na Skřivance 150/1",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "450213",
+    "provozovatel": "Pneu Autoland s.r.o.",
+    "street": "Benešovská 583/23",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "450218",
+    "provozovatel": "Centrum služeb pro silniční dopravu",
+    "street": "Alšova 1075/7",
+    "town": "Krásná Lípa",
+    "zip": "40746"
+  },
+  {
+    "id": "450223",
+    "provozovatel": "Milan  Skukálek",
+    "street": "Šluknovská 425",
+    "town": "Velký Šenov",
+    "zip": "40778"
+  },
+  {
+    "id": "450224",
+    "provozovatel": "Gerhard Horejsek a spol., s.r.o.",
+    "street": "Oblouková 1416/9",
+    "town": "Děčín",
+    "zip": "40501"
+  },
+  {
+    "id": "450226",
+    "provozovatel": "Lucie Kuhnová",
+    "street": "Stavební 1424/1A",
+    "town": "Děčín",
+    "zip": "40501"
+  },
+  {
+    "id": "450227",
+    "provozovatel": "Carmotive, s.r.o.",
+    "street": "Strakonická 3242",
+    "town": "Varnsdorf",
+    "zip": "40747"
+  },
+  {
+    "id": "450228",
+    "provozovatel": "ALL Academy s.r.o.",
+    "street": "Folknářská 1246/21 hala P",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "450305",
+    "provozovatel": "AUTO KAPPA spol. s r.o.",
+    "street": "Obchodní zóna 252",
+    "town": "Otvice",
+    "zip": "43111"
+  },
+  {
+    "id": "450307",
+    "provozovatel": "S P A , s. r. o.",
+    "street": "Prunéřov 374",
+    "town": "Kadaň",
+    "zip": "43201"
+  },
+  {
+    "id": "450309",
+    "provozovatel": "Vladislav Terešák",
+    "street": "Málkov 12",
+    "town": "Málkov",
+    "zip": "43001"
+  },
+  {
+    "id": "450310",
+    "provozovatel": "\"\"\"AUTOTOP\"\" spol. s r.o.\"",
+    "street": "Nezabylice",
+    "town": "Nezabylice",
+    "zip": "43001"
+  },
+  {
+    "id": "450313",
+    "provozovatel": "AUTOPLUS II, s.r.o.",
+    "street": "Spořická 4522",
+    "town": "Chomutov",
+    "zip": "43001"
+  },
+  {
+    "id": "450317",
+    "provozovatel": "ALFA - TECHNIC s.r.o.",
+    "street": "Obchodní zóna 252",
+    "town": "Klášterec nad Ohří",
+    "zip": "43111"
+  },
+  {
+    "id": "450318",
+    "provozovatel": "EURO CAR Kadaň s.r.o.",
+    "street": "Topolová 2006",
+    "town": "Kadaň",
+    "zip": "43201"
+  },
+  {
+    "id": "450319",
+    "provozovatel": "Terri, s.r.o.",
+    "street": "Droužkovická 476",
+    "town": "Údlice",
+    "zip": "43141"
+  },
+  {
+    "id": "450402",
+    "provozovatel": "AUTOCENTRUM FICS s.r.o.",
+    "street": "Želivského 1",
+    "town": "Jablonec nad Nisou",
+    "zip": "46601"
+  },
+  {
+    "id": "450415",
+    "provozovatel": "Gerhard Horejsek a spol., s.r.o.",
+    "street": "Palackého 94",
+    "town": "Jablonec nad Nisou",
+    "zip": "46604"
+  },
+  {
+    "id": "450417",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Belgická 5063",
+    "town": "Jablonec nad Nisou",
+    "zip": "46605"
+  },
+  {
+    "id": "450418",
+    "provozovatel": "Ing. Daniel Kaláb",
+    "street": "Splzov 31",
+    "town": "Železný Brod",
+    "zip": "46822"
+  },
+  {
+    "id": "450505",
+    "provozovatel": "Autoservis VASKA s.r.o.",
+    "street": "Žitavská 596/52a",
+    "town": "Liberec",
+    "zip": "46001"
+  },
+  {
+    "id": "450532",
+    "provozovatel": "TKV Liberec, spol. s r.o.",
+    "street": "Tanvaldská 1106",
+    "town": "Liberec",
+    "zip": "46311"
+  },
+  {
+    "id": "450539",
+    "provozovatel": "STEKO LB spol. s r.o.",
+    "street": "Mrštíkova 2",
+    "town": "Liberec",
+    "zip": "46001"
+  },
+  {
+    "id": "450542",
+    "provozovatel": "AUTOTREND, spol. s r.o.",
+    "street": "České Mládeže 1101",
+    "town": "Liberec",
+    "zip": "46312"
+  },
+  {
+    "id": "450543",
+    "provozovatel": "FOLDA, s.r.o.",
+    "street": "Frýdlantská 540",
+    "town": "Frýdlant",
+    "zip": "46401"
+  },
+  {
+    "id": "450545",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Tanvaldská",
+    "town": "Liberec",
+    "zip": "46311"
+  },
+  {
+    "id": "450602",
+    "provozovatel": "Gerhard Horejsek a spol., s.r.o.",
+    "street": "U Terezínské křižovatky 161",
+    "town": "Litoměřice",
+    "zip": "41201"
+  },
+  {
+    "id": "450617",
+    "provozovatel": "OKIM spol. s r.o.",
+    "street": "Terezínská 1306",
+    "town": "Lovosice",
+    "zip": "41002"
+  },
+  {
+    "id": "450620",
+    "provozovatel": "Pavlína Hanzlíková",
+    "street": "Zimoř 8",
+    "town": "Liběšice",
+    "zip": "41145"
+  },
+  {
+    "id": "450621",
+    "provozovatel": "Petr Reinhart",
+    "street": "Jiráskova 356",
+    "town": "Třebenice",
+    "zip": "41113"
+  },
+  {
+    "id": "450622",
+    "provozovatel": "Ekolikvidace Veis s.r.o.",
+    "street": "Ploskovice 117",
+    "town": "Ploskovice",
+    "zip": "41142"
+  },
+  {
+    "id": "450705",
+    "provozovatel": "AUTO MYSLIVEC s.r.o.",
+    "street": "Hlubanská 741",
+    "town": "Podbořany",
+    "zip": "44101"
+  },
+  {
+    "id": "450706",
+    "provozovatel": "SAZ - Evžen Myslivec s.r.o.",
+    "street": "Rybalkova 2639",
+    "town": "Louny",
+    "zip": "44001"
+  },
+  {
+    "id": "450707",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "U Oharky 3093",
+    "town": "Žatec",
+    "zip": "43801"
+  },
+  {
+    "id": "450709",
+    "provozovatel": "Autocentrum Novotný s.r.o.",
+    "street": "Cukrovarská zahrada 2670",
+    "town": "Louny",
+    "zip": "44001"
+  },
+  {
+    "id": "450710",
+    "provozovatel": "STK-O.K.CAR spol. s r.o.",
+    "street": "Rybalkova 2765",
+    "town": "Louny",
+    "zip": "44001"
+  },
+  {
+    "id": "450713",
+    "provozovatel": "R + B Auto control, spol. s r.o.",
+    "street": "Pražská 375",
+    "town": "Lubenec",
+    "zip": "43983"
+  },
+  {
+    "id": "450714",
+    "provozovatel": "GRAND REKLAM s.r.o.",
+    "street": "Krásný Dvůr 9",
+    "town": "Krásný Dvůr",
+    "zip": "43972"
+  },
+  {
+    "id": "450718",
+    "provozovatel": "Jaroslav Paroha",
+    "street": "Kadaňská 46",
+    "town": "Libočany",
+    "zip": "43975"
+  },
+  {
+    "id": "450719",
+    "provozovatel": "Autoservis KMK s.r.o.",
+    "street": "Cítolibská 2679",
+    "town": "Louny",
+    "zip": "44001"
+  },
+  {
+    "id": "450720",
+    "provozovatel": "R + B Auto control, spol. s r.o.",
+    "street": "Pražská 375",
+    "town": "Lubenec",
+    "zip": "43983"
+  },
+  {
+    "id": "450721",
+    "provozovatel": "JA.VO. SERVIS s.r.o.",
+    "street": "č.p. 9",
+    "town": "Krásný Dvůr",
+    "zip": "43972"
+  },
+  {
+    "id": "450805",
+    "provozovatel": "Automoto klub SHD Most v AČR",
+    "street": "Dělnická 11",
+    "town": "Most - Velebudice",
+    "zip": "43451"
+  },
+  {
+    "id": "450808",
+    "provozovatel": "AUTOPLUS II. CONTROL s.r.o.",
+    "street": "Budovatelů 624",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "450811",
+    "provozovatel": "Jiří Vodička",
+    "street": "Lounická",
+    "town": "Litvínov",
+    "zip": "43542"
+  },
+  {
+    "id": "450813",
+    "provozovatel": "AR auto s.r.o.",
+    "street": "České Zlatníky 87",
+    "town": "Obrnice",
+    "zip": "43401"
+  },
+  {
+    "id": "450814",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Podkrušnohorská 8",
+    "town": "Litvínov",
+    "zip": "43542"
+  },
+  {
+    "id": "450815",
+    "provozovatel": "SME Litvínov s.r.o.",
+    "street": "Žatecká 3494",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "450816",
+    "provozovatel": "AUTOCARS CZ s.r.o.",
+    "street": "Žatecká 3494",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "450907",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Dubská 3106",
+    "town": "Teplice",
+    "zip": "41501"
+  },
+  {
+    "id": "450915",
+    "provozovatel": "IVESUR Česká republika, a.s.",
+    "street": "K Emance 291",
+    "town": "Dubí-Mstišov",
+    "zip": "41503"
+  },
+  {
+    "id": "450918",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Dvořákova 83",
+    "town": "Krupka",
+    "zip": "41510"
+  },
+  {
+    "id": "450919",
+    "provozovatel": "Jiří Novák, AUTOTIP-servis",
+    "street": "V Lipách 3041",
+    "town": "Teplice",
+    "zip": "41501"
+  },
+  {
+    "id": "450920",
+    "provozovatel": "SME Teplice s.r.o.",
+    "street": "V Lipách 3275",
+    "town": "Teplice",
+    "zip": "41501"
+  },
+  {
+    "id": "450922",
+    "provozovatel": "J U K R  spol. s r.o.",
+    "street": "Ruská 301",
+    "town": "Dubí",
+    "zip": "41703"
+  },
+  {
+    "id": "450923",
+    "provozovatel": "SME KT Košťany s. r. o.",
+    "street": "Pivovarská 635",
+    "town": "Košťany",
+    "zip": "41723"
+  },
+  {
+    "id": "451005",
+    "provozovatel": "AUTOTIP  servis s.r.o.",
+    "street": "JATEČNÍ 1007/6",
+    "town": "Ústí nad Labem",
+    "zip": "40001"
+  },
+  {
+    "id": "451009",
+    "provozovatel": "Milan Anýž",
+    "street": "Karla Maye 349",
+    "town": "Brná",
+    "zip": "40321"
+  },
+  {
+    "id": "451012",
+    "provozovatel": "AUTO BOHEMIA-půjčovna, servis aut a pneu s.r.o.",
+    "street": "KŘIŽÍKOVA 718/2",
+    "town": "Ústí nad Labem",
+    "zip": "40007"
+  },
+  {
+    "id": "451027",
+    "provozovatel": "OKIM spol. s r.o.",
+    "street": "MASARYKOVA 1028",
+    "town": "Ústí nad Labem",
+    "zip": "40001"
+  },
+  {
+    "id": "451032",
+    "provozovatel": "KROYS - Milan Krejčí s.r.o.",
+    "street": "TEXTILNÍ 6",
+    "town": "Ústí nad Labem",
+    "zip": "40001"
+  },
+  {
+    "id": "451033",
+    "provozovatel": "AUTO IN s.r.o.",
+    "street": "Podhoří 361/2",
+    "town": "Ústí nad Labem",
+    "zip": "40010"
+  },
+  {
+    "id": "451034",
+    "provozovatel": "Terri, s.r.o.",
+    "street": "Hrbovická 105",
+    "town": "Chlumec",
+    "zip": "40339"
+  },
+  {
+    "id": "451035",
+    "provozovatel": "AJK Centrum s.r.o.",
+    "street": "HAVÍŘSKÁ 360/29",
+    "town": "Ústí nad Labem",
+    "zip": "40010"
+  },
+  {
+    "id": "451038",
+    "provozovatel": "FAIR AUTOTOP, s.r.o.",
+    "street": "PODHOŘÍ 371/7",
+    "town": "Ústí nad Labem",
+    "zip": "40010"
+  },
+  {
+    "id": "460112",
+    "provozovatel": "STK Chotěboř, s.r.o.",
+    "street": "U Střelnice 1724",
+    "town": "Chotěboř",
+    "zip": "58301"
+  },
+  {
+    "id": "460114",
+    "provozovatel": "STK NOVÁK HB s.r.o.",
+    "street": "Baštínov 126",
+    "town": "Havlíčkův Brod",
+    "zip": "58001"
+  },
+  {
+    "id": "460115",
+    "provozovatel": "STK HB s.r.o.",
+    "street": "Lidická 3974",
+    "town": "Havlíčkův Brod",
+    "zip": "58001"
+  },
+  {
+    "id": "460116",
+    "provozovatel": "HUGO ILM s.r.o.",
+    "street": "Horní Prosíčka 20",
+    "town": "Prosíčka",
+    "zip": "58401"
+  },
+  {
+    "id": "460119",
+    "provozovatel": "STK Světlá nad Sázavou, v.o.s.",
+    "street": "Průmyslová 1208",
+    "town": "Světlá nad Sázavou",
+    "zip": "58291"
+  },
+  {
+    "id": "460207",
+    "provozovatel": "Střední škola technická a řemeslná, Nový Bydžov, D",
+    "street": "Dr.M.Tyrše 112",
+    "town": "Nový Bydžov",
+    "zip": "50401"
+  },
+  {
+    "id": "460214",
+    "provozovatel": "OLFIN Car - STK, s.r.o.",
+    "street": "Na Rybárně 203/5",
+    "town": "Hradec Králové",
+    "zip": "50002"
+  },
+  {
+    "id": "460219",
+    "provozovatel": "Miroslav Korel",
+    "street": "Pálenecká 732/51b",
+    "town": "Hradec Králové",
+    "zip": "50311"
+  },
+  {
+    "id": "460223",
+    "provozovatel": "AUTOSERVIS MK cz s.r.o.",
+    "street": "Sovětice 19",
+    "town": "Sovětice",
+    "zip": "50315"
+  },
+  {
+    "id": "460224",
+    "provozovatel": "Střední odborná škola a Střední odborné učiliště,",
+    "street": "Vocelova 1338/2",
+    "town": "Hradec Králové",
+    "zip": "50002"
+  },
+  {
+    "id": "460232",
+    "provozovatel": "Bohuslav Jeřábek",
+    "street": "Na Obci 372",
+    "town": "Předměřice nad Labem",
+    "zip": "50302"
+  },
+  {
+    "id": "460238",
+    "provozovatel": "PRO AUTO LOUDA, s.r.o.",
+    "street": "Pražská 782",
+    "town": "Chlumec nad Cidlinou",
+    "zip": "50351"
+  },
+  {
+    "id": "460251",
+    "provozovatel": "TEXO, TRUCK SERVIS, spol. s r.o.",
+    "street": "Piletická 55/36",
+    "town": "Hradec Králové",
+    "zip": "50003"
+  },
+  {
+    "id": "460252",
+    "provozovatel": "STANICE MĚŘENÍ EMISÍ KUTÍK, s.r.o.",
+    "street": "A. Seligera 147",
+    "town": "Smiřice",
+    "zip": "50303"
+  },
+  {
+    "id": "460257",
+    "provozovatel": "amcontrol s.r.o.",
+    "street": "Pardubická 1338",
+    "town": "Třebechovice pod Orebem",
+    "zip": "50346"
+  },
+  {
+    "id": "460304",
+    "provozovatel": "Auto Hybeš s.r.o.",
+    "street": "Dřenice 122",
+    "town": "Dřenice",
+    "zip": "53701"
+  },
+  {
+    "id": "460305",
+    "provozovatel": "Jaroslav Pešek",
+    "street": "Vítězslava Nováka 135",
+    "town": "Skuteč",
+    "zip": "53973"
+  },
+  {
+    "id": "460307",
+    "provozovatel": "Petr Moučka",
+    "street": "Nejedlého 1559",
+    "town": "Hlinsko",
+    "zip": "53901"
+  },
+  {
+    "id": "460309",
+    "provozovatel": "AUTO - LEMI s.r.o.",
+    "street": "Bylany 150",
+    "town": "Bylany",
+    "zip": "53801"
+  },
+  {
+    "id": "460313",
+    "provozovatel": "Auto MERCIA a.s.",
+    "street": "Dašická1228",
+    "town": "Chrudim",
+    "zip": "53701"
+  },
+  {
+    "id": "460314",
+    "provozovatel": "Oldřich Moučka",
+    "street": "Svratouch 332",
+    "town": "Svratouch",
+    "zip": "53942"
+  },
+  {
+    "id": "460315",
+    "provozovatel": "STK Vincenci s.r.o.",
+    "street": "Vilibalda Svobody 948",
+    "town": "Skuteč",
+    "zip": "53973"
+  },
+  {
+    "id": "460316",
+    "provozovatel": "Autoservis - autoelektroservis s.r.o.",
+    "street": "Krouna 41",
+    "town": "Krouna",
+    "zip": "53943"
+  },
+  {
+    "id": "460317",
+    "provozovatel": "Jiří Kozel",
+    "street": "Rváčovská 549",
+    "town": "Hlinsko",
+    "zip": "53901"
+  },
+  {
+    "id": "460318",
+    "provozovatel": "P Z P MERLIN s.r.o.",
+    "street": "Poličská 1365",
+    "town": "Hlinsko",
+    "zip": "53901"
+  },
+  {
+    "id": "460319",
+    "provozovatel": "SME Vlčnov s.r.o.",
+    "street": "Vlčnov 30",
+    "town": "Chrudim",
+    "zip": "53701"
+  },
+  {
+    "id": "460320",
+    "provozovatel": "Z-MOTOR s.r.o.",
+    "street": "Tovární 250",
+    "town": "Chrudim",
+    "zip": "53701"
+  },
+  {
+    "id": "460321",
+    "provozovatel": "SALIO s.r.o.",
+    "street": "Obce Ležáků 758",
+    "town": "Chrudim",
+    "zip": "53701"
+  },
+  {
+    "id": "460322",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Poličská 1365",
+    "town": "Hlinsko",
+    "zip": "53901"
+  },
+  {
+    "id": "460323",
+    "provozovatel": "Jiří Šimon",
+    "street": "Lukavice 84",
+    "town": "Lukavice",
+    "zip": "53821"
+  },
+  {
+    "id": "460403",
+    "provozovatel": "Miloslav Franěk",
+    "street": "Semínova Lhota 29",
+    "town": "Újezd pod Troskami",
+    "zip": "51263"
+  },
+  {
+    "id": "460408",
+    "provozovatel": "MT AUTOSERVIS s.r.o.",
+    "street": "Spyšovská 297",
+    "town": "Sobotka",
+    "zip": "50743"
+  },
+  {
+    "id": "460414",
+    "provozovatel": "AGRO SLATINY a.s.",
+    "street": "Hradecká 1122",
+    "town": "Jičín",
+    "zip": "50601"
+  },
+  {
+    "id": "460418",
+    "provozovatel": "AGRO SLATINY a.s.",
+    "street": "Jos. Jungmanna 1736",
+    "town": "Nový Bydžov",
+    "zip": "50401"
+  },
+  {
+    "id": "460501",
+    "provozovatel": "LK-AUTOSERVIS, spol. s r.o.",
+    "street": "Lidická 317",
+    "town": "Česká Skalice",
+    "zip": "55203"
+  },
+  {
+    "id": "460511",
+    "provozovatel": "BOSCHSERVIS HRUDÍK",
+    "street": "Máchova 1344",
+    "town": "Náchod",
+    "zip": "54701"
+  },
+  {
+    "id": "460513",
+    "provozovatel": "FARMET STK spol. s r.o.",
+    "street": "Jiřinková 276",
+    "town": "Česká Skalice",
+    "zip": "55203"
+  },
+  {
+    "id": "460515",
+    "provozovatel": "Detecha, chemické výrobní družstvo",
+    "street": "Krátká",
+    "town": "Nové Město nad Metují",
+    "zip": "54901"
+  },
+  {
+    "id": "460517",
+    "provozovatel": "AUTOSALON DĚDEK, s.r.o.",
+    "street": "Dobenínská 1992",
+    "town": "Náchod",
+    "zip": "54701"
+  },
+  {
+    "id": "460521",
+    "provozovatel": "AUTO-BRANKA,spol. s r.o.",
+    "street": "Českoskalická 1743/1",
+    "town": "Náchod",
+    "zip": "54701"
+  },
+  {
+    "id": "460526",
+    "provozovatel": "P-transport s.r.o.",
+    "street": "Dvořákova 339",
+    "town": "Broumov",
+    "zip": "55001"
+  },
+  {
+    "id": "460601",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Průmyslová 381",
+    "town": "Pardubice",
+    "zip": "53301"
+  },
+  {
+    "id": "460605",
+    "provozovatel": "AUTO DRYML a.s.",
+    "street": "Generála Svobody 658",
+    "town": "Pardubice",
+    "zip": "53351"
+  },
+  {
+    "id": "460608",
+    "provozovatel": "Gymnázium a Střední odborná škola Přelouč",
+    "street": "Jaselská 597",
+    "town": "Přelouč",
+    "zip": "53501"
+  },
+  {
+    "id": "460609",
+    "provozovatel": "SERVIS F + L, v.o.s.",
+    "street": "Na Spravedlnosti 121",
+    "town": "Pardubice",
+    "zip": "53002"
+  },
+  {
+    "id": "460614",
+    "provozovatel": "Ivan Mikov",
+    "street": "Račanská 212",
+    "town": "Přelouč",
+    "zip": "53501"
+  },
+  {
+    "id": "460616",
+    "provozovatel": "Střední škola automobilní Holice",
+    "street": "Nádražní 301",
+    "town": "Holice",
+    "zip": "53401"
+  },
+  {
+    "id": "460619",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Teplého 2692",
+    "town": "Pardubice",
+    "zip": "53002"
+  },
+  {
+    "id": "460628",
+    "provozovatel": "PROFI AUTO CZ a.s.",
+    "street": "Pardubická 1517",
+    "town": "Přelouč",
+    "zip": "53501"
+  },
+  {
+    "id": "460630",
+    "provozovatel": "Autocentrum BARTH a. s.",
+    "street": "Hůrka 1798",
+    "town": "Pardubice",
+    "zip": "53012"
+  },
+  {
+    "id": "460634",
+    "provozovatel": "NAPA TRUCKS spol. s r. o.",
+    "street": "Semtín 100",
+    "town": "Pardubice",
+    "zip": "53353"
+  },
+  {
+    "id": "460635",
+    "provozovatel": "LUKA auto s.r.o.",
+    "street": "Malé Výkleky 42",
+    "town": "Malé Výkleky",
+    "zip": "53316"
+  },
+  {
+    "id": "460636",
+    "provozovatel": "TOYOTA TSUSHO PRAHA s.r.o.",
+    "street": "Hradecká 570",
+    "town": "Pardubice",
+    "zip": "53009"
+  },
+  {
+    "id": "460637",
+    "provozovatel": "SUCHOMEL NEW s.r.o.",
+    "street": "V Lukách 1407",
+    "town": "Ústí nad Orlicí",
+    "zip": "56201"
+  },
+  {
+    "id": "460703",
+    "provozovatel": "MATRIX a.s.",
+    "street": "Lipovka 95",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "460704",
+    "provozovatel": "Vyšší odborná škola a Střední průmyslová škola, Ry",
+    "street": "U Stadionu 1166",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "460708",
+    "provozovatel": "Josef Čáp",
+    "street": "Brocná 62",
+    "town": "Skuhrov nad Bělou",
+    "zip": "51703"
+  },
+  {
+    "id": "460720",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Ještětice 110",
+    "town": "Solnice",
+    "zip": "51701"
+  },
+  {
+    "id": "460721",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Pod Budínem 1699",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "460803",
+    "provozovatel": "SEMAK spol. s r.o.",
+    "street": "Bořkovská 147",
+    "town": "Semily",
+    "zip": "51301"
+  },
+  {
+    "id": "460804",
+    "provozovatel": "Jan König, DiS.",
+    "street": "Lestkov 4",
+    "town": "Radostná pod Kozákovem",
+    "zip": "51263"
+  },
+  {
+    "id": "460805",
+    "provozovatel": "Integrovaná střední škola, Vysoké nad Jizerou, Dr.",
+    "street": "Dr. Farského 300",
+    "town": "Vysoké nad Jizerou",
+    "zip": "51211"
+  },
+  {
+    "id": "460808",
+    "provozovatel": "AUTO JUNEK, s.r.o.",
+    "street": "Studenec 291",
+    "town": "Studenec",
+    "zip": "51233"
+  },
+  {
+    "id": "460815",
+    "provozovatel": "Jaroslav Janeček",
+    "street": "Nádražní 1099",
+    "town": "Turnov",
+    "zip": "51101"
+  },
+  {
+    "id": "460818",
+    "provozovatel": "STK Turnov, s.r.o.",
+    "street": "Nudvojovická 1681",
+    "town": "Turnov",
+    "zip": "51101"
+  },
+  {
+    "id": "460819",
+    "provozovatel": "HAVEX-auto s.r.o.",
+    "street": "Pod Černým mostem 577",
+    "town": "Semily",
+    "zip": "51301"
+  },
+  {
+    "id": "460820",
+    "provozovatel": "Jiří Machek - HYDROMA",
+    "street": "K Javorku 982",
+    "town": "Jilemnice",
+    "zip": "51401"
+  },
+  {
+    "id": "460821",
+    "provozovatel": "Dušan Hyška",
+    "street": "Přepeře 227",
+    "town": "Turnov",
+    "zip": "51101"
+  },
+  {
+    "id": "460903",
+    "provozovatel": "František Žabokrtský",
+    "street": "Trstenická 932",
+    "town": "Litomyšl",
+    "zip": "57001"
+  },
+  {
+    "id": "460908",
+    "provozovatel": "Miloslav Bulva",
+    "street": "Petrusova 1658/2",
+    "town": "Svitavy",
+    "zip": "56802"
+  },
+  {
+    "id": "460911",
+    "provozovatel": "P & V - EKOTRADING s.r.o.",
+    "street": "náměstí Míru 86/12",
+    "town": "Svitavy",
+    "zip": "56802"
+  },
+  {
+    "id": "460914",
+    "provozovatel": "AGRODÍLNA Oldřiš, s.r.o.",
+    "street": "Oldřiš 258",
+    "town": "Oldřiš",
+    "zip": "56982"
+  },
+  {
+    "id": "460917",
+    "provozovatel": "ABERA spol. s r.o.",
+    "street": "Svitavská 1610",
+    "town": "Moravská Třebová",
+    "zip": "57101"
+  },
+  {
+    "id": "461003",
+    "provozovatel": "AUTOSTYL a.s.",
+    "street": "Horská 579",
+    "town": "Trutnov",
+    "zip": "54101"
+  },
+  {
+    "id": "461004",
+    "provozovatel": "AUTO QUALT, s.r.o.",
+    "street": "Choustníkovo Hradiště 176",
+    "town": "Choustníkovo Hradiště",
+    "zip": "54442"
+  },
+  {
+    "id": "461011",
+    "provozovatel": "HAVEX-auto s.r.o.",
+    "street": "Na Bělidle 503",
+    "town": "Vrchlabí",
+    "zip": "54301"
+  },
+  {
+    "id": "461016",
+    "provozovatel": "MJ Vrchlabí spol. s r.o.",
+    "street": "Na Bělidle 1652",
+    "town": "Vrchlabí",
+    "zip": "54301"
+  },
+  {
+    "id": "461020",
+    "provozovatel": "Jan Záruba",
+    "street": "Horská 167",
+    "town": "Trutnov",
+    "zip": "54102"
+  },
+  {
+    "id": "461021",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Nedbalova 573",
+    "town": "Dvůr Králové nad Labem",
+    "zip": "54401"
+  },
+  {
+    "id": "461026",
+    "provozovatel": "Ing. Vladimír Matějka",
+    "street": "Lampertice 158",
+    "town": "Lampertice",
+    "zip": "54101"
+  },
+  {
+    "id": "461027",
+    "provozovatel": "AUTO INZAT s.r.o.",
+    "street": "Preslova 441",
+    "town": "Dvůr Králové nad Labem",
+    "zip": "54401"
+  },
+  {
+    "id": "461028",
+    "provozovatel": "STK Trutnov s.r.o.",
+    "street": "Horská 932",
+    "town": "Trutnov",
+    "zip": "54101"
+  },
+  {
+    "id": "461101",
+    "provozovatel": "Jaroslav Chaloupka-Autoslužby",
+    "street": "Lhotka 76",
+    "town": "Česká Třebová",
+    "zip": "56002"
+  },
+  {
+    "id": "461103",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "U Koupaliště 180",
+    "town": "Jablonné nad Orlicí",
+    "zip": "56164"
+  },
+  {
+    "id": "461112",
+    "provozovatel": "Střední škola automobilní Ústí nad Orlicí",
+    "street": "Třebovská 348",
+    "town": "Ústí nad Orlicí",
+    "zip": "56203"
+  },
+  {
+    "id": "461119",
+    "provozovatel": "GLOBAL ATC CZ s.r.o.",
+    "street": "Nádražní 568",
+    "town": "Žamberk",
+    "zip": "56401"
+  },
+  {
+    "id": "461123",
+    "provozovatel": "PROFISTAV Litomyšl, a.s.",
+    "street": "Tisová 4",
+    "town": "Vysoké Mýto",
+    "zip": "56601"
+  },
+  {
+    "id": "461129",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Podbranská 2047",
+    "town": "Česká Třebová",
+    "zip": "56002"
+  },
+  {
+    "id": "461130",
+    "provozovatel": "AUTOSERVIS KOS s.r.o.",
+    "street": "Ústecká 28",
+    "town": "Česká Třebová",
+    "zip": "56002"
+  },
+  {
+    "id": "461131",
+    "provozovatel": "STK Ústí s.r.o.",
+    "street": "Letohradská 100",
+    "town": "Ústí nad Orlicí",
+    "zip": "56201"
+  },
+  {
+    "id": "461132",
+    "provozovatel": "STK a SME Vračovice s.r.o.",
+    "street": "Vračovice 1",
+    "town": "Vračovice-Orlov",
+    "zip": "56601"
+  },
+  {
+    "id": "461133",
+    "provozovatel": "Synek Auto s.r.o.",
+    "street": "Podbranská 971",
+    "town": "Česká Třebová",
+    "zip": "56002"
+  },
+  {
+    "id": "461134",
+    "provozovatel": "LUTUM s.r.o.",
+    "street": "Průmyslová 161",
+    "town": "Vysoké Mýto",
+    "zip": "56601"
+  },
+  {
+    "id": "461135",
+    "provozovatel": "AUTOSERVIS spol. s r.o.",
+    "street": "Vraclavská 523",
+    "town": "Vysoké Mýto",
+    "zip": "56601"
+  },
+  {
+    "id": "461136",
+    "provozovatel": "AUTO SEDLÁČEK, s.r.o.",
+    "street": "Dukelských hrdinů 1154",
+    "town": "Lanškroun",
+    "zip": "56301"
+  },
+  {
+    "id": "470101",
+    "provozovatel": "Střední škola André Citroëna Boskovice, příspěvkov",
+    "street": "náměstí 9. května 2153/2a",
+    "town": "Boskovice",
+    "zip": "68011"
+  },
+  {
+    "id": "470106",
+    "provozovatel": "T - CAR spol. s r.o.",
+    "street": "Dřevařská 2263",
+    "town": "Boskovice",
+    "zip": "68001"
+  },
+  {
+    "id": "470116",
+    "provozovatel": "TOP AUTOSALON BLANSKO s.r.o.",
+    "street": "Svitavská 2329",
+    "town": "Blansko",
+    "zip": "67801"
+  },
+  {
+    "id": "470117",
+    "provozovatel": "Auto STK spol. s r.o.",
+    "street": "Dřevařská 2250",
+    "town": "Boskovice",
+    "zip": "68001"
+  },
+  {
+    "id": "470118",
+    "provozovatel": "TOP 1 spol. s r.o.",
+    "street": "Poříčí 17",
+    "town": "Blansko",
+    "zip": "67801"
+  },
+  {
+    "id": "470202",
+    "provozovatel": "STK Královo Pole, s.r.o.",
+    "street": "Sladkovského 2834/7",
+    "town": "Brno",
+    "zip": "61200"
+  },
+  {
+    "id": "470210",
+    "provozovatel": "AUTONOVA BRNO s.r.o.",
+    "street": "Masná 418/20",
+    "town": "Brno",
+    "zip": "60200"
+  },
+  {
+    "id": "470211",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Opavská 26/8",
+    "town": "Brno",
+    "zip": "63900"
+  },
+  {
+    "id": "470214",
+    "provozovatel": "Kopecký J+M, s.r.o.",
+    "street": "Čechyňská 23",
+    "town": "Brno",
+    "zip": "60200"
+  },
+  {
+    "id": "470220",
+    "provozovatel": "Ing. Jiří Fasora",
+    "street": "Řípská 960/9a",
+    "town": "Brno",
+    "zip": "62700"
+  },
+  {
+    "id": "470224",
+    "provozovatel": "ATOMA Autocentrum s.r.o.",
+    "street": "Sladkovského 15",
+    "town": "Brno",
+    "zip": "61200"
+  },
+  {
+    "id": "470239",
+    "provozovatel": "Auto BALVIN spol. s r.o.",
+    "street": "U Červeného mlýna 3",
+    "town": "Brno",
+    "zip": "61200"
+  },
+  {
+    "id": "470243",
+    "provozovatel": "Autosalon HORA CZ a.s.",
+    "street": "Štouračova 1154/1a",
+    "town": "Brno",
+    "zip": "63500"
+  },
+  {
+    "id": "470244",
+    "provozovatel": "Autocentrum ROS, a.s.",
+    "street": "Poříčí 805/1c",
+    "town": "Brno",
+    "zip": "60300"
+  },
+  {
+    "id": "470260",
+    "provozovatel": "OPPORTUNITY, spol. s r. o.",
+    "street": "Sedláčkova 10",
+    "town": "Brno",
+    "zip": "62800"
+  },
+  {
+    "id": "470263",
+    "provozovatel": "Direct auto Brno, s.r.o.",
+    "street": "Žarošická 4308/21",
+    "town": "Brno",
+    "zip": "62800"
+  },
+  {
+    "id": "470269",
+    "provozovatel": "Auto Unger s.r.o.",
+    "street": "Podruhova 2684/5",
+    "town": "Brno",
+    "zip": "62800"
+  },
+  {
+    "id": "470272",
+    "provozovatel": "MIJA AUTOCENTRUM, s.r.o.",
+    "street": "Provazníkova 1480/90",
+    "town": "Brno",
+    "zip": "61400"
+  },
+  {
+    "id": "470277",
+    "provozovatel": "J.P.N. Cars s.r.o.",
+    "street": "Hviezdoslavova 57",
+    "town": "Brno",
+    "zip": "62700"
+  },
+  {
+    "id": "470279",
+    "provozovatel": "AMK Královo Pole, s.r.o.",
+    "street": "Sladkovského 2834/7",
+    "town": "Brno",
+    "zip": "61200"
+  },
+  {
+    "id": "470285",
+    "provozovatel": "Heřman Fitz s.r.o.",
+    "street": "Dufkovo nábřeží 230/5",
+    "town": "Brno",
+    "zip": "61900"
+  },
+  {
+    "id": "470287",
+    "provozovatel": "Tourbus, a.s.",
+    "street": "Rosická 20",
+    "town": "Brno",
+    "zip": "60200"
+  },
+  {
+    "id": "470292",
+    "provozovatel": "Integrovaná střední škola automobilní Brno, příspě",
+    "street": "Křižíkova 15",
+    "town": "Brno",
+    "zip": "61200"
+  },
+  {
+    "id": "470293",
+    "provozovatel": "Scania Czech Republic s.r.o.",
+    "street": "Hájecká 14",
+    "town": "Brno",
+    "zip": "61800"
+  },
+  {
+    "id": "470294",
+    "provozovatel": "Heřman Fitz s.r.o.",
+    "street": "Kulkova 4001/4",
+    "town": "Brno",
+    "zip": "61500"
+  },
+  {
+    "id": "470299",
+    "provozovatel": "STK BRNO s.r.o.",
+    "street": "Vídeňská 267/106d",
+    "town": "Brno",
+    "zip": "61900"
+  },
+  {
+    "id": "470310",
+    "provozovatel": "KORAL, s.r.o.",
+    "street": "U Střelnice 1729",
+    "town": "Tišnov",
+    "zip": "66601"
+  },
+  {
+    "id": "470318",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "ČS. Armády",
+    "town": "Slavkov u Brna",
+    "zip": "68401"
+  },
+  {
+    "id": "470324",
+    "provozovatel": "STK  MODŘICE s.r.o.",
+    "street": "Brněnská 404",
+    "town": "Modřice",
+    "zip": "66442"
+  },
+  {
+    "id": "470325",
+    "provozovatel": "Stanislav Pelant",
+    "street": "Malinovského 448",
+    "town": "Zbraslav",
+    "zip": "66484"
+  },
+  {
+    "id": "470326",
+    "provozovatel": "JAPO - transport s.r.o.",
+    "street": "Vintrovna 395/25",
+    "town": "Popůvky",
+    "zip": "66441"
+  },
+  {
+    "id": "470327",
+    "provozovatel": "TOP Autoservis Tišnov s.r.o.",
+    "street": "Bezručova 1751",
+    "town": "Tišnov",
+    "zip": "66601"
+  },
+  {
+    "id": "470401",
+    "provozovatel": "Střední půmyslová škola Edvarda Beneše a Obchodní",
+    "street": "nábř. Komenského 1126/1",
+    "town": "Břeclav",
+    "zip": "69025"
+  },
+  {
+    "id": "470403",
+    "provozovatel": "AGROTEC a.s.",
+    "street": "Brněnská 74",
+    "town": "Hustopeče",
+    "zip": "69301"
+  },
+  {
+    "id": "470414",
+    "provozovatel": "AUTO WOZAR s.r.o.",
+    "street": "Mikulovská 720",
+    "town": "Lednice",
+    "zip": "69144"
+  },
+  {
+    "id": "470415",
+    "provozovatel": "Libor Kurimai",
+    "street": "Brněnská 993",
+    "town": "Pohořelice",
+    "zip": "69123"
+  },
+  {
+    "id": "470419",
+    "provozovatel": "Spěvák Stanislav",
+    "street": "1. máje 134",
+    "town": "Velké Bílovice",
+    "zip": "69102"
+  },
+  {
+    "id": "470502",
+    "provozovatel": "Tomáš Vykoukal",
+    "street": "U Řadovek 390",
+    "town": "Zlín",
+    "zip": "76314"
+  },
+  {
+    "id": "470508",
+    "provozovatel": "Jaroslav Orsák AUTOoPRAVNA",
+    "street": "Brumovská 279",
+    "town": "Valašské Klobouky",
+    "zip": "76601"
+  },
+  {
+    "id": "470509",
+    "provozovatel": "Lubomír Šilhavík",
+    "street": "Prštné, Náves",
+    "town": "Zlín",
+    "zip": "76001"
+  },
+  {
+    "id": "470515",
+    "provozovatel": "Břetislav Petráš",
+    "street": "Uherskobrodská 634",
+    "town": "Luhačovice",
+    "zip": "76326"
+  },
+  {
+    "id": "470518",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "třída 3.Května 850",
+    "town": "Zlín- Malenovice",
+    "zip": "76302"
+  },
+  {
+    "id": "470530",
+    "provozovatel": "UNICARS CZ s.r.o.",
+    "street": "Tečovská",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "470533",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "třída 3.Května 850",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "470535",
+    "provozovatel": "Rudolf Mynařík",
+    "street": "Stará Cesta 452",
+    "town": "Zlín-Štípa",
+    "zip": "76314"
+  },
+  {
+    "id": "470537",
+    "provozovatel": "Radek Černocký",
+    "street": "Hrazanská 21",
+    "town": "Luhačovice",
+    "zip": "76326"
+  },
+  {
+    "id": "470538",
+    "provozovatel": "Scania Czech Republic s.r.o.",
+    "street": "Razov",
+    "town": "Vizovice",
+    "zip": "76312"
+  },
+  {
+    "id": "470540",
+    "provozovatel": "Jaroslav Holý",
+    "street": "Kašava 251",
+    "town": "Kašava",
+    "zip": "76319"
+  },
+  {
+    "id": "470541",
+    "provozovatel": "Jana Raková",
+    "street": "Horní náměstí 96",
+    "town": "Slavičín",
+    "zip": "76321"
+  },
+  {
+    "id": "470542",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Letiště  1894",
+    "town": "Otrokovice",
+    "zip": "76502"
+  },
+  {
+    "id": "470543",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "třída 3. května 850",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "470544",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Luční Čtvrť 1824",
+    "town": "Staré Město",
+    "zip": "68603"
+  },
+  {
+    "id": "470603",
+    "provozovatel": "K V H , spol. s r. o.",
+    "street": "Měšťanská 186/40",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "470618",
+    "provozovatel": "Jaroslav Novotný",
+    "street": "Olšovská 694",
+    "town": "Bzenec",
+    "zip": "69681"
+  },
+  {
+    "id": "470619",
+    "provozovatel": "Luděk Olša",
+    "street": "U Bzinku 1169",
+    "town": "Bzenec",
+    "zip": "69681"
+  },
+  {
+    "id": "470620",
+    "provozovatel": "Josef Bílík",
+    "street": "Hodonínská 952",
+    "town": "Dolní Bojanovice",
+    "zip": "69617"
+  },
+  {
+    "id": "470621",
+    "provozovatel": "TOP CENTRUM car s.r.o.",
+    "street": "Strážovská 958",
+    "town": "Kyjov",
+    "zip": "69701"
+  },
+  {
+    "id": "470624",
+    "provozovatel": "VISTA car s.r.o.",
+    "street": "Brněnská 3955/71",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "470630",
+    "provozovatel": "ESTEKO s.r.o.",
+    "street": "tř. Masarykova 1663",
+    "town": "Veselí nad Moravou",
+    "zip": "69801"
+  },
+  {
+    "id": "470631",
+    "provozovatel": "Pavel Podrazil",
+    "street": "Velkomoravská 4188/83B",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "470632",
+    "provozovatel": "Pavel Chaloupka",
+    "street": "Sv. Čecha 3851/11",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "470633",
+    "provozovatel": "STK Kyjov s.r.o.",
+    "street": "Boršovská 2622/91",
+    "town": "Kyjov",
+    "zip": "69701"
+  },
+  {
+    "id": "470634",
+    "provozovatel": "ESTEKO s.r.o.",
+    "street": "Měšťanská 4339/146A",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "470708",
+    "provozovatel": "Střední škola průmyslová, technická a automobilní",
+    "street": "Školní 1a",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "470709",
+    "provozovatel": "Louda Auto a.s.",
+    "street": "Znojemská 4461/86a",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "470711",
+    "provozovatel": "Vladimír Martinů",
+    "street": "Tovární 1350/22",
+    "town": "Třešť",
+    "zip": "58901"
+  },
+  {
+    "id": "470719",
+    "provozovatel": "Opravny Telč, a.s.",
+    "street": "Radkovská 230",
+    "town": "Telč",
+    "zip": "58856"
+  },
+  {
+    "id": "470724",
+    "provozovatel": "AUTO DOBROVOLNÝ V.M. s.r.o.",
+    "street": "Okružní 3",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "470729",
+    "provozovatel": "SME Jihlava s.r.o.",
+    "street": "Mlýnská 5496/60",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "470802",
+    "provozovatel": "CSAO, spol. s r.o.",
+    "street": "Bílanská 2595",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "470804",
+    "provozovatel": "DOBE-CAR s.r.o.",
+    "street": "Tovární 1250",
+    "town": "Holešov",
+    "zip": "76901"
+  },
+  {
+    "id": "470806",
+    "provozovatel": "AUTOSHOP PAULUS, spol. s r.o.",
+    "street": "Hulínská 3221",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "470811",
+    "provozovatel": "Miroslav Belli s.r.o.",
+    "street": "Palackého 464",
+    "town": "Holešov",
+    "zip": "76901"
+  },
+  {
+    "id": "470813",
+    "provozovatel": "KM AUTEXIM, spol. s r.o.",
+    "street": "Hulínská 2383",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "470814",
+    "provozovatel": "Střední škola - Centrum odborné přípravy technické",
+    "street": "Nábělkova 539/3",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "470817",
+    "provozovatel": "KLAS, opravárensko výrobní družstvo Kroměříž",
+    "street": "Kaplanova 1763",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "470901",
+    "provozovatel": "Martin Štěpánek",
+    "street": "Boskovická ul.",
+    "town": "Plumlov",
+    "zip": "79803"
+  },
+  {
+    "id": "470905",
+    "provozovatel": "David Kočiřík",
+    "street": "Vrchlického 633",
+    "town": "Konice",
+    "zip": "79852"
+  },
+  {
+    "id": "470906",
+    "provozovatel": "Automechanika, a.s.",
+    "street": "Letecká 2",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "470907",
+    "provozovatel": "FEDOR Auto s.r.o.",
+    "street": "Průmyslová 4533/18",
+    "town": "Prostějov",
+    "zip": "79801"
+  },
+  {
+    "id": "470909",
+    "provozovatel": "AUTO - Rolný v.o.s.",
+    "street": "Brněnská 4276/88a",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "470914",
+    "provozovatel": "PV - AUTO spol. s r.o.",
+    "street": "Brněnská 108",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "470916",
+    "provozovatel": "Autoelektro Buriánek s.r.o.",
+    "street": "Olomoucká 431/139",
+    "town": "Držovice",
+    "zip": "79607"
+  },
+  {
+    "id": "471008",
+    "provozovatel": "Horácké autodružstvo",
+    "street": "Brněnská 123",
+    "town": "Kožichovice",
+    "zip": "67401"
+  },
+  {
+    "id": "471010",
+    "provozovatel": "Střední průmyslová škola Třebíč",
+    "street": "Žďárského 183",
+    "town": "Kožichovice",
+    "zip": "67401"
+  },
+  {
+    "id": "471019",
+    "provozovatel": "AUTOSALON F3K, s.r.o.",
+    "street": "Spojovací 1338",
+    "town": "Třebíč",
+    "zip": "67401"
+  },
+  {
+    "id": "471025",
+    "provozovatel": "ELIŠKA MÍČOVÁ, s.r.o.",
+    "street": "Lažínky 71",
+    "town": "Moravské Budějovice",
+    "zip": "67602"
+  },
+  {
+    "id": "471026",
+    "provozovatel": "Autoopravna Žák a synové s.r.o.",
+    "street": "Dolní Vilémovice 148",
+    "town": "Dolní Vilémovice",
+    "zip": "67552"
+  },
+  {
+    "id": "471037",
+    "provozovatel": "Pavel Dvořák",
+    "street": "Nad Kralickým kopcem",
+    "town": "Kralice nad Oslavou",
+    "zip": "67573"
+  },
+  {
+    "id": "471038",
+    "provozovatel": "J plus Z servis, s.r.o.",
+    "street": "Průmyslová 154",
+    "town": "Třebíč",
+    "zip": "67401"
+  },
+  {
+    "id": "471041",
+    "provozovatel": "Pavel Dvořák",
+    "street": "Velké pole 317",
+    "town": "Kralice nad Oslavou",
+    "zip": "67571"
+  },
+  {
+    "id": "471102",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Březolupy 475",
+    "town": "Březolupy",
+    "zip": "68713"
+  },
+  {
+    "id": "471104",
+    "provozovatel": "AUTOSERVIS EGP, s.r.o.",
+    "street": "U Olšavy 2463",
+    "town": "Uherský Brod",
+    "zip": "68801"
+  },
+  {
+    "id": "471117",
+    "provozovatel": "STK ARAVER, s.r.o.",
+    "street": "U Korečnice 2834",
+    "town": "Uherský Brod",
+    "zip": "68801"
+  },
+  {
+    "id": "471201",
+    "provozovatel": "AUTO - BAYER, s.r.o.",
+    "street": "Bučovická 299",
+    "town": "Slavkov u Brna",
+    "zip": "68401"
+  },
+  {
+    "id": "471208",
+    "provozovatel": "Q-SERVICE Petr Dašovský",
+    "street": "Ždánská 576",
+    "town": "Bučovice",
+    "zip": "68501"
+  },
+  {
+    "id": "471220",
+    "provozovatel": "MAN Truck & Bus Czech Republic s.r.o.",
+    "street": "Slavkovská 1184/33",
+    "town": "Rousínov",
+    "zip": "68301"
+  },
+  {
+    "id": "471221",
+    "provozovatel": "Auto Krčma Vyškov s.r.o.",
+    "street": "Olomoucká",
+    "town": "Vyškov",
+    "zip": "68201"
+  },
+  {
+    "id": "471314",
+    "provozovatel": "Libor Suchý, autoprodejna",
+    "street": "Nový Šaldorf 81",
+    "town": "Nový Šaldorf-Sedlešovice",
+    "zip": "67181"
+  },
+  {
+    "id": "471318",
+    "provozovatel": "AUTO Záruba s.r.o.",
+    "street": "Oblekovice 34",
+    "town": "Znojmo",
+    "zip": "67181"
+  },
+  {
+    "id": "471319",
+    "provozovatel": "STK 4 you s.r.o.",
+    "street": "Dobšická 2295/2",
+    "town": "Znojmo",
+    "zip": "66902"
+  },
+  {
+    "id": "471322",
+    "provozovatel": "Hájek a Peš s.r.o",
+    "street": "Bantice 75, areál MAN",
+    "town": "Bantice",
+    "zip": "67161"
+  },
+  {
+    "id": "471327",
+    "provozovatel": "Milan Kočí",
+    "street": "Břežany 60",
+    "town": "Břežany",
+    "zip": "67165"
+  },
+  {
+    "id": "471408",
+    "provozovatel": "Horácké autodružstvo",
+    "street": "K Novému Nádraží",
+    "town": "Velké Meziříčí",
+    "zip": "59401"
+  },
+  {
+    "id": "471409",
+    "provozovatel": "AUTO DOBROVOLNÝ V.M. s.r.o.",
+    "street": "Františky Stránecké",
+    "town": "Velké Meziříčí",
+    "zip": "59401"
+  },
+  {
+    "id": "471413",
+    "provozovatel": "AUTO JAROŠ s.r.o.",
+    "street": "Žďárská 352",
+    "town": "Nové Veselí",
+    "zip": "59214"
+  },
+  {
+    "id": "471415",
+    "provozovatel": "Jaroslav Trojan",
+    "street": "Soškova 660",
+    "town": "Nové Město na Moravě",
+    "zip": "59231"
+  },
+  {
+    "id": "471416",
+    "provozovatel": "A U T O ... s.r.o.",
+    "street": "Nádražní 2118/67",
+    "town": "Žďár nad Sázavou",
+    "zip": "59101"
+  },
+  {
+    "id": "471421",
+    "provozovatel": "BÍTEŠSKÁ DOPRAVNÍ SPOLEČNOST, spol. s r.o.",
+    "street": "Vlkovská",
+    "town": "Velká Bíteš",
+    "zip": "59501"
+  },
+  {
+    "id": "472201",
+    "provozovatel": "SME Brno s.r.o.",
+    "street": "Jihlavská 716/29",
+    "town": "Brno",
+    "zip": "62500"
+  },
+  {
+    "id": "472203",
+    "provozovatel": "EMISE Heršpice s.r.o.",
+    "street": "K terminálu 700/1",
+    "town": "Brno",
+    "zip": "61900"
+  },
+  {
+    "id": "472204",
+    "provozovatel": "TASY s.r.o.",
+    "street": "Jedovnická 4345/11",
+    "town": "Brno",
+    "zip": "62800"
+  },
+  {
+    "id": "472205",
+    "provozovatel": "INSPEKT CAR s.r.o.",
+    "street": "Olomoucká 1283/156c",
+    "town": "Brno",
+    "zip": "61800"
+  },
+  {
+    "id": "472206",
+    "provozovatel": "INSPEKT CAR s.r.o.",
+    "street": "Olomoucká 1283/156c",
+    "town": "Brno",
+    "zip": "61800"
+  },
+  {
+    "id": "472207",
+    "provozovatel": "LECHNER CZ, s.r.o.",
+    "street": "Železná 691/18",
+    "town": "Brno",
+    "zip": "61900"
+  },
+  {
+    "id": "480104",
+    "provozovatel": "JV FOODS spol. s r.o.",
+    "street": "Zahradní 1925/44a",
+    "town": "Bruntál",
+    "zip": "79201"
+  },
+  {
+    "id": "480114",
+    "provozovatel": "František Steininger",
+    "street": "Partyzánů 2344/22, 794 01, Krnov - Pod Bezručovým",
+    "town": "Krnov",
+    "zip": "79401"
+  },
+  {
+    "id": "480117",
+    "provozovatel": "Josef Mlynarčík",
+    "street": "Ruská 10",
+    "town": "Bruntál",
+    "zip": "79201"
+  },
+  {
+    "id": "480119",
+    "provozovatel": "VESTAP - výstavba domů a bytů, s.r.o.",
+    "street": "Ve Vrbině 1120/4",
+    "town": "Krnov",
+    "zip": "79401"
+  },
+  {
+    "id": "480204",
+    "provozovatel": "Ludmila Kufelová",
+    "street": "Horní Domaslavice 28",
+    "town": "Horní Domaslavice",
+    "zip": "73951"
+  },
+  {
+    "id": "480208",
+    "provozovatel": "Autodružstvo Frýdek - Místek",
+    "street": "Beskydská 2299",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "480212",
+    "provozovatel": "KARIREAL a.s.",
+    "street": "Frýdecká 272",
+    "town": "Třinec",
+    "zip": "73961"
+  },
+  {
+    "id": "480228",
+    "provozovatel": "Karel Sobek s.r.o.",
+    "street": "Bruzovská 3828",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "480236",
+    "provozovatel": "Tomáš Lehnert",
+    "street": "p.č. 2086/2",
+    "town": "Staříč",
+    "zip": "73943"
+  },
+  {
+    "id": "480238",
+    "provozovatel": "AUTOEMISTAR GROUP s.r.o.",
+    "street": "17.listopadu",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "480240",
+    "provozovatel": "KTS servis s.r.o.",
+    "street": "Frýdecká 1978",
+    "town": "Český Těšín",
+    "zip": "73701"
+  },
+  {
+    "id": "480301",
+    "provozovatel": "AUTOSALON KUDRNA s.r.o.",
+    "street": "Příčná 1215",
+    "town": "Orlová",
+    "zip": "73514"
+  },
+  {
+    "id": "480320",
+    "provozovatel": "Roman Zielina",
+    "street": "Údolní 551/3",
+    "town": "Havířov",
+    "zip": "73601"
+  },
+  {
+    "id": "480327",
+    "provozovatel": "Václav Šeda",
+    "street": "Požární 352",
+    "town": "Rychvald",
+    "zip": "73532"
+  },
+  {
+    "id": "480332",
+    "provozovatel": "Radim Walica",
+    "street": "Na Hrázi 761",
+    "town": "Bohumín - Skřečoň",
+    "zip": "73531"
+  },
+  {
+    "id": "480334",
+    "provozovatel": "Ing. Arnošt Merta",
+    "street": "Mírová 1806",
+    "town": "Rychvald",
+    "zip": "73532"
+  },
+  {
+    "id": "480339",
+    "provozovatel": "AUTO - SLUMO, s.r.o.",
+    "street": "9. května 66",
+    "town": "Horní Suchá",
+    "zip": "73535"
+  },
+  {
+    "id": "480341",
+    "provozovatel": "Jaroslav Janči, s.r.o.",
+    "street": "Ostravská 1833",
+    "town": "Petřvald",
+    "zip": "73541"
+  },
+  {
+    "id": "480344",
+    "provozovatel": "AUTOCENTRÁLA s.r.o.",
+    "street": "Ostravská 1946/12",
+    "town": "Karviná-Fryštát",
+    "zip": "73301"
+  },
+  {
+    "id": "480345",
+    "provozovatel": "DEVAP servis s.r.o.",
+    "street": "Želežničářů 1529/1c",
+    "town": "Havířov - město",
+    "zip": "73601"
+  },
+  {
+    "id": "480346",
+    "provozovatel": "DEVAP GROUP s.r.o.",
+    "street": "Železničářů 1529/1c",
+    "town": "Havířov",
+    "zip": "73601"
+  },
+  {
+    "id": "480347",
+    "provozovatel": "Volvo Group Czech Republic, s.r.o.",
+    "street": "U plnírny 1140/1a",
+    "town": "Havířov",
+    "zip": "73564"
+  },
+  {
+    "id": "480348",
+    "provozovatel": "STK EMISE, s.r.o.",
+    "street": "Svatopluka Čecha 799/32o",
+    "town": "Karviná",
+    "zip": "73506"
+  },
+  {
+    "id": "480404",
+    "provozovatel": "Autoservis Rudolf Vašek s.r.o.",
+    "street": "Štramberská 105/60",
+    "town": "Kopřivnice",
+    "zip": "74221"
+  },
+  {
+    "id": "480406",
+    "provozovatel": "Veterinární univerzita Brno",
+    "street": "Elišky Krásnohorské 178",
+    "town": "Šenov u Nového Jičína",
+    "zip": "74242"
+  },
+  {
+    "id": "480410",
+    "provozovatel": "BONO auto a.s.",
+    "street": "Malostranská 579",
+    "town": "Šenov u Nového Jičína",
+    "zip": "74242"
+  },
+  {
+    "id": "480414",
+    "provozovatel": "Josef Jahn",
+    "street": "Prchalov 23",
+    "town": "Příbor",
+    "zip": "74258"
+  },
+  {
+    "id": "480422",
+    "provozovatel": "EMISE FREN s.r.o.",
+    "street": "Martinská čtvrť 1739",
+    "town": "Frenštát pod Radhoštěm",
+    "zip": "74401"
+  },
+  {
+    "id": "480424",
+    "provozovatel": "STK Roman Kučera s.r.o.",
+    "street": "309",
+    "town": "Velké Albrechtice",
+    "zip": "74291"
+  },
+  {
+    "id": "480428",
+    "provozovatel": "Richard Kučera",
+    "street": "309",
+    "town": "Velké Albrechtice",
+    "zip": "74291"
+  },
+  {
+    "id": "480429",
+    "provozovatel": "EMISE KOPR s.r.o.",
+    "street": "Nádražní 1599/4",
+    "town": "Kopřivnice",
+    "zip": "74221"
+  },
+  {
+    "id": "480430",
+    "provozovatel": "AQUA MORAVA a.s.",
+    "street": "Štefánikova 221/20h",
+    "town": "Kopřivnice",
+    "zip": "74221"
+  },
+  {
+    "id": "480512",
+    "provozovatel": "EURO - PROFICAR s.r.o.",
+    "street": "Slavonínská 804/1",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "480516",
+    "provozovatel": "AUTOKOMPLEX OLOMOUC s.r.o.",
+    "street": "Svatoplukova 963/14",
+    "town": "Litovel",
+    "zip": "78401"
+  },
+  {
+    "id": "480517",
+    "provozovatel": "Pavel Kopeček",
+    "street": "Uničovská 2403/62A",
+    "town": "Šternberk",
+    "zip": "78501"
+  },
+  {
+    "id": "480534",
+    "provozovatel": "STK - AUTOL Olomouc s.r.o.",
+    "street": "Lazecká 552",
+    "town": "Olomouc, Lazce",
+    "zip": "77900"
+  },
+  {
+    "id": "480543",
+    "provozovatel": "PLYNOMONT spol. s r.o.",
+    "street": "Náves Svobody 6/10",
+    "town": "Olomouc - Holice",
+    "zip": "77900"
+  },
+  {
+    "id": "480546",
+    "provozovatel": "Petr Konečný",
+    "street": "Střemeníčko 8",
+    "town": "Luká",
+    "zip": "78324"
+  },
+  {
+    "id": "480557",
+    "provozovatel": "Jaroslav Kučera",
+    "street": "Pode Mlýnem 11",
+    "town": "Olomouc",
+    "zip": "77200"
+  },
+  {
+    "id": "480558",
+    "provozovatel": "\"STK \"\"Na Přerovské\"\", s.r.o.\"",
+    "street": "Týnecká 833/39",
+    "town": "Olomouc, Holice",
+    "zip": "77900"
+  },
+  {
+    "id": "480560",
+    "provozovatel": "Šternberská STK, s.r.o.",
+    "street": "Litovelská 2585/14",
+    "town": "Šternberk",
+    "zip": "78501"
+  },
+  {
+    "id": "480562",
+    "provozovatel": "DIZIONARIO s.r.o.",
+    "street": "Sladkovského 53A",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "480602",
+    "provozovatel": "Lumír Tvarůžka AUTOMOTOR s.r.o.",
+    "street": "Chrudimská 92",
+    "town": "Čavisov",
+    "zip": "74764"
+  },
+  {
+    "id": "480607",
+    "provozovatel": "HARASIM s.r.o.",
+    "street": "Slezská 643/3",
+    "town": "Štěpánkovice",
+    "zip": "74728"
+  },
+  {
+    "id": "480608",
+    "provozovatel": "Ing. Bc. Lukáš HULA AMP-SERVIS-SME",
+    "street": "Krnovská 2863/75d",
+    "town": "Opava",
+    "zip": "74601"
+  },
+  {
+    "id": "480612",
+    "provozovatel": "Autoservis A+Č Kravaře s. r. o.",
+    "street": "Opavská 3319/45b",
+    "town": "Kravaře",
+    "zip": "74721"
+  },
+  {
+    "id": "480616",
+    "provozovatel": "Petr Fojtík",
+    "street": "Jandova 68",
+    "town": "Hlučín-Darkovičky",
+    "zip": "74801"
+  },
+  {
+    "id": "480624",
+    "provozovatel": "AUTOCENTRÁLA s.r.o.",
+    "street": "Markvartovická 1906/7",
+    "town": "Hlučín",
+    "zip": "74801"
+  },
+  {
+    "id": "480631",
+    "provozovatel": "HAGEMANN a.s.",
+    "street": "Krnovská 117",
+    "town": "Opava",
+    "zip": "74707"
+  },
+  {
+    "id": "480633",
+    "provozovatel": "DM BETA, s.r.o.",
+    "street": "Slavkovská 39",
+    "town": "Opava",
+    "zip": "74707"
+  },
+  {
+    "id": "480636",
+    "provozovatel": "Porsche Inter Auto CZ spol. s r.o.",
+    "street": "Krnovská 644/7",
+    "town": "Opava",
+    "zip": "74707"
+  },
+  {
+    "id": "480637",
+    "provozovatel": "AUTOMOTOLAND CZ s.r.o.",
+    "street": "Těšínská 85",
+    "town": "Opava",
+    "zip": "74601"
+  },
+  {
+    "id": "480701",
+    "provozovatel": "Porsche Inter Auto CZ spol. s r.o.",
+    "street": "Cihelní 3160/49b",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480705",
+    "provozovatel": "Autodružstvo Frýdek - Místek",
+    "street": "Brandlova 5",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480706",
+    "provozovatel": "Autodružstvo Frýdek - Místek",
+    "street": "Hlučínská 60",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480713",
+    "provozovatel": "UNICAR, spol. s r.o.",
+    "street": "Vítkovická 36",
+    "town": "Ostrava",
+    "zip": "70118"
+  },
+  {
+    "id": "480714",
+    "provozovatel": "EMISE TAJGA, a.s.",
+    "street": "U Řeky 660",
+    "town": "Ostrava",
+    "zip": "72000"
+  },
+  {
+    "id": "480727",
+    "provozovatel": "Dušan Barniak",
+    "street": "Sprašova 3",
+    "town": "Ostrava",
+    "zip": "71200"
+  },
+  {
+    "id": "480734",
+    "provozovatel": "Střední škola technická a dopravní, Ostrava-Vítkov",
+    "street": "Moravská 964/2",
+    "town": "Ostrava",
+    "zip": "70300"
+  },
+  {
+    "id": "480746",
+    "provozovatel": "AUTO DUBINA, a.s.",
+    "street": "Horní 3023/122",
+    "town": "Ostrava",
+    "zip": "70030"
+  },
+  {
+    "id": "480756",
+    "provozovatel": "AUTOCENTRÁLA s.r.o.",
+    "street": "Třebovická 5534",
+    "town": "Ostrava",
+    "zip": "72200"
+  },
+  {
+    "id": "480762",
+    "provozovatel": "HAS car s.r.o.",
+    "street": "Poděbradova 31",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480764",
+    "provozovatel": "STK - Ostrava s.r.o.",
+    "street": "Krmelínská 827/13",
+    "town": "Ostrava",
+    "zip": "72000"
+  },
+  {
+    "id": "480765",
+    "provozovatel": "CENTRUM Moravia Sever, spol. s r.o.",
+    "street": "Rudná 3",
+    "town": "Ostrava",
+    "zip": "70300"
+  },
+  {
+    "id": "480768",
+    "provozovatel": "Ing. Arnošt Merta",
+    "street": "Oběžná 2086/13",
+    "town": "Ostrava",
+    "zip": "70900"
+  },
+  {
+    "id": "480769",
+    "provozovatel": "HL propan spol. s r.o.",
+    "street": "Štramberská 2905",
+    "town": "Ostrava",
+    "zip": "70300"
+  },
+  {
+    "id": "480772",
+    "provozovatel": "Pavel Salomon",
+    "street": "Pustkovecká 146/11",
+    "town": "Ostrava",
+    "zip": "70800"
+  },
+  {
+    "id": "480773",
+    "provozovatel": "Chopper Czech Republic s.r.o.",
+    "street": "U Stadionu 3343/5",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480774",
+    "provozovatel": "HAFiN TRUST s.r.o.",
+    "street": "Sládkova 2666/27",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "480775",
+    "provozovatel": "STK - Ostrava s.r.o.",
+    "street": "Servisní 5556/1",
+    "town": "Ostrava",
+    "zip": "72200"
+  },
+  {
+    "id": "480801",
+    "provozovatel": "ELEKTRO-LUMEN, s.r.o.",
+    "street": "Hranická 505",
+    "town": "Hranice",
+    "zip": "75361"
+  },
+  {
+    "id": "480805",
+    "provozovatel": "HAVEL servis s.r.o.",
+    "street": "Skopalova 131/16",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "480811",
+    "provozovatel": "Miroslav Skoupil",
+    "street": "Padlých hrdinů 1483",
+    "town": "Kojetín",
+    "zip": "75201"
+  },
+  {
+    "id": "480813",
+    "provozovatel": "MOTOR expert s.r.o.",
+    "street": "9. května 2452",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "480817",
+    "provozovatel": "MOBIL expert, s.r.o.",
+    "street": "Na Zelince 1143",
+    "town": "Lipník nad Bečvou",
+    "zip": "75131"
+  },
+  {
+    "id": "480822",
+    "provozovatel": "Karel Halašta",
+    "street": "9. května 2452/90",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "480823",
+    "provozovatel": "PP AUTOCENTRUM s.r.o.",
+    "street": "Tř. 1. máje 328",
+    "town": "Hranice",
+    "zip": "75301"
+  },
+  {
+    "id": "480829",
+    "provozovatel": "KOVET, spol. s r.o.",
+    "street": "Na Zelince 1537",
+    "town": "Lipník nad Bečvou",
+    "zip": "75131"
+  },
+  {
+    "id": "480830",
+    "provozovatel": "KOVET, spol. s r.o.",
+    "street": "Teličkova 433/35",
+    "town": "Přerov II-Předmostí",
+    "zip": "75124"
+  },
+  {
+    "id": "480902",
+    "provozovatel": "Autoservis Hudousek spol. s r. o.",
+    "street": "Na Pilníku 307",
+    "town": "Štíty",
+    "zip": "78991"
+  },
+  {
+    "id": "480907",
+    "provozovatel": "Ivan Chládek",
+    "street": "Sušilova 1359/66",
+    "town": "Zábřeh",
+    "zip": "78901"
+  },
+  {
+    "id": "480909",
+    "provozovatel": "TILL s.r.o.",
+    "street": "Olomoucká 117",
+    "town": "Loštice",
+    "zip": "78983"
+  },
+  {
+    "id": "480912",
+    "provozovatel": "ABA STKáčko s.r.o.",
+    "street": "Žerotínova 3403/44",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "480925",
+    "provozovatel": "Dubická zemědělská a.s.",
+    "street": "Družstevní 5",
+    "town": "Dubicko",
+    "zip": "78972"
+  },
+  {
+    "id": "480933",
+    "provozovatel": "FRANOTRANS s.r.o.",
+    "street": "Na Křtaltě 2219/37",
+    "town": "Zábřeh",
+    "zip": "78901"
+  },
+  {
+    "id": "480935",
+    "provozovatel": "Služby BPK, s.r.o.",
+    "street": "Slunná 98",
+    "town": "Jeseník",
+    "zip": "79001"
+  },
+  {
+    "id": "481002",
+    "provozovatel": "Radovan Polčák",
+    "street": "Svazarmovská 865",
+    "town": "Rožnov pod Radhoštěm",
+    "zip": "75661"
+  },
+  {
+    "id": "481003",
+    "provozovatel": "Moravská nemovitostní a.s.",
+    "street": "Bobrky 495",
+    "town": "Vsetín",
+    "zip": "75501"
+  },
+  {
+    "id": "481004",
+    "provozovatel": "ESAS AUTO s.r.o.",
+    "street": "Záhumení 18",
+    "town": "Valašské Meziříčí",
+    "zip": "75701"
+  },
+  {
+    "id": "481005",
+    "provozovatel": "AD-auto-elektroopravna, výrobní družstvo",
+    "street": "4. května 180",
+    "town": "Vsetín",
+    "zip": "75501"
+  },
+  {
+    "id": "481012",
+    "provozovatel": "Z-Group a.s.",
+    "street": "Palackého 220",
+    "town": "Valašské Meziříčí",
+    "zip": "75701"
+  },
+  {
+    "id": "481020",
+    "provozovatel": "Sylva Sedlářová s.r.o.",
+    "street": "Tvarůžková 2994",
+    "town": "Rožnov pod Radhoštěm",
+    "zip": "75661"
+  },
+  {
+    "id": "481022",
+    "provozovatel": "A M G CENTRUM, s. r. o.",
+    "street": "Poličná 508",
+    "town": "Poličná",
+    "zip": "75701"
+  },
+  {
+    "id": "481023",
+    "provozovatel": "Tregado a.s.",
+    "street": "Bobrky 2270",
+    "town": "Vsetín",
+    "zip": "75501"
+  },
+  {
+    "id": "481024",
+    "provozovatel": "TOMPA SERVIS s.r.o.",
+    "street": "JIRÁSKOVA 701",
+    "town": "Vsetín",
+    "zip": "75501"
+  },
+  {
+    "id": "510101",
+    "provozovatel": "Vyšší odborná škola a Střední průmyslová škola dop",
+    "street": "Masná 18/1000",
+    "town": "Praha",
+    "zip": "11000"
+  },
+  {
+    "id": "510402",
+    "provozovatel": "Dopravní podnik hl. m. Prahy, akciová společnost",
+    "street": "ke garážím 2",
+    "town": "Praha",
+    "zip": "14033"
+  },
+  {
+    "id": "510405",
+    "provozovatel": "I M O F A, spol. s.r.o.",
+    "street": "Milevská 2",
+    "town": "Praha",
+    "zip": "14000"
+  },
+  {
+    "id": "510406",
+    "provozovatel": "SAGA PRAHA s.r.o.",
+    "street": "Daimlerova 2296/2",
+    "town": "Praha",
+    "zip": "14900"
+  },
+  {
+    "id": "510408",
+    "provozovatel": "Ladislav Brynda",
+    "street": "Dobronická 635",
+    "town": "Praha",
+    "zip": "14800"
+  },
+  {
+    "id": "510409",
+    "provozovatel": "AUTO JAROV, s.r.o.",
+    "street": "Vídeňská 126",
+    "town": "Praha 4",
+    "zip": "14800"
+  },
+  {
+    "id": "510410",
+    "provozovatel": "Autotyp H+S s.r.o.",
+    "street": "Dobronická 1021",
+    "town": "Praha",
+    "zip": "14825"
+  },
+  {
+    "id": "510504",
+    "provozovatel": "AUTO STYL a.s.",
+    "street": "Jeremiášova 3/1115",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510509",
+    "provozovatel": "HESTI, spol. s r. o.",
+    "street": "K Hájům 946/10",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510510",
+    "provozovatel": "Louwman Motor Praha s.r.o.",
+    "street": "Donátova 1225",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "510511",
+    "provozovatel": "SAGA PRAHA s.r.o.",
+    "street": "Bavorská 2666/16",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510512",
+    "provozovatel": "Louwman Motor Praha s.r.o.",
+    "street": "Sárská 2664/3",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510514",
+    "provozovatel": "CAR SYSTEM s.r.o.",
+    "street": "Fantova 1742/23",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510515",
+    "provozovatel": "2H Holding, s.r.o.",
+    "street": "Jindrova 1389/58",
+    "town": "Praha",
+    "zip": "15000"
+  },
+  {
+    "id": "510516",
+    "provozovatel": "EMISE STODŮLKY s.r.o.",
+    "street": "Jeremiášova 947/16",
+    "town": "Praha",
+    "zip": "15500"
+  },
+  {
+    "id": "510601",
+    "provozovatel": "Dopravní podnik hl. m. Prahy, akciová společnost",
+    "street": "Reinerova 6",
+    "town": "Praha",
+    "zip": "16300"
+  },
+  {
+    "id": "510703",
+    "provozovatel": "Přerost a Švorc - auto, s.r.o.",
+    "street": "Za elektrárnou 19",
+    "town": "Praha",
+    "zip": "17000"
+  },
+  {
+    "id": "510804",
+    "provozovatel": "M 3000, a.s.",
+    "street": "Šaldova 36",
+    "town": "Praha",
+    "zip": "18600"
+  },
+  {
+    "id": "510805",
+    "provozovatel": "Ing. Rudolf KROUTIL",
+    "street": "Čimická 809/53",
+    "town": "Praha",
+    "zip": "18104"
+  },
+  {
+    "id": "510806",
+    "provozovatel": "SME Chabry s.r.o.",
+    "street": "Dopraváků 723/1",
+    "town": "Praha",
+    "zip": "18400"
+  },
+  {
+    "id": "510808",
+    "provozovatel": "Jan Holub",
+    "street": "Ústecká 968/1",
+    "town": "Praha",
+    "zip": "18000"
+  },
+  {
+    "id": "510908",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Na Výběžku 688/11",
+    "town": "Praha 9",
+    "zip": "19000"
+  },
+  {
+    "id": "510911",
+    "provozovatel": "Jaromír Toncar",
+    "street": "Na Bačálkách 1952/7",
+    "town": "Praha",
+    "zip": "19300"
+  },
+  {
+    "id": "510916",
+    "provozovatel": "NH Car, s.r.o.",
+    "street": "Broumarská 1503",
+    "town": "Praha",
+    "zip": "19800"
+  },
+  {
+    "id": "510917",
+    "provozovatel": "VSP Auto Praha Servis, a.s.",
+    "street": "Pod Šancemi 444/1",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "510918",
+    "provozovatel": "Emil Frey ČR, s.r.o.",
+    "street": "Skorkovská 1585",
+    "town": "Praha",
+    "zip": "19800"
+  },
+  {
+    "id": "510920",
+    "provozovatel": "Jan Holub",
+    "street": "Poděbradská 541/29",
+    "town": "Praha",
+    "zip": "19000"
+  },
+  {
+    "id": "510921",
+    "provozovatel": "Emise výběžek s.r.o.",
+    "street": "Nademlejnská 823/11",
+    "town": "Praha",
+    "zip": "10900"
+  },
+  {
+    "id": "511004",
+    "provozovatel": "MOTORENA Hostivař, s.r.o.",
+    "street": "Opravářská 944/2",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "511009",
+    "provozovatel": "AUTO GOLDCAR a.s.",
+    "street": "Bohdalecká 1416/12",
+    "town": "Praha",
+    "zip": "10100"
+  },
+  {
+    "id": "511010",
+    "provozovatel": "EMISE HERMAN s.r.o.",
+    "street": "Ke Kablu 24/378",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "511012",
+    "provozovatel": "EMISE PRAHA s.r.o.",
+    "street": "Černokostelecká 569/118",
+    "town": "Praha",
+    "zip": "10000"
+  },
+  {
+    "id": "511013",
+    "provozovatel": "Jana Vondrušková",
+    "street": "Ke Kablu 24/370",
+    "town": "Praha",
+    "zip": "10200"
+  },
+  {
+    "id": "511014",
+    "provozovatel": "Autoservis Garant s.r.o.",
+    "street": "Průběžná 3210/80B",
+    "town": "Praha",
+    "zip": "10000"
+  },
+  {
+    "id": "511015",
+    "provozovatel": "1H Holding s.r.o.",
+    "street": "K Říčanům",
+    "town": "Praha",
+    "zip": "10300"
+  },
+  {
+    "id": "520106",
+    "provozovatel": "S A P spol. s r.o.",
+    "street": "Loket 49",
+    "town": "Loket",
+    "zip": "25768"
+  },
+  {
+    "id": "520203",
+    "provozovatel": "STK Hořovice, spol. s r.o.",
+    "street": "Masarykova 1432",
+    "town": "Hořovice",
+    "zip": "26801"
+  },
+  {
+    "id": "520204",
+    "provozovatel": "Iveco Truck Centrum, s.r.o.",
+    "street": "Pražská 330",
+    "town": "Loděnice",
+    "zip": "26712"
+  },
+  {
+    "id": "520302",
+    "provozovatel": "KD SERVIS a.s.",
+    "street": "Železničářů 885",
+    "town": "Kladno",
+    "zip": "27280"
+  },
+  {
+    "id": "520402",
+    "provozovatel": "Josef Skala",
+    "street": "77",
+    "town": "Vrbčany",
+    "zip": "28104"
+  },
+  {
+    "id": "520403",
+    "provozovatel": "ČSAD POLKOST, spol. s r.o.",
+    "street": "nám.Smiřických 16",
+    "town": "Kostelec nad Černými lesy",
+    "zip": "28163"
+  },
+  {
+    "id": "520404",
+    "provozovatel": "Josef Hájek - autoopravna",
+    "street": "Lžovická 301",
+    "town": "Týnec nad Labem",
+    "zip": "28126"
+  },
+  {
+    "id": "520406",
+    "provozovatel": "AUTO TOBI, s.r.o.",
+    "street": "Žabonosy 5",
+    "town": "Žabonosy",
+    "zip": "28002"
+  },
+  {
+    "id": "520407",
+    "provozovatel": "HCDF s.r.o.",
+    "street": "Rostoklaty 8",
+    "town": "Rostoklaty 8",
+    "zip": "28171"
+  },
+  {
+    "id": "520501",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Pod Nádražím 1204/6",
+    "town": "Čáslav",
+    "zip": "28601"
+  },
+  {
+    "id": "520701",
+    "provozovatel": "SME Kosmonosy s.r.o.",
+    "street": "Boleslavská 1042",
+    "town": "Mladá Boleslav",
+    "zip": "29306"
+  },
+  {
+    "id": "520704",
+    "provozovatel": "AUTO COMERCIA s.r.o.",
+    "street": "Hradišťská 167",
+    "town": "Kněžmost",
+    "zip": "29402"
+  },
+  {
+    "id": "520711",
+    "provozovatel": "Stanislav Štytr",
+    "street": "Jílová 1315",
+    "town": "Mnichovo Hradiště",
+    "zip": "29501"
+  },
+  {
+    "id": "520801",
+    "provozovatel": "AUTOOPRAVNA ŠEBESTA",
+    "street": "Opolanská 172",
+    "town": "Libice nad Cidlinou",
+    "zip": "28907"
+  },
+  {
+    "id": "520802",
+    "provozovatel": "ČSAP s.r.o.",
+    "street": "Dopravní 1717",
+    "town": "Nymburk",
+    "zip": "28880"
+  },
+  {
+    "id": "520803",
+    "provozovatel": "Technický servis STK s.r.o.",
+    "street": "Draho 14",
+    "town": "Budiměřice",
+    "zip": "28802"
+  },
+  {
+    "id": "520808",
+    "provozovatel": "NOTA BENE, spol. s.r.o.",
+    "street": "Maršála Koněva 24",
+    "town": "Nymburk",
+    "zip": "28802"
+  },
+  {
+    "id": "520905",
+    "provozovatel": "PROFI AUTO CZ a.s.",
+    "street": "Kolovratská 1367",
+    "town": "Říčany",
+    "zip": "25101"
+  },
+  {
+    "id": "520907",
+    "provozovatel": "Volvo Group Czech Republic, s.r.o.",
+    "street": "Obchodní 105",
+    "town": "Čestlice",
+    "zip": "25170"
+  },
+  {
+    "id": "520911",
+    "provozovatel": "Servis AUTO OPAT s.r.o.",
+    "street": "Komerční zóna 467",
+    "town": "Nupaky",
+    "zip": "25101"
+  },
+  {
+    "id": "520912",
+    "provozovatel": "Petr Tesařík , AUTO-PNEU-SERVIS",
+    "street": "Hrusice 128",
+    "town": "Hrusice",
+    "zip": "25166"
+  },
+  {
+    "id": "520913",
+    "provozovatel": "LKW Petr Urban Říčany,s.r.o.",
+    "street": "K Dálnici 329",
+    "town": "Světice",
+    "zip": "25101"
+  },
+  {
+    "id": "521004",
+    "provozovatel": "AB Auto Brejla s.r.o.",
+    "street": "AUTOMOBILOVÁ 585",
+    "town": "Vestec",
+    "zip": "25250"
+  },
+  {
+    "id": "521005",
+    "provozovatel": "TÜV SÜD Czech s.r.o.",
+    "street": "PŘÍLEPSKÁ 1920",
+    "town": "Roztoky",
+    "zip": "25263"
+  },
+  {
+    "id": "521006",
+    "provozovatel": "K+K Autoservis Czech s.r.o.",
+    "street": "U OKRUHU 587",
+    "town": "Vestec",
+    "zip": "25242"
+  },
+  {
+    "id": "521201",
+    "provozovatel": "ANEXIA s.r.o.",
+    "street": "Lubenská 1588",
+    "town": "Rakovník",
+    "zip": "26901"
+  },
+  {
+    "id": "521202",
+    "provozovatel": "České lupkové závody, a.s.",
+    "street": "Pecínov 1171",
+    "town": "Nové Strašecí",
+    "zip": "27111"
+  },
+  {
+    "id": "521207",
+    "provozovatel": "AR auto s.r.o.",
+    "street": "Průmyslová 1208",
+    "town": "Nové Strašecí",
+    "zip": "27101"
+  },
+  {
+    "id": "530104",
+    "provozovatel": "GW JIHOTRANS a.s.",
+    "street": "Pekárenská 255/77",
+    "town": "České Budějovice",
+    "zip": "37004"
+  },
+  {
+    "id": "530107",
+    "provozovatel": "AutoservisHP s.r.o.",
+    "street": "Jubilejní 38/48",
+    "town": "České Budějovice",
+    "zip": "37010"
+  },
+  {
+    "id": "530114",
+    "provozovatel": "Alena Ládová - DOZER s.r.o.",
+    "street": "J. Plachty 2606/56",
+    "town": "České Budějovice",
+    "zip": "37003"
+  },
+  {
+    "id": "530116",
+    "provozovatel": "DM SERVIS CB s.r.o.",
+    "street": "Dobrovodská 2284",
+    "town": "České Budějovice",
+    "zip": "37006"
+  },
+  {
+    "id": "530117",
+    "provozovatel": "Konela spol. s r.o.",
+    "street": "Na Návsi 3",
+    "town": "Staré Hodějovice",
+    "zip": "37008"
+  },
+  {
+    "id": "530120",
+    "provozovatel": "SPZone s.r.o.",
+    "street": "Vrbenská 199/25",
+    "town": "České Budějovice",
+    "zip": "37001"
+  },
+  {
+    "id": "530121",
+    "provozovatel": "DOMITRUCK s.r.o.",
+    "street": "Hlinská 681",
+    "town": "České Budějovice",
+    "zip": "37001"
+  },
+  {
+    "id": "530122",
+    "provozovatel": "Autoservis Čížek s.r.o.",
+    "street": "České Vrbné 2347",
+    "town": "České Budějovice",
+    "zip": "37011"
+  },
+  {
+    "id": "530123",
+    "provozovatel": "Michal Abel",
+    "street": "Ledenická 603",
+    "town": "České Budějovice",
+    "zip": "37006"
+  },
+  {
+    "id": "530203",
+    "provozovatel": "SME Kájov s.r.o.",
+    "street": "Dvorská 196",
+    "town": "Kájov",
+    "zip": "38221"
+  },
+  {
+    "id": "530403",
+    "provozovatel": "E & T Jihlava s.r.o.",
+    "street": "Skrýšovská 1680",
+    "town": "Pelhřimov",
+    "zip": "39301"
+  },
+  {
+    "id": "530404",
+    "provozovatel": "ICOM transport a.s.",
+    "street": "Okružní 612",
+    "town": "Humpolec",
+    "zip": "39601"
+  },
+  {
+    "id": "530410",
+    "provozovatel": "Zdeněk Vlk",
+    "street": "Rynárec 116",
+    "town": "Rynárec",
+    "zip": "39401"
+  },
+  {
+    "id": "530507",
+    "provozovatel": "STK Mirotice s.r.o.",
+    "street": "Družstevní 335",
+    "town": "Mirotice",
+    "zip": "39801"
+  },
+  {
+    "id": "530508",
+    "provozovatel": "Tollinger s.r.o.",
+    "street": "Hrejkovice 110",
+    "town": "Hrejkovice",
+    "zip": "39859"
+  },
+  {
+    "id": "530604",
+    "provozovatel": "Alena Ládová - DOZER s.r.o.",
+    "street": "Žižkova 117",
+    "town": "Prachatice",
+    "zip": "38422"
+  },
+  {
+    "id": "530605",
+    "provozovatel": "Alena Ládová - DOZER s.r.o.",
+    "street": "Chlumany 100",
+    "town": "Prachatice",
+    "zip": "38422"
+  },
+  {
+    "id": "530607",
+    "provozovatel": "Alena Ládová - DOZER s.r.o.",
+    "street": "Vodňanská 964",
+    "town": "Prachatice",
+    "zip": "38301"
+  },
+  {
+    "id": "530709",
+    "provozovatel": "AUTOGAS - CENTRUM, spol. s r.o.",
+    "street": "Heydukova 1269",
+    "town": "Strakonice",
+    "zip": "38601"
+  },
+  {
+    "id": "530710",
+    "provozovatel": "Vladimír Chylík",
+    "street": "Vrbenská 62",
+    "town": "Blatná",
+    "zip": "38801"
+  },
+  {
+    "id": "530711",
+    "provozovatel": "ČSAD STTRANS a.s.",
+    "street": "U Nádraží 984",
+    "town": "Strakonice",
+    "zip": "38613"
+  },
+  {
+    "id": "530713",
+    "provozovatel": "Martin Sháněl",
+    "street": "Radčice 26",
+    "town": "Vodňany",
+    "zip": "38901"
+  },
+  {
+    "id": "530802",
+    "provozovatel": "COMETT PLUS, spol. s r.o.",
+    "street": "Chýnovská 2115",
+    "town": "Tábor",
+    "zip": "39002"
+  },
+  {
+    "id": "530806",
+    "provozovatel": "SJP, spol. s r.o.",
+    "street": "Stojslavice 4",
+    "town": "STOJSLAVICE",
+    "zip": "39152"
+  },
+  {
+    "id": "530809",
+    "provozovatel": "EUROCONT CZ, spol. s r.o.",
+    "street": "Všechov 2",
+    "town": "Tábor",
+    "zip": "39131"
+  },
+  {
+    "id": "540201",
+    "provozovatel": "DP RENT  s.r.o.",
+    "street": "Tepelská 551/5",
+    "town": "Mariánské Lázně",
+    "zip": "35301"
+  },
+  {
+    "id": "540205",
+    "provozovatel": "AUTOSERVIS KUBÍK s. r. o.",
+    "street": "Střížov 42",
+    "town": "Cheb",
+    "zip": "35002"
+  },
+  {
+    "id": "540206",
+    "provozovatel": "Petr Borovec",
+    "street": "Čelakovského",
+    "town": "Aš",
+    "zip": "35201"
+  },
+  {
+    "id": "540301",
+    "provozovatel": "David Škultéty",
+    "street": "Sedlecká 72",
+    "town": "Karlovy Vary",
+    "zip": "36010"
+  },
+  {
+    "id": "540303",
+    "provozovatel": "Robert Pecina",
+    "street": "Sadov - Lesov 1",
+    "town": "Sadov",
+    "zip": "36001"
+  },
+  {
+    "id": "540306",
+    "provozovatel": "LIGNETA energo s.r.o.",
+    "street": "Miová 144",
+    "town": "Mírová",
+    "zip": "35735"
+  },
+  {
+    "id": "540308",
+    "provozovatel": "TÜV NORD Czech, s.r.o.",
+    "street": "Hroznětínská 402/4",
+    "town": "Karlovy Vary",
+    "zip": "36004"
+  },
+  {
+    "id": "540311",
+    "provozovatel": "Robert Pecina",
+    "street": "kpt. Jaroše 27",
+    "town": "Karlovy Vary",
+    "zip": "36001"
+  },
+  {
+    "id": "540312",
+    "provozovatel": "Dopravní podnik Karlovy Vary, a.s.",
+    "street": "Sportovní 656/1",
+    "town": "Karlovy Vary",
+    "zip": "36009"
+  },
+  {
+    "id": "540313",
+    "provozovatel": "Jiří Košler",
+    "street": "Malé Náměstí 432",
+    "town": "Toužim",
+    "zip": "36401"
+  },
+  {
+    "id": "540314",
+    "provozovatel": "MP CAR SERVICE s.r.o.",
+    "street": "Kfely 92",
+    "town": "Ostrov",
+    "zip": "36301"
+  },
+  {
+    "id": "540401",
+    "provozovatel": "Agrowest a.s.",
+    "street": "Dr.Sedláka 779/III",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "540403",
+    "provozovatel": "Stanislav Polena",
+    "street": "Komenského 203",
+    "town": "Horažďovice",
+    "zip": "34101"
+  },
+  {
+    "id": "540404",
+    "provozovatel": "AUTO KALNÝ s.r.o.",
+    "street": "Čímice 77",
+    "town": "Sušice",
+    "zip": "34201"
+  },
+  {
+    "id": "540409",
+    "provozovatel": "Martina Chaloupková-MARA",
+    "street": "K Letišti 670",
+    "town": "Klatovy",
+    "zip": "33901"
+  },
+  {
+    "id": "540410",
+    "provozovatel": "Václav Matějovský",
+    "street": "Nádražní 1309",
+    "town": "Sušice",
+    "zip": "34201"
+  },
+  {
+    "id": "540411",
+    "provozovatel": "Pavel Dražka",
+    "street": "Nádražní 1309",
+    "town": "Sušice",
+    "zip": "34201"
+  },
+  {
+    "id": "540514",
+    "provozovatel": "Plzeňská STK, s.r.o.",
+    "street": "Koterovská 156a",
+    "town": "Plzeň",
+    "zip": "32600"
+  },
+  {
+    "id": "540515",
+    "provozovatel": "Střední průmyslová škola dopravní, Plzeň, Karlovar",
+    "street": "Průkopníků 290",
+    "town": "Plzeň",
+    "zip": "33200"
+  },
+  {
+    "id": "540516",
+    "provozovatel": "Bammer trade a.s.",
+    "street": "Borská č.p.2964",
+    "town": "Plzeň",
+    "zip": "30100"
+  },
+  {
+    "id": "540606",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "Tř. 1. máje 700",
+    "town": "Přeštice",
+    "zip": "33401"
+  },
+  {
+    "id": "540704",
+    "provozovatel": "SP-KV AUTO s.r.o",
+    "street": "Plzeňská 150",
+    "town": "Třemošná",
+    "zip": "33011"
+  },
+  {
+    "id": "540706",
+    "provozovatel": "Volvo Group Czech Republic, s.r.o.",
+    "street": "\"Průmyslová zóna ,,U Mexika\"\" 1308\"",
+    "town": "Nýřany",
+    "zip": "33023"
+  },
+  {
+    "id": "540802",
+    "provozovatel": "Jana Ptáková",
+    "street": "Plzeňská 23",
+    "town": "Mýto",
+    "zip": "33805"
+  },
+  {
+    "id": "540906",
+    "provozovatel": "Chodovská STK s.r.o.",
+    "street": "Vintířovská 1119",
+    "town": "Chodov",
+    "zip": "35735"
+  },
+  {
+    "id": "541006",
+    "provozovatel": "Václav Toman",
+    "street": "Plzeňská 668",
+    "town": "Bor",
+    "zip": "34802"
+  },
+  {
+    "id": "550104",
+    "provozovatel": "Ivan Zahrádka",
+    "street": "Sad 5. května 472",
+    "town": "Cvikov",
+    "zip": "47154"
+  },
+  {
+    "id": "550105",
+    "provozovatel": "EMISE LI s.r.o.",
+    "street": "Žitavská 3112",
+    "town": "Česká Lípa",
+    "zip": "47001"
+  },
+  {
+    "id": "550208",
+    "provozovatel": "Petr Kuhn",
+    "street": "Dělnická 1875/59",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "550210",
+    "provozovatel": "Autoservis Menšík s.r.o.",
+    "street": "Libverda 193",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "550211",
+    "provozovatel": "AUTO BASIS s.r.o.",
+    "street": "Teplická 211a/205",
+    "town": "Děčín",
+    "zip": "40502"
+  },
+  {
+    "id": "550212",
+    "provozovatel": "Dopravní zdravotnická služba s.r.o.",
+    "street": "2. polské armády 627/15",
+    "town": "Rumburk",
+    "zip": "40801"
+  },
+  {
+    "id": "550213",
+    "provozovatel": "Auto Anex s. r. o.",
+    "street": "Žerotínova 378",
+    "town": "Děčín",
+    "zip": "40501"
+  },
+  {
+    "id": "550215",
+    "provozovatel": "CAR EMISE s.r.o.",
+    "street": "Teplická 137",
+    "town": "Děčín",
+    "zip": "40505"
+  },
+  {
+    "id": "550307",
+    "provozovatel": "KŠV GROUP s.r.o.",
+    "street": "Obchodní zóna 250",
+    "town": "Otvice",
+    "zip": "43111"
+  },
+  {
+    "id": "550308",
+    "provozovatel": "Pavel Švamberg",
+    "street": "Chomutovská 553",
+    "town": "Klášterec nad Ohří",
+    "zip": "43151"
+  },
+  {
+    "id": "550309",
+    "provozovatel": "HELVE s.r.o.",
+    "street": "Spořická 480",
+    "town": "Spořice",
+    "zip": "43101"
+  },
+  {
+    "id": "550310",
+    "provozovatel": "Boris Liška",
+    "street": "Málkov 106",
+    "town": "Málkov",
+    "zip": "43001"
+  },
+  {
+    "id": "550406",
+    "provozovatel": "PNEU HNÍDEK s.r.o.",
+    "street": "Knoflíková 2814/8a",
+    "town": "Jablonec nad Nisou",
+    "zip": "46601"
+  },
+  {
+    "id": "550408",
+    "provozovatel": "Radek Gabera",
+    "street": "Smetanova 4260/46",
+    "town": "Jablonec nad Nisou",
+    "zip": "46601"
+  },
+  {
+    "id": "550501",
+    "provozovatel": "MT Oil, s.r.o.",
+    "street": "Pěnčín 145",
+    "town": "Pěnčín",
+    "zip": "46345"
+  },
+  {
+    "id": "550506",
+    "provozovatel": "EMISE LI s.r.o.",
+    "street": "Londýnská",
+    "town": "Liberec",
+    "zip": "46001"
+  },
+  {
+    "id": "550507",
+    "provozovatel": "Aleš Kabátek",
+    "street": "Sobotice 15",
+    "town": "Český Dub",
+    "zip": "46343"
+  },
+  {
+    "id": "550508",
+    "provozovatel": "Eva Vazačová",
+    "street": "Kateřinská 152",
+    "town": "Liberec",
+    "zip": "46014"
+  },
+  {
+    "id": "550606",
+    "provozovatel": "Auto Krepčík, s.r.o.",
+    "street": "Žižkova 2493",
+    "town": "Roudnice nad Labem",
+    "zip": "41301"
+  },
+  {
+    "id": "550607",
+    "provozovatel": "TOP - auto - LT s.r.o.",
+    "street": "Mlékojedská 1594/2",
+    "town": "Litoměřice",
+    "zip": "41201"
+  },
+  {
+    "id": "550608",
+    "provozovatel": "IVESUR Česká republika, a.s.",
+    "street": "U Trati 2213",
+    "town": "Litoměřice",
+    "zip": "41201"
+  },
+  {
+    "id": "550701",
+    "provozovatel": "AUTORENOVA ŽATEC, společnost s ručením omezeným",
+    "street": "Osvoboditelů 721",
+    "town": "Žatec",
+    "zip": "43801"
+  },
+  {
+    "id": "550703",
+    "provozovatel": "\"\"\"K H K  ŽATEC\"\", s.r.o.\"",
+    "street": "Čeradická 2031",
+    "town": "Žatec",
+    "zip": "43801"
+  },
+  {
+    "id": "550704",
+    "provozovatel": "ZÁBOREC spol. s r.o.",
+    "street": "Lipová 42",
+    "town": "Libčeves",
+    "zip": "43926"
+  },
+  {
+    "id": "550801",
+    "provozovatel": "AUTOOPRAVNA Peleška s.r.o.",
+    "street": "Dělnická 43",
+    "town": "Most - Velebudice",
+    "zip": "43462"
+  },
+  {
+    "id": "550806",
+    "provozovatel": "AUTOCENTRUM Hůrka s.r.o.",
+    "street": "Čepirožská 5",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "550809",
+    "provozovatel": "JT SERVICE company s.r.o.",
+    "street": "Nádražní 2186",
+    "town": "Litvínov",
+    "zip": "43601"
+  },
+  {
+    "id": "550811",
+    "provozovatel": "Vladimír Fořt",
+    "street": "Podkrušnohorská 7",
+    "town": "Litvínov",
+    "zip": "43542"
+  },
+  {
+    "id": "550813",
+    "provozovatel": "SME Litvínov s.r.o.",
+    "street": "Litvínov",
+    "town": "Litvínov",
+    "zip": "43601"
+  },
+  {
+    "id": "550814",
+    "provozovatel": "AUTOCENTRUM LITVÍNOV, s.r.o.",
+    "street": "Mlýnská 272",
+    "town": "Litvínov",
+    "zip": "43542"
+  },
+  {
+    "id": "550815",
+    "provozovatel": "KHK AUTOMAX s.r.o.",
+    "street": "Československé armády 1290",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "550816",
+    "provozovatel": "Jan Macháček",
+    "street": "Čepirožská 57",
+    "town": "Most, Čepirohy",
+    "zip": "43401"
+  },
+  {
+    "id": "550817",
+    "provozovatel": "AUTODIAG MOST s.r.o.",
+    "street": "Zahradní 3332",
+    "town": "Most",
+    "zip": "43401"
+  },
+  {
+    "id": "550906",
+    "provozovatel": "MESNADA SERVICE s.r.o.",
+    "street": "Proboštovská 537",
+    "town": "Proboštov",
+    "zip": "41712"
+  },
+  {
+    "id": "551001",
+    "provozovatel": "Dopravní podnik města Ústí nad Labem a.s.",
+    "street": "JATEČNÍ 426",
+    "town": "Ústí nad Labem",
+    "zip": "40019"
+  },
+  {
+    "id": "551005",
+    "provozovatel": "Scania Czech Republic s.r.o.",
+    "street": "Žižkova 294",
+    "town": "Ústí nad Labem",
+    "zip": "40001"
+  },
+  {
+    "id": "560106",
+    "provozovatel": "Eva Musilová",
+    "street": "Kožlí 100",
+    "town": "Kožlí",
+    "zip": "58293"
+  },
+  {
+    "id": "560201",
+    "provozovatel": "Dopravní podnik města Hradce Králové, a.s.",
+    "street": "Pouchovská 153/52",
+    "town": "Hradec Králové",
+    "zip": "50003"
+  },
+  {
+    "id": "560205",
+    "provozovatel": "GASAUTO s.r.o.",
+    "street": "Říční 413/4",
+    "town": "Hradec Králové",
+    "zip": "50002"
+  },
+  {
+    "id": "560302",
+    "provozovatel": "Autoservis N & N s.r.o.",
+    "street": "Krouna 124",
+    "town": "Krouna",
+    "zip": "53943"
+  },
+  {
+    "id": "560306",
+    "provozovatel": "AUFHAM s.r.o.",
+    "street": "Na Ostrově 177",
+    "town": "Chrudim",
+    "zip": "53701"
+  },
+  {
+    "id": "560307",
+    "provozovatel": "STK Vincenci s.r.o.",
+    "street": "Vítězslava Nováka 621",
+    "town": "Skuteč",
+    "zip": "53973"
+  },
+  {
+    "id": "560401",
+    "provozovatel": "AGRO SLATINY a.s.",
+    "street": "Průmyslová 1256",
+    "town": "Jičín",
+    "zip": "50601"
+  },
+  {
+    "id": "560404",
+    "provozovatel": "Lužanská zemědělská a.s.",
+    "street": "Úlibice",
+    "town": "Úlibice",
+    "zip": "50707"
+  },
+  {
+    "id": "560406",
+    "provozovatel": "All Cars Nová Paka s.r.o.",
+    "street": "Kumburský Újezd 90",
+    "town": "Nová Paka",
+    "zip": "50901"
+  },
+  {
+    "id": "560501",
+    "provozovatel": "Obchodní družstvo Impro",
+    "street": "Končiny 111",
+    "town": "Zábrodí",
+    "zip": "54941"
+  },
+  {
+    "id": "560505",
+    "provozovatel": "STANICE MĚŘENÍ EMISÍ KUTÍK, s.r.o.",
+    "street": "Jetřichov 227",
+    "town": "Jetřichov",
+    "zip": "54983"
+  },
+  {
+    "id": "560606",
+    "provozovatel": "Dopravní podnik města Pardubic a.s.",
+    "street": "Teplého 2141",
+    "town": "Pardubice",
+    "zip": "53020"
+  },
+  {
+    "id": "560612",
+    "provozovatel": "Zdeněk Dědič",
+    "street": "Brozany 124",
+    "town": "Staré Hradiště",
+    "zip": "53352"
+  },
+  {
+    "id": "560613",
+    "provozovatel": "Libuše Mrázková",
+    "street": "Hradištská 551",
+    "town": "Pardubice",
+    "zip": "53351"
+  },
+  {
+    "id": "560615",
+    "provozovatel": "Tomáš Doležal",
+    "street": "Doubravice 2",
+    "town": "Pardubice",
+    "zip": "53353"
+  },
+  {
+    "id": "560616",
+    "provozovatel": "Autocheck s.r.o.",
+    "street": "Fáblovka 404",
+    "town": "Pardubice",
+    "zip": "53352"
+  },
+  {
+    "id": "560617",
+    "provozovatel": "Aleš Matoušek",
+    "street": "Husova 57",
+    "town": "Holice",
+    "zip": "53401"
+  },
+  {
+    "id": "560701",
+    "provozovatel": "Petr Florian",
+    "street": "Ekologická 348",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "560702",
+    "provozovatel": "FAMA - STK, s.r.o.",
+    "street": "Ekologická 348",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "560703",
+    "provozovatel": "P R E S T O, spol. s r.o.",
+    "street": "Soukenická 242",
+    "town": "Rychnov nad Kněžnou",
+    "zip": "51601"
+  },
+  {
+    "id": "560803",
+    "provozovatel": "Vladimír Belda",
+    "street": "Jablonec nad Jizerou 800",
+    "town": "Jablonec nad Jizerou",
+    "zip": "51243"
+  },
+  {
+    "id": "560807",
+    "provozovatel": "HAŠEK s.r.o.",
+    "street": "Bělá 92",
+    "town": "Mírová pod Kozákovem",
+    "zip": "51101"
+  },
+  {
+    "id": "560809",
+    "provozovatel": "Petr Havrda",
+    "street": "Žlábek 24",
+    "town": "Tatobity",
+    "zip": "51263"
+  },
+  {
+    "id": "560810",
+    "provozovatel": "KONTAKT - služby motoristům, spol. s r.o.",
+    "street": "Svobodova 2050",
+    "town": "Turnov",
+    "zip": "51101"
+  },
+  {
+    "id": "560902",
+    "provozovatel": "Zemědělské družstvo Dolní Újezd",
+    "street": "Dolní Újezd 471",
+    "town": "Dolní Újezd",
+    "zip": "56961"
+  },
+  {
+    "id": "560904",
+    "provozovatel": "ERGO, společnost s ručením omezeným",
+    "street": "Trnavská 50",
+    "town": "Chornice",
+    "zip": "56942"
+  },
+  {
+    "id": "560906",
+    "provozovatel": "Josef Elisek",
+    "street": "Nové sady 17",
+    "town": "Moravská Třebová",
+    "zip": "57101"
+  },
+  {
+    "id": "560910",
+    "provozovatel": "BON-CAR Svitavy, s.r.o.",
+    "street": "U Tří mostů 847/7",
+    "town": "Svitavy-Lány",
+    "zip": "56802"
+  },
+  {
+    "id": "561008",
+    "provozovatel": "Centrum služeb pro silniční dopravu",
+    "street": "Mladobucká 483",
+    "town": "Trutnov",
+    "zip": "54102"
+  },
+  {
+    "id": "561012",
+    "provozovatel": "KAD,spol. s r.o. Krkonošská automobilová doprava V",
+    "street": "Vápenická 475",
+    "town": "Vrchlabí",
+    "zip": "54341"
+  },
+  {
+    "id": "561013",
+    "provozovatel": "BOS auto s.r.o.",
+    "street": "Na Besedě 147",
+    "town": "Trutnov",
+    "zip": "54101"
+  },
+  {
+    "id": "561102",
+    "provozovatel": "Milan Doleček",
+    "street": "Lukavice 326",
+    "town": "Lukavice",
+    "zip": "56151"
+  },
+  {
+    "id": "561108",
+    "provozovatel": "Ing. Karel Maňas",
+    "street": "Orlice 282",
+    "town": "Letohrad",
+    "zip": "56151"
+  },
+  {
+    "id": "570102",
+    "provozovatel": "TEZAS servis a.s.",
+    "street": "Mánesova 1",
+    "town": "Boskovice",
+    "zip": "68012"
+  },
+  {
+    "id": "570103",
+    "provozovatel": "MJM agro, a. s.",
+    "street": "č. 169",
+    "town": "Skalice nad Svitavou",
+    "zip": "67901"
+  },
+  {
+    "id": "570201",
+    "provozovatel": "Antonín Kaňa",
+    "street": "Kulkova 946/30",
+    "town": "Brno",
+    "zip": "61400"
+  },
+  {
+    "id": "570205",
+    "provozovatel": "Dopravní podnik města Brna, a.s.",
+    "street": "Hviezdoslavova 1a",
+    "town": "Brno",
+    "zip": "62700"
+  },
+  {
+    "id": "570206",
+    "provozovatel": "Truck - servis Brno s.r.o.",
+    "street": "Hájecká 14",
+    "town": "Brno",
+    "zip": "61800"
+  },
+  {
+    "id": "570210",
+    "provozovatel": "CARent, a.s.",
+    "street": "Bělohorská 4317/46",
+    "town": "Brno",
+    "zip": "63600"
+  },
+  {
+    "id": "570213",
+    "provozovatel": "AM servis plus, a.s.",
+    "street": "Kulkova 4263/2a",
+    "town": "Brno",
+    "zip": "61500"
+  },
+  {
+    "id": "570215",
+    "provozovatel": "AZ SERVIS, a.s.",
+    "street": "Kulkova 946/30",
+    "town": "Brno",
+    "zip": "61400"
+  },
+  {
+    "id": "570216",
+    "provozovatel": "Svatopluk Čerlík",
+    "street": "Útěchovská 224/1",
+    "town": "Brno",
+    "zip": "64400"
+  },
+  {
+    "id": "570220",
+    "provozovatel": "TRESIME s.r.o.",
+    "street": "Řípská 1310/11e",
+    "town": "Brno",
+    "zip": "62700"
+  },
+  {
+    "id": "570224",
+    "provozovatel": "THERMOSERVIS - TRANSPORT s.r.o.",
+    "street": "Roviny 825/4",
+    "town": "Brno",
+    "zip": "64300"
+  },
+  {
+    "id": "570225",
+    "provozovatel": "Auto Pokorný motors s.r.o.",
+    "street": "Maříkova 564/46",
+    "town": "Brno",
+    "zip": "62100"
+  },
+  {
+    "id": "570226",
+    "provozovatel": "SME Líšeň s.r.o.",
+    "street": "Trnkova144a/2785",
+    "town": "Brno",
+    "zip": "62800"
+  },
+  {
+    "id": "570227",
+    "provozovatel": "Roman Lafant",
+    "street": "Dlážděná 1013/22",
+    "town": "Brno",
+    "zip": "64100"
+  },
+  {
+    "id": "570228",
+    "provozovatel": "EMISE Olomoucká s.r.o.",
+    "street": "Olomoucká 1292/17a",
+    "town": "Brno",
+    "zip": "61800"
+  },
+  {
+    "id": "570229",
+    "provozovatel": "TRESIME s.r.o.",
+    "street": "Řípská 1525/11g",
+    "town": "Brno",
+    "zip": "62700"
+  },
+  {
+    "id": "570230",
+    "provozovatel": "STK Klvač, s.r.o.",
+    "street": "Jahodová 526/64",
+    "town": "Brno",
+    "zip": "62000"
+  },
+  {
+    "id": "570304",
+    "provozovatel": "ČSAD Tišnov, spol. s r.o.",
+    "street": "Červený mlýn 1538",
+    "town": "Tišnov",
+    "zip": "66601"
+  },
+  {
+    "id": "570306",
+    "provozovatel": "Jan Hlavoň",
+    "street": "Křiby 346",
+    "town": "Tetčice",
+    "zip": "66417"
+  },
+  {
+    "id": "570308",
+    "provozovatel": "Josef Michl Motorsport",
+    "street": "Tyršova 7a",
+    "town": "Kuřim",
+    "zip": "66434"
+  },
+  {
+    "id": "570316",
+    "provozovatel": "TRUCK TRADE spol. s r. o.",
+    "street": "Evropská 677",
+    "town": "Modřice",
+    "zip": "66442"
+  },
+  {
+    "id": "570318",
+    "provozovatel": "PTH GROUP s.r.o.",
+    "street": "areál mechanizačního střediska",
+    "town": "Přísnotice",
+    "zip": "66463"
+  },
+  {
+    "id": "570320",
+    "provozovatel": "DAJAN spol. s r.o.",
+    "street": "Palackého 379",
+    "town": "Tetčice",
+    "zip": "66417"
+  },
+  {
+    "id": "570321",
+    "provozovatel": "STK Jiříkovice, s.r.o.",
+    "street": "Rohlenka 250",
+    "town": "Jiříkovice",
+    "zip": "66451"
+  },
+  {
+    "id": "570322",
+    "provozovatel": "BĚLOHRADSKÝ spol. s r.o.",
+    "street": "Brněnská 1242",
+    "town": "Rosice",
+    "zip": "66501"
+  },
+  {
+    "id": "570323",
+    "provozovatel": "SME Kuřim s.r.o.",
+    "street": "Tišnovská 1968/33",
+    "town": "Kuřim",
+    "zip": "66434"
+  },
+  {
+    "id": "570324",
+    "provozovatel": "Ing. Karel Maňas",
+    "street": "Areál spol. HERBASTAR s.r.o. Tišnovská 305",
+    "town": "Kuřim",
+    "zip": "66434"
+  },
+  {
+    "id": "570325",
+    "provozovatel": "AUTO SANTON s.r.o.",
+    "street": "Rohlenka 251",
+    "town": "Jiříkovice",
+    "zip": "66451"
+  },
+  {
+    "id": "570326",
+    "provozovatel": "AGRO SERVIS CZ, spol. s r.o.",
+    "street": "U Sýpky 1",
+    "town": "Rajhradice",
+    "zip": "66461"
+  },
+  {
+    "id": "570327",
+    "provozovatel": "PMA autoservis s.r.o.",
+    "street": "Rosická 224",
+    "town": "Říčany",
+    "zip": "66482"
+  },
+  {
+    "id": "570328",
+    "provozovatel": "OTTAN, s.r.o.",
+    "street": "Nádražní 25",
+    "town": "Oslavany",
+    "zip": "66412"
+  },
+  {
+    "id": "570401",
+    "provozovatel": "AGROSERVIS, spol. s r.o.",
+    "street": "Podivínská 1236",
+    "town": "Velké Bílovice",
+    "zip": "69102"
+  },
+  {
+    "id": "570402",
+    "provozovatel": "AGROTEC a.s.",
+    "street": "Brněnská 74",
+    "town": "Hustopeče",
+    "zip": "69301"
+  },
+  {
+    "id": "570403",
+    "provozovatel": "BORS BUS s.r.o.",
+    "street": "Bratislavská 9",
+    "town": "Hustopeče",
+    "zip": "69301"
+  },
+  {
+    "id": "570411",
+    "provozovatel": "RO-MA cz s.r.o.",
+    "street": "Jiráskova 13",
+    "town": "Mikulov",
+    "zip": "69201"
+  },
+  {
+    "id": "570412",
+    "provozovatel": "MIRDA CARS s.r.o.",
+    "street": "Hraniční 732/189",
+    "town": "Břeclav",
+    "zip": "69141"
+  },
+  {
+    "id": "570414",
+    "provozovatel": "Karel Zástěra",
+    "street": "Hraniční, parcelní číslo 1243",
+    "town": "Břeclav",
+    "zip": "69141"
+  },
+  {
+    "id": "570415",
+    "provozovatel": "MIRDA CARS s.r.o.",
+    "street": "Sovadinova 8",
+    "town": "Břeclav",
+    "zip": "69002"
+  },
+  {
+    "id": "570416",
+    "provozovatel": "STK-SME Břeclav s.r.o.",
+    "street": "Lidická 3",
+    "town": "Břeclav",
+    "zip": "69002"
+  },
+  {
+    "id": "570503",
+    "provozovatel": "Z-Group a.s.",
+    "street": "třída Tomáše Bati 258",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "570504",
+    "provozovatel": "PODHORAN LUKOV a.s.",
+    "street": "Pod Kaštany 499",
+    "town": "Zlín",
+    "zip": "76317"
+  },
+  {
+    "id": "570505",
+    "provozovatel": "PENTO, s.r.o.",
+    "street": "Šternberská 300",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "570509",
+    "provozovatel": "Střední odborné učiliště Valašské Klobouky",
+    "street": "Brumovská 456",
+    "town": "Valašské Klobouky",
+    "zip": "76601"
+  },
+  {
+    "id": "570510",
+    "provozovatel": "AUTOKOM, spol. s r.o.",
+    "street": "Tečovice 362",
+    "town": "Tečovice",
+    "zip": "76302"
+  },
+  {
+    "id": "570517",
+    "provozovatel": "SAMOHÝL MB a.s.",
+    "street": "Kvítkovická 583",
+    "town": "Napajedla",
+    "zip": "76361"
+  },
+  {
+    "id": "570518",
+    "provozovatel": "T-MOTOR Zlín s.r.o.",
+    "street": "Louky 431",
+    "town": "Zlín",
+    "zip": "76302"
+  },
+  {
+    "id": "570519",
+    "provozovatel": "AUTOPLYN - CENTRUM spol. s r.o.",
+    "street": "Papírenská",
+    "town": "Želechovice nad Dřevnicí",
+    "zip": "76311"
+  },
+  {
+    "id": "570521",
+    "provozovatel": "STK CENTRUM VIZOVICE, s.r.o.",
+    "street": "Zlínská 1160",
+    "town": "Vizovice",
+    "zip": "76312"
+  },
+  {
+    "id": "570522",
+    "provozovatel": "GLASS CAR,s.r.o.",
+    "street": "Výpusta 615",
+    "town": "Želechovice nad Dřevnicí",
+    "zip": "76311"
+  },
+  {
+    "id": "570523",
+    "provozovatel": "NOVAAGROTIS s.r.o.",
+    "street": "Holešovská 454",
+    "town": "Fryšták",
+    "zip": "76316"
+  },
+  {
+    "id": "570601",
+    "provozovatel": "ČSAD Kyjov Servisní a.s.",
+    "street": "Boršovská",
+    "town": "Kyjov",
+    "zip": "69734"
+  },
+  {
+    "id": "570602",
+    "provozovatel": "ČSAD Hodonín a.s.",
+    "street": "Brněnská 3883/48",
+    "town": "Hodonín",
+    "zip": "69501"
+  },
+  {
+    "id": "570604",
+    "provozovatel": "Jaroslav Laga",
+    "street": "Mlýnská 717",
+    "town": "Kyjov",
+    "zip": "69647"
+  },
+  {
+    "id": "570612",
+    "provozovatel": "Miroslav Cupal",
+    "street": "Statek-suška, parc. č. 2310/5",
+    "town": "Mutěnice",
+    "zip": "69611"
+  },
+  {
+    "id": "570613",
+    "provozovatel": "Karel Němeček",
+    "street": "tř. Masarykova 1664",
+    "town": "Veselí nad Moravou",
+    "zip": "69801"
+  },
+  {
+    "id": "570701",
+    "provozovatel": "AUTOCENTRUM HALE společnost s ručením omezeným",
+    "street": "Dělnická 15",
+    "town": "Praha",
+    "zip": "17000"
+  },
+  {
+    "id": "570703",
+    "provozovatel": "E & T Jihlava s.r.o.",
+    "street": "Jiráskova 1424/78",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "570704",
+    "provozovatel": "DOPRAVNÍ PODNIK MĚSTA JIHLAVY,  a.s.",
+    "street": "Brtnická 1002/23",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "570709",
+    "provozovatel": "AUTOHOS - STK s.r.o.",
+    "street": "Žižkova 5428/120",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "570710",
+    "provozovatel": "Tereza Vrbická",
+    "street": "Mostecká 5379/41",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "570711",
+    "provozovatel": "AUTOCONTROL, spol. s r.o.",
+    "street": "Dlouhá Brtnice 46",
+    "town": "Dlouhá Brtnice",
+    "zip": "58834"
+  },
+  {
+    "id": "570712",
+    "provozovatel": "STK Jihlava a.s.",
+    "street": "Znojemská 2380/82",
+    "town": "Jihlava",
+    "zip": "58601"
+  },
+  {
+    "id": "570803",
+    "provozovatel": "Prima, komanditní společnost",
+    "street": "Velehradská 4260",
+    "town": "Kroměříž",
+    "zip": "76701"
+  },
+  {
+    "id": "570901",
+    "provozovatel": "FTL - First Transport Lines, a.s.",
+    "street": "Letecká 8",
+    "town": "Prostějov",
+    "zip": "79623"
+  },
+  {
+    "id": "570902",
+    "provozovatel": "STK nákladních vozidel Olomouc, s.r.o.",
+    "street": "Za Olomouckou 4421",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "570908",
+    "provozovatel": "EMISE ERVA s.r.o.",
+    "street": "Plumlovská 456/32",
+    "town": "Prostějov",
+    "zip": "79601"
+  },
+  {
+    "id": "571006",
+    "provozovatel": "STK Automoto Třebíč s.r.o.",
+    "street": "Na Nivkách 305",
+    "town": "Třebíč",
+    "zip": "67401"
+  },
+  {
+    "id": "571007",
+    "provozovatel": "Autoopravna Žák a synové s.r.o.",
+    "street": "Dolní Vilémovice 154",
+    "town": "Dolní Vilémovice",
+    "zip": "67552"
+  },
+  {
+    "id": "571008",
+    "provozovatel": "TZ Auto, s.r.o.",
+    "street": "Jihlavská 595",
+    "town": "Okříšky",
+    "zip": "67521"
+  },
+  {
+    "id": "571009",
+    "provozovatel": "TZ Auto, s.r.o.",
+    "street": "Jihlavská 631",
+    "town": "Okříšky",
+    "zip": "67521"
+  },
+  {
+    "id": "571104",
+    "provozovatel": "ČSAD Uherské Hradiště a.s.",
+    "street": "Třída Maršála Malinovského 874",
+    "town": "Uherské Hradiště",
+    "zip": "68601"
+  },
+  {
+    "id": "571105",
+    "provozovatel": "ČSAD Uherské Hradiště a.s.",
+    "street": "Šumická 2517",
+    "town": "Uherský Brod",
+    "zip": "68801"
+  },
+  {
+    "id": "571107",
+    "provozovatel": "Aleš Basovník",
+    "street": "Luční  1824",
+    "town": "Staré Město",
+    "zip": "68603"
+  },
+  {
+    "id": "571109",
+    "provozovatel": "DEKRA CZ a.s.",
+    "street": "náměstí Svobody 1597",
+    "town": "Kunovice",
+    "zip": "68604"
+  },
+  {
+    "id": "571110",
+    "provozovatel": "Ing. Antonín Guriča",
+    "street": "Průmyslová 1141",
+    "town": "Uherské Hradiště",
+    "zip": "68601"
+  },
+  {
+    "id": "571111",
+    "provozovatel": "BOHEMIA transport cz s.r.o.",
+    "street": "Topolná 466",
+    "town": "Topolná",
+    "zip": "68711"
+  },
+  {
+    "id": "571112",
+    "provozovatel": "Tomáš Srnec",
+    "street": "Hliníky 627",
+    "town": "Hluk",
+    "zip": "68725"
+  },
+  {
+    "id": "571113",
+    "provozovatel": "Richard Válek",
+    "street": "Boršická 589",
+    "town": "Hluk",
+    "zip": "68725"
+  },
+  {
+    "id": "571114",
+    "provozovatel": "STK Uherské Hradiště s.r.o.",
+    "street": "Sokolovská 1792",
+    "town": "Uherské Hradiště",
+    "zip": "68601"
+  },
+  {
+    "id": "571115",
+    "provozovatel": "Ing. Karel Maňas",
+    "street": "413",
+    "town": "Ostrožská Lhota",
+    "zip": "68723"
+  },
+  {
+    "id": "571204",
+    "provozovatel": "Stavební konstrukce Vyškov a.s.",
+    "street": "Průmyslová591/1",
+    "town": "Vyškov",
+    "zip": "68201"
+  },
+  {
+    "id": "571205",
+    "provozovatel": "CARSME s.r.o.",
+    "street": "Krátká 596/4",
+    "town": "Vyškov",
+    "zip": "68201"
+  },
+  {
+    "id": "571206",
+    "provozovatel": "SP Opravny s.r.o.",
+    "street": "Čs. armády 1173",
+    "town": "Slavkov u Brna",
+    "zip": "68401"
+  },
+  {
+    "id": "571207",
+    "provozovatel": "David Ziegler",
+    "street": "Heršpice 300",
+    "town": "Heršpice",
+    "zip": "68401"
+  },
+  {
+    "id": "571302",
+    "provozovatel": "AUTOrun s.r.o.",
+    "street": "Okružní 399",
+    "town": "Moravský Krumlov",
+    "zip": "67201"
+  },
+  {
+    "id": "571305",
+    "provozovatel": "Dušan Matuška",
+    "street": "Hrádek ev.č. 221",
+    "town": "Hrádek",
+    "zip": "67127"
+  },
+  {
+    "id": "571308",
+    "provozovatel": "NTC, s.r.o.",
+    "street": "Bantice 72",
+    "town": "Bantice",
+    "zip": "67161"
+  },
+  {
+    "id": "571311",
+    "provozovatel": "P.P.L. AUTOCENTRUM s.r.o.",
+    "street": "Dobšická 3697/6",
+    "town": "Znojmo",
+    "zip": "66902"
+  },
+  {
+    "id": "571312",
+    "provozovatel": "Jindřich Hájek",
+    "street": "Brněnská 326",
+    "town": "Dobšice",
+    "zip": "67182"
+  },
+  {
+    "id": "571313",
+    "provozovatel": "STK Znojmo, s.r.o.",
+    "street": "Družstevní 3894/28",
+    "town": "Znojmo",
+    "zip": "66902"
+  },
+  {
+    "id": "571314",
+    "provozovatel": "STK 4 you s.r.o.",
+    "street": "Brněnská 339",
+    "town": "Dobšice",
+    "zip": "67182"
+  },
+  {
+    "id": "571318",
+    "provozovatel": "STK 4 you s.r.o.",
+    "street": "Dobšická 3697/6",
+    "town": "Znojmo",
+    "zip": "66902"
+  },
+  {
+    "id": "571319",
+    "provozovatel": "STK-SME Hrušovany s.r.o.",
+    "street": "Nádražní 389",
+    "town": "Hrušovany nad Jevišovkou",
+    "zip": "67167"
+  },
+  {
+    "id": "571402",
+    "provozovatel": "ZDAR, a.s.",
+    "street": "Jihlavská 759/4",
+    "town": "Žďár nad Sázavou",
+    "zip": "59101"
+  },
+  {
+    "id": "571404",
+    "provozovatel": "AUTOIMPEX spol. s r.o.",
+    "street": "Kpt. Jaroše",
+    "town": "Velká Bíteš",
+    "zip": "59501"
+  },
+  {
+    "id": "571408",
+    "provozovatel": "AGRO - Měřín, a.s.",
+    "street": "Zarybník 516",
+    "town": "Žďár nad Sázavou",
+    "zip": "59442"
+  },
+  {
+    "id": "571409",
+    "provozovatel": "VK TRAKTOR s.r.o.",
+    "street": "Horní Radslavice",
+    "town": "Horní Radslavice",
+    "zip": "59401"
+  },
+  {
+    "id": "571412",
+    "provozovatel": "Miroslav Uhlíř",
+    "street": "Strážek 172",
+    "town": "Strážek",
+    "zip": "59253"
+  },
+  {
+    "id": "571413",
+    "provozovatel": "ZTK - AGRO s.r.o.",
+    "street": "Osová Bitýška č. 314",
+    "town": "Osová Bítýška",
+    "zip": "59453"
+  },
+  {
+    "id": "580107",
+    "provozovatel": "STK START CENTRUM BRUNTÁL s.r.o.",
+    "street": "Opavská 1436/10",
+    "town": "Bruntál",
+    "zip": "79201"
+  },
+  {
+    "id": "580201",
+    "provozovatel": "Transdev Slezsko a.s.",
+    "street": "Ostravská 264",
+    "town": "Sviadnov",
+    "zip": "73925"
+  },
+  {
+    "id": "580205",
+    "provozovatel": "Karel Baron",
+    "street": "Oldřichovice 975",
+    "town": "Třinec",
+    "zip": "73961"
+  },
+  {
+    "id": "580212",
+    "provozovatel": "AUTO SKOPEK, s.r.o.",
+    "street": "Pod Šodkem 1618",
+    "town": "Šenov",
+    "zip": "73934"
+  },
+  {
+    "id": "580214",
+    "provozovatel": "S.B.J. Motocentrum spol. s r.o.",
+    "street": "Návsí 935",
+    "town": "Návsí",
+    "zip": "73992"
+  },
+  {
+    "id": "580218",
+    "provozovatel": "Petr Meca",
+    "street": "Skalice 439",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "580219",
+    "provozovatel": "Lesostavby Frýdek-Místek a. s.",
+    "street": "Slezská 2766",
+    "town": "Frýdek-Místek",
+    "zip": "73801"
+  },
+  {
+    "id": "580220",
+    "provozovatel": "PAVLAS TRUST s.r.o.",
+    "street": "Vodárenská",
+    "town": "Frýdek-Místek",
+    "zip": "73942"
+  },
+  {
+    "id": "580301",
+    "provozovatel": "Transdev Slezsko a.s.",
+    "street": "Bohumínská 1876/2",
+    "town": "Karviná",
+    "zip": "73506"
+  },
+  {
+    "id": "580306",
+    "provozovatel": "E M I G A ,   spol. s r. o.",
+    "street": "9. května 85",
+    "town": "Bohumín",
+    "zip": "73581"
+  },
+  {
+    "id": "580309",
+    "provozovatel": "TKLAS Karviná s.r.o.",
+    "street": "Bohumínská 1876/2",
+    "town": "Karviná",
+    "zip": "73506"
+  },
+  {
+    "id": "580311",
+    "provozovatel": "Auto Tichý s.r.o.",
+    "street": "Dělnická101",
+    "town": "Horní Suchá",
+    "zip": "73564"
+  },
+  {
+    "id": "580312",
+    "provozovatel": "TKLAS Karviná s.r.o.",
+    "street": "Za Splavem 884/2",
+    "town": "Karviná",
+    "zip": "73401"
+  },
+  {
+    "id": "580313",
+    "provozovatel": "Josef Matajsz",
+    "street": "č.p. 124",
+    "town": "Rychvald",
+    "zip": "73532"
+  },
+  {
+    "id": "580402",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Dělnická 831",
+    "town": "Kopřivnice",
+    "zip": "74221"
+  },
+  {
+    "id": "580405",
+    "provozovatel": "Dušan Hopp Auto Díly Servis s.r.o.",
+    "street": "Malé náměstí 2278/2",
+    "town": "Nový Jičín",
+    "zip": "74101"
+  },
+  {
+    "id": "580407",
+    "provozovatel": "PTN - VESTRA, s.r.o.",
+    "street": "Sedlnice 530",
+    "town": "Sedlnice",
+    "zip": "74256"
+  },
+  {
+    "id": "580504",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Sladkovského 41",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "580505",
+    "provozovatel": "Dopravní podnik města Olomouce, a.s.",
+    "street": "Dolní Hejčínská 30",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "580508",
+    "provozovatel": "STK nákladních vozidel Olomouc, s.r.o.",
+    "street": "Hamerská 883/58a",
+    "town": "Olomouc, Holice",
+    "zip": "77900"
+  },
+  {
+    "id": "580511",
+    "provozovatel": "Zemědělské družstvo Senice na Hané",
+    "street": "Třebčín 213",
+    "town": "Lutín",
+    "zip": "78342"
+  },
+  {
+    "id": "580518",
+    "provozovatel": "J&J Kreuzberg spol. s r.o.",
+    "street": "Příčná 1269/11",
+    "town": "Litovel",
+    "zip": "78401"
+  },
+  {
+    "id": "580519",
+    "provozovatel": "Adam Stloukal",
+    "street": "Pila 681",
+    "town": "Bohuňovice",
+    "zip": "78314"
+  },
+  {
+    "id": "580520",
+    "provozovatel": "ARCOS, s.r.o.",
+    "street": "Rybníček 487",
+    "town": "Újezd",
+    "zip": "78396"
+  },
+  {
+    "id": "580521",
+    "provozovatel": "TP-SMEOL s.r.o.",
+    "street": "Studentská 947/5",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "580522",
+    "provozovatel": "Jiří Klanica",
+    "street": "Hněvotínská 1187/60a",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "580523",
+    "provozovatel": "ČECHÁK holding s.r.o.",
+    "street": "Hodolanská 36/38",
+    "town": "Olomouc",
+    "zip": "77900"
+  },
+  {
+    "id": "580601",
+    "provozovatel": "OP KONTROL spol. s r.o.",
+    "street": "Těšínská 2868/37A",
+    "town": "Opava",
+    "zip": "74601"
+  },
+  {
+    "id": "580605",
+    "provozovatel": "AUTOMOTOLAND CZ s.r.o.",
+    "street": "Cihelní",
+    "town": "Hlučín",
+    "zip": "74801"
+  },
+  {
+    "id": "580606",
+    "provozovatel": "Miroslav Schlossarek",
+    "street": "Na Záhumení 215",
+    "town": "Pustá Polom",
+    "zip": "74769"
+  },
+  {
+    "id": "580607",
+    "provozovatel": "Autogas Opava s. r. o.",
+    "street": "Krnovská 691/169",
+    "town": "Opava",
+    "zip": "74707"
+  },
+  {
+    "id": "580609",
+    "provozovatel": "Car and Truck s.r.o.",
+    "street": "Hlavní 1342/2c",
+    "town": "Opava 6",
+    "zip": "74706"
+  },
+  {
+    "id": "580610",
+    "provozovatel": "ADIV, spol. s r.o.",
+    "street": "Těšínská 3007/91",
+    "town": "Opava",
+    "zip": "74601"
+  },
+  {
+    "id": "580702",
+    "provozovatel": "Dopravní podnik Ostrava a.s.",
+    "street": "Slavíkova 6229/72A",
+    "town": "Ostrava",
+    "zip": "70800"
+  },
+  {
+    "id": "580705",
+    "provozovatel": "Ostravské komunikace, a.s.",
+    "street": "Novoveská 25/1266",
+    "town": "Ostrava",
+    "zip": "70900"
+  },
+  {
+    "id": "580713",
+    "provozovatel": "Dopravní podnik Ostrava a.s.",
+    "street": "Počáteční 1962/36",
+    "town": "Ostrava",
+    "zip": "71000"
+  },
+  {
+    "id": "580717",
+    "provozovatel": "Auto Tichý s.r.o.",
+    "street": "Rudná 1124/32",
+    "town": "Ostrava",
+    "zip": "70300"
+  },
+  {
+    "id": "580719",
+    "provozovatel": "RT TORAX, s. r. o.",
+    "street": "Rudná 2378/100",
+    "town": "Ostrava",
+    "zip": "70030"
+  },
+  {
+    "id": "580723",
+    "provozovatel": "CN SERVIS, spol. s r.o.",
+    "street": "Kosmova 1126/17",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "580724",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Vítkovická 3257/7",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "580727",
+    "provozovatel": "EMISE Sagita, s.r.o.",
+    "street": "Špálova 1095/11",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "580728",
+    "provozovatel": "KMH servis s.r.o.",
+    "street": "Václavovická 1566",
+    "town": "Šenov",
+    "zip": "73934"
+  },
+  {
+    "id": "580729",
+    "provozovatel": "Petr Fojtík",
+    "street": "Krmelínská 22",
+    "town": "Ostrava",
+    "zip": "72000"
+  },
+  {
+    "id": "580730",
+    "provozovatel": "Zdeněk Valenta",
+    "street": "Novinářská 3088",
+    "town": "Ostrava",
+    "zip": "70200"
+  },
+  {
+    "id": "580802",
+    "provozovatel": "KDH AUTO MORAVA s.r.o.",
+    "street": "9. května 92",
+    "town": "Přerov",
+    "zip": "75002"
+  },
+  {
+    "id": "580803",
+    "provozovatel": "ADR Logistik s.r.o.",
+    "street": "Tovární 605",
+    "town": "Hranice",
+    "zip": "75301"
+  },
+  {
+    "id": "580806",
+    "provozovatel": "Miroslav Polách",
+    "street": "Palackého 1400",
+    "town": "Kojetín",
+    "zip": "75002"
+  },
+  {
+    "id": "580809",
+    "provozovatel": "Pavel Soldán",
+    "street": "Teličkova 430/40",
+    "town": "Přerov II-Předmostí",
+    "zip": "75124"
+  },
+  {
+    "id": "580810",
+    "provozovatel": "Jiří Hasilík",
+    "street": "Hlavní 91",
+    "town": "Opatovice",
+    "zip": "75356"
+  },
+  {
+    "id": "580811",
+    "provozovatel": "JANKŮ SERVIS s.r.o.",
+    "street": "Revoluční 529/32",
+    "town": "Horní Moštěnice",
+    "zip": "75117"
+  },
+  {
+    "id": "580812",
+    "provozovatel": "Dušan Vika",
+    "street": "Nová 1454",
+    "town": "Hranice",
+    "zip": "75301"
+  },
+  {
+    "id": "580903",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Žerotínova 63",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "580904",
+    "provozovatel": "AGREGA, a.s.",
+    "street": "Polní 46",
+    "town": "Bludov",
+    "zip": "78961"
+  },
+  {
+    "id": "580911",
+    "provozovatel": "FORTEX - AGS, a.s.",
+    "street": "Jílová 1550/1",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "580912",
+    "provozovatel": "MOTORSERVIS Švec, s.r.o.",
+    "street": "Temenická 2244/98",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "580913",
+    "provozovatel": "EXPRES COMMERCIO s.r.o.",
+    "street": "Jesenická 3071/1d",
+    "town": "Šumperk",
+    "zip": "78701"
+  },
+  {
+    "id": "580914",
+    "provozovatel": "Autocentrum Zábřeh, s.r.o.",
+    "street": "Lesnická 2179/2a",
+    "town": "Zábřeh",
+    "zip": "78901"
+  },
+  {
+    "id": "580915",
+    "provozovatel": "Czech Truck Servis s.r.o.",
+    "street": "Leštinská 975",
+    "town": "Zábřeh",
+    "zip": "78901"
+  },
+  {
+    "id": "581101",
+    "provozovatel": "KAR-mobil s.r.o.",
+    "street": "Bezručova 1326/6",
+    "town": "Jeseník",
+    "zip": "79001"
+  }
+]

@@ -1,0 +1,14 @@
+{
+	"name": "kontrolatachometru-plus",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "node scripts/build.mjs",
+		"watch": "node scripts/build.mjs --watch",
+		"typecheck": "tsc -p tsconfig.json --noEmit"
+	},
+	"devDependencies": {
+		"esbuild": "^0.20.2",
+		"typescript": "^5.4.5"
+	}
+}
